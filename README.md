@@ -1,4 +1,4 @@
-# Project: Tự động trích xuất công việc từ biên bản cuộc họp dự án phần mềm
+# Đề tài: Tự động trích xuất công việc từ biên bản cuộc họp dự án phần mềm
 
 ## Giới thiệu
 
@@ -46,21 +46,25 @@ Sau khi cài đặt, có thể:
 
 ```
 root/
-├── intentclassification/
+├── intent_classification/
 │   └── intent_classification_module.py      # Module Intent Classification
-│   └── best_model.pt                        # (Ví dụ) checkpoint Intent Classification
+│   └── best_model.pt                        # Checkpoint Intent Classification
 │   └── train.csv                            # File training intent classification
 │
 ├── ner/
-│   └── ner_module.py                        #Module NER
-│   └── trained_model                        # (Ví dụ) checkpoint NER
+│   └── ner_module.py                        # Module NER
+│   └── trained_model                        # Checkpoint NER
 │   └── dataset1.txt                         # File training NER
 │
-├── main.py                       # File chính để chạy toàn bộ pipeline
+├── main.py                                  # File chính để chạy toàn bộ pipeline
 │
 │
-├── vanban/                                  #Tập các văn bản thử nghiệm
-│   └── vanban1.txt
+├── meeting-docs/                            #Tập các văn bản thử nghiệm
+│   └── meeting_001.txt
+│   └── .....  
+│── dataset/                                  
+│   └── dataset1.txt                         #dataset của ner để train
+│   └── train.csv                            #dataset của intent classification để train
 │
 └── README.md                                # File hướng dẫn này
 ```
