@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 06/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Create test and polarion metadata for ENTMQMAAS-2 | Phương | 07/09/2025 | Chưa bắt đầu
+Integrate DLQ/expiry queue in Console | Quang | 08/09/2025 | Chưa bắt đầu
+Docs: Remove references to MQTT for chuẩn địa chỉ space | Lan | 09/09/2025 | Chưa bắt đầu
+Test olm upgrade for 1 on ocp 4 and   | Minh | 10/09/2025 | Chưa bắt đầu
+Docs: Make broker behavior on rejected messages configurable | Phương | 11/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần create test and polarion metadata for entmqmaas-2 trước ngày 07/09/2025, ưu tiên cao.
+Quang cần integrate dlq/expiry queue in console trước ngày 08/09/2025, ưu tiên trung bình.
+Lan cần docs: remove references to mqtt for chuẩn địa chỉ space trước ngày 09/09/2025, ưu tiên thấp.
+Minh cần test olm upgrade for 1 on ocp 4 and   trước ngày 10/09/2025, ưu tiên cao.
+Phương cần docs: make broker behavior on rejected messages configurable trước ngày 11/09/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 06 tháng 09 năm 2025

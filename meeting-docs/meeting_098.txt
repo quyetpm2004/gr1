@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 12/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Modify documentation - use migrated jenkins url | Hoàng | 13/09/2025 | Chưa bắt đầu
+[System kiểm thử] Monitoring regression on  | Thảo | 14/09/2025 | Chưa bắt đầu
+[#5240] Park on LTS versions of broker (AMQ Broker 7) | Vân | 15/09/2025 | Chưa bắt đầu
+[#5240] Park on LTS versions of interconnect (Red Hat Interconnect 10.0) | Hải | 16/09/2025 | Chưa bắt đầu
+Add new field to support router configuration maxMessageSize | Hoàng | 17/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần modify documentation - use migrated jenkins url trước ngày 13/09/2025, ưu tiên cao.
+Thảo cần [system kiểm thử] monitoring regression on  trước ngày 14/09/2025, ưu tiên trung bình.
+Vân cần [#5240] park on lts versions of broker (amq broker 7) trước ngày 15/09/2025, ưu tiên thấp.
+Hải cần [#5240] park on lts versions of interconnect (red hat interconnect 10.0) trước ngày 16/09/2025, ưu tiên cao.
+Hoàng cần add new field to support router configuration maxmessagesize trước ngày 17/09/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 12 tháng 09 năm 2025

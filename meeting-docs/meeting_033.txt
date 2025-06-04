@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 09/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+system-kiểm thử: review of list of disabled kiểm thử from March and tạo new one for April | Hoàng | 10/07/2025 | Chưa bắt đầu
+system-kiểm thử: unclosed archives exception in Jenkins when core-dump is stored | Thảo | 11/07/2025 | Chưa bắt đầu
+system-kiểm thử: Remove nhật ký collecting for pods/statefull-sets | Vân | 12/07/2025 | Chưa bắt đầu
+system-kiểm thử: Rewrite kiểm thử to use Dependency injection | Hải | 13/07/2025 | Chưa bắt đầu
+system-kiểm thử: use multi-asserts instead of single asserts | Hoàng | 14/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần system-kiểm thử: review of list of disabled kiểm thử from march and tạo new one for april trước ngày 10/07/2025, ưu tiên cao.
+Thảo cần system-kiểm thử: unclosed archives exception in jenkins when core-dump is stored trước ngày 11/07/2025, ưu tiên trung bình.
+Vân cần system-kiểm thử: remove nhật ký collecting for pods/statefull-sets trước ngày 12/07/2025, ưu tiên thấp.
+Hải cần system-kiểm thử: rewrite kiểm thử to use dependency injection trước ngày 13/07/2025, ưu tiên cao.
+Hoàng cần system-kiểm thử: use multi-asserts instead of single asserts trước ngày 14/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 09 tháng 07 năm 2025

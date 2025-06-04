@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 16/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Authenticate /v1/địa chỉes API REST using RBAC | Sơn | 17/06/2025 | Chưa bắt đầu
+System-test: Implement Abstract client | Phúc | 18/06/2025 | Chưa bắt đầu
+System-test: Implement rhea client executor (cli-rhea) | Khoa | 19/06/2025 | Chưa bắt đầu
+System-test: Implement java client executor (cli-java) | Lâm | 20/06/2025 | Chưa bắt đầu
+System-test: Implement proton-python executor (cli-proton-python) | Sơn | 21/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần authenticate /v1/địa chỉes api rest using rbac trước ngày 17/06/2025, ưu tiên cao.
+Phúc cần system-test: implement abstract client trước ngày 18/06/2025, ưu tiên trung bình.
+Khoa cần system-test: implement rhea client executor (cli-rhea) trước ngày 19/06/2025, ưu tiên thấp.
+Lâm cần system-test: implement java client executor (cli-java) trước ngày 20/06/2025, ưu tiên cao.
+Sơn cần system-test: implement proton-python executor (cli-proton-python) trước ngày 21/06/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 16 tháng 06 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 14/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[CI] adopt new one ocp deploy instead of osia | Hoa | 15/08/2025 | Chưa bắt đầu
+[#5246] Migrate away from the deprecated automatically injected service-ca.crt | Tuấn | 16/08/2025 | Chưa bắt đầu
+Upgrade Infinispan to 11.x | Linh | 17/08/2025 | Chưa bắt đầu
+[systemtest] Remove doTest methods for client utilities | Quân | 18/08/2025 | Chưa bắt đầu
+[systemkiểm thử] fix node pot kiểm thử on AWS | Hoa | 19/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần [ci] adopt new one ocp deploy instead of osia trước ngày 15/08/2025, ưu tiên cao.
+Tuấn cần [#5246] migrate away from the deprecated automatically injected service-ca.crt trước ngày 16/08/2025, ưu tiên trung bình.
+Linh cần upgrade infinispan to 11.x trước ngày 17/08/2025, ưu tiên thấp.
+Quân cần [systemtest] remove dotest methods for client utilities trước ngày 18/08/2025, ưu tiên cao.
+Hoa cần [systemkiểm thử] fix node pot kiểm thử on aws trước ngày 19/08/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 14 tháng 08 năm 2025

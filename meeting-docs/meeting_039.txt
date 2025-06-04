@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 15/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[CI] tạo automation for provisioning disconnected ocp cluster | Hoa | 16/07/2025 | Chưa bắt đầu
+[systemkiểm thử] java external client null pointer exception | Tuấn | 17/07/2025 | Chưa bắt đầu
+[GraphQL] expose read only messaging endpoints [địa chỉ space facade] | Linh | 18/07/2025 | Chưa bắt đầu
+[GraphQL] extend tạoAddressSpace to allow endpoint configuration | Quân | 19/07/2025 | Chưa bắt đầu
+[Docs] correct loadbalance spec indentation | Hoa | 20/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần [ci] tạo automation for provisioning disconnected ocp cluster trước ngày 16/07/2025, ưu tiên cao.
+Tuấn cần [systemkiểm thử] java external client null pointer exception trước ngày 17/07/2025, ưu tiên trung bình.
+Linh cần [graphql] expose read only messaging endpoints [địa chỉ space facade] trước ngày 18/07/2025, ưu tiên thấp.
+Quân cần [graphql] extend tạoaddressspace to allow endpoint configuration trước ngày 19/07/2025, ưu tiên cao.
+Hoa cần [docs] correct loadbalance spec indentation trước ngày 20/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 15 tháng 07 năm 2025

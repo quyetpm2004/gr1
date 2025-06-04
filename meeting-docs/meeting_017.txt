@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 23/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: tạo testCreateDeleteUsersLong | Phương | 24/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: tạo testCreateDeleteAddressesWithAuthLong | Quang | 25/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: tạo testCreateDeleteAddressesViaAgentLong | Lan | 26/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: longtime: tạo new test for người dùng xác thực before/after restarting keycloak | Minh | 27/06/2025 | Chưa bắt đầu
+Unable test io.enmasse.systemtest.trung gian.clients.rhea.MsgPatternsTest.testMessageSelectorTopic | Phương | 28/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần kiểm thử hệ thống: tạo testcreatedeleteuserslong trước ngày 24/06/2025, ưu tiên cao.
+Quang cần kiểm thử hệ thống: tạo testcreatedeleteaddresseswithauthlong trước ngày 25/06/2025, ưu tiên trung bình.
+Lan cần kiểm thử hệ thống: tạo testcreatedeleteaddressesviaagentlong trước ngày 26/06/2025, ưu tiên thấp.
+Minh cần kiểm thử hệ thống: longtime: tạo new test for người dùng xác thực before/after restarting keycloak trước ngày 27/06/2025, ưu tiên cao.
+Phương cần unable test io.enmasse.systemtest.trung gian.clients.rhea.msgpatternstest.testmessageselectortopic trước ngày 28/06/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 23 tháng 06 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 03/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+system-kiểm thử: look at longtime running kiểm thử and fix them | Phương | 04/07/2025 | Chưa bắt đầu
+system-kiểm thử: rewrite to junit5 2. step (reduce inheritance of TestBases) | Quang | 05/07/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: Enable xác thực in marathon kiểm thử | Lan | 06/07/2025 | Chưa bắt đầu
+system-kiểm thử: add parametr for disable 'tear down' methods in systemkiểm thử | Minh | 07/07/2025 | Chưa bắt đầu
+system-kiểm thử: review list of February disabled kiểm thử | Phương | 08/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần system-kiểm thử: look at longtime running kiểm thử and fix them trước ngày 04/07/2025, ưu tiên cao.
+Quang cần system-kiểm thử: rewrite to junit5 2. step (reduce inheritance of testbases) trước ngày 05/07/2025, ưu tiên trung bình.
+Lan cần kiểm thử hệ thống: enable xác thực in marathon kiểm thử trước ngày 06/07/2025, ưu tiên thấp.
+Minh cần system-kiểm thử: add parametr for disable 'tear down' methods in systemkiểm thử trước ngày 07/07/2025, ưu tiên cao.
+Phương cần system-kiểm thử: review list of february disabled kiểm thử trước ngày 08/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 03 tháng 07 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 13/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Add người dùng token in whoami giao diện điều khiển querry | Hoàng | 14/08/2025 | Chưa bắt đầu
+Check 1.0 stage documentation | Thảo | 15/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Fix alignment of Address Space table in Firefox browser | Vân | 16/08/2025 | Chưa bắt đầu
+Hono - Add Management API operation to delete all devices matching a filter | Hải | 17/08/2025 | Chưa bắt đầu
+Create graphQL query to disable multiples iot projects | Hoàng | 18/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần add người dùng token in whoami giao diện điều khiển querry trước ngày 14/08/2025, ưu tiên cao.
+Thảo cần check 1.0 stage documentation trước ngày 15/08/2025, ưu tiên trung bình.
+Vân cần console-iot-ui- fix alignment of address space table in firefox browser trước ngày 16/08/2025, ưu tiên thấp.
+Hải cần hono - add management api operation to delete all devices matching a filter trước ngày 17/08/2025, ưu tiên cao.
+Hoàng cần create graphql query to disable multiples iot projects trước ngày 18/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 13 tháng 08 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 26/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Need to be able to configure địa chỉ-bộ điều khiển to use wildcard cert for route certs | Sơn | 27/06/2025 | Chưa bắt đầu
+Delegate from keycloak to OpenShift Pro | Phúc | 28/06/2025 | Chưa bắt đầu
+Disable MQTT (configurable upstream?) | Khoa | 29/06/2025 | Chưa bắt đầu
+Tests for xác thực WebConsole | Lâm | 30/06/2025 | Chưa bắt đầu
+Tests for phân quyền in WebConsole | Sơn | 01/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần need to be able to configure địa chỉ-bộ điều khiển to use wildcard cert for route certs trước ngày 27/06/2025, ưu tiên cao.
+Phúc cần delegate from keycloak to openshift pro trước ngày 28/06/2025, ưu tiên trung bình.
+Khoa cần disable mqtt (configurable upstream?) trước ngày 29/06/2025, ưu tiên thấp.
+Lâm cần tests for xác thực webconsole trước ngày 30/06/2025, ưu tiên cao.
+Sơn cần tests for phân quyền in webconsole trước ngày 01/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 26 tháng 06 năm 2025

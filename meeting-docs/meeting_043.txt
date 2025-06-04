@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 19/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[Console UI] modify tạoAddressSpace flow to allow endpoint configuration and a way to include endpoints detail | Hoàng | 20/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Filter component for device list | Thảo | 21/07/2025 | Chưa bắt đầu
+[#4582] FirefoxConsoleTest.testEmptyLinkPage fails sporadically. | Vân | 22/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Create MetadataListTable view component | Hải | 23/07/2025 | Chưa bắt đầu
+Console-IoT-UI-Create ViaGateways component for Device Info page | Hoàng | 24/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần [console ui] modify tạoaddressspace flow to allow endpoint configuration and a way to include endpoints detail trước ngày 20/07/2025, ưu tiên cao.
+Thảo cần console-iot-ui - create filter component for device list trước ngày 21/07/2025, ưu tiên trung bình.
+Vân cần [#4582] firefoxconsoletest.testemptylinkpage fails sporadically. trước ngày 22/07/2025, ưu tiên thấp.
+Hải cần console-iot-ui- create metadatalisttable view component trước ngày 23/07/2025, ưu tiên cao.
+Hoàng cần console-iot-ui-create viagateways component for device info page trước ngày 24/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 19 tháng 07 năm 2025

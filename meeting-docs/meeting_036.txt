@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 12/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Add the ability to use AMQP over WebSockets to a route on port 4436  | An | 13/07/2025 | Chưa bắt đầu
+Remove 'docker' for the mẫus and images | Bình | 14/07/2025 | Chưa bắt đầu
+Reference table for Developer role assumptions | Chi | 15/07/2025 | Chưa bắt đầu
+Self-provision an địa chỉ/destination | Dũng | 16/07/2025 | Chưa bắt đầu
+Viết tài liệu về how to delete a destination/địa chỉ | An | 17/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần add the ability to use amqp over websockets to a route on port 4436  trước ngày 13/07/2025, ưu tiên cao.
+Bình cần remove 'docker' for the mẫus and images trước ngày 14/07/2025, ưu tiên trung bình.
+Chi cần reference table for developer role assumptions trước ngày 15/07/2025, ưu tiên thấp.
+Dũng cần self-provision an địa chỉ/destination trước ngày 16/07/2025, ưu tiên cao.
+An cần viết tài liệu về how to delete a destination/địa chỉ trước ngày 17/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 12 tháng 07 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 22/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Upgrade to Artemis 2. | An | 23/06/2025 | Chưa bắt đầu
+Enable HTTPS for restapi and giao diện điều khiển routes | Bình | 24/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: Implement long running kiểm thử | Chi | 25/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: count of tạod trung gian địa chỉ spaces should be reduced | Dũng | 26/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: địa chỉ-bộ điều khiển API REST Authentication kiểm thử | An | 27/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần upgrade to artemis 2. trước ngày 23/06/2025, ưu tiên cao.
+Bình cần enable https for restapi and giao diện điều khiển routes trước ngày 24/06/2025, ưu tiên trung bình.
+Chi cần kiểm thử hệ thống: implement long running kiểm thử trước ngày 25/06/2025, ưu tiên thấp.
+Dũng cần kiểm thử hệ thống: count of tạod trung gian địa chỉ spaces should be reduced trước ngày 26/06/2025, ưu tiên cao.
+An cần kiểm thử hệ thống: địa chỉ-bộ điều khiển api rest authentication kiểm thử trước ngày 27/06/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 22 tháng 06 năm 2025

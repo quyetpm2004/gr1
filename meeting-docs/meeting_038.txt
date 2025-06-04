@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 14/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Configuring max queue size for chuẩn and trung gian địa chỉ space. | Hoàng | 15/07/2025 | Chưa bắt đầu
+[Shared infra] Add liveness probes and readiness probes to shared infra | Thảo | 16/07/2025 | Chưa bắt đầu
+[Shared infra] Thêm hỗ trợ cho TLS endpoints for shared infra | Vân | 17/07/2025 | Chưa bắt đầu
+Docs: Viết tài liệu vềation should note the fact that endpoints aren't mutable | Hải | 18/07/2025 | Chưa bắt đầu
+[CI] tạo disconnected ocp cluster for testing disconnected installation | Hoàng | 19/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần docs: configuring max queue size for chuẩn and trung gian địa chỉ space. trước ngày 15/07/2025, ưu tiên cao.
+Thảo cần [shared infra] add liveness probes and readiness probes to shared infra trước ngày 16/07/2025, ưu tiên trung bình.
+Vân cần [shared infra] thêm hỗ trợ cho tls endpoints for shared infra trước ngày 17/07/2025, ưu tiên thấp.
+Hải cần docs: viết tài liệu vềation should note the fact that endpoints aren't mutable trước ngày 18/07/2025, ưu tiên cao.
+Hoàng cần [ci] tạo disconnected ocp cluster for testing disconnected installation trước ngày 19/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 14 tháng 07 năm 2025

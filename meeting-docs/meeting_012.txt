@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 18/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Thêm hỗ trợ cho OAUTH2 xác thực to Keycloak plugin | Phương | 19/06/2025 | Chưa bắt đầu
+Support HTTPS in giao diện điều khiển | Quang | 20/06/2025 | Chưa bắt đầu
+Allow tooltips for trung gian địa chỉ space | Lan | 21/06/2025 | Chưa bắt đầu
+Upgrade to Proton 08. | Minh | 22/06/2025 | Chưa bắt đầu
+Make địa chỉ space type plans configurable | Phương | 23/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần thêm hỗ trợ cho oauth2 xác thực to keycloak plugin trước ngày 19/06/2025, ưu tiên cao.
+Quang cần support https in giao diện điều khiển trước ngày 20/06/2025, ưu tiên trung bình.
+Lan cần allow tooltips for trung gian địa chỉ space trước ngày 21/06/2025, ưu tiên thấp.
+Minh cần upgrade to proton 08. trước ngày 22/06/2025, ưu tiên cao.
+Phương cần make địa chỉ space type plans configurable trước ngày 23/06/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 18 tháng 06 năm 2025

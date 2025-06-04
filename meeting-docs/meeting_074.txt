@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 19/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Create  serialize function  for credentials | Hoa | 20/08/2025 | Chưa bắt đầu
+Console - IoT - UI - Integrate Create Project Flow with mock server's tạo query | Tuấn | 21/08/2025 | Chưa bắt đầu
+Console - IoT - UI - Quick fixes on the Create Project Workflow | Linh | 22/08/2025 | Chưa bắt đầu
+[systemtest] delete old ST scripts and old automation | Quân | 23/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate mock-server for credentials filter on ConfigurationInfo page | Hoa | 24/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần console-iot-ui- create  serialize function  for credentials trước ngày 20/08/2025, ưu tiên cao.
+Tuấn cần console - iot - ui - integrate create project flow with mock server's tạo query trước ngày 21/08/2025, ưu tiên trung bình.
+Linh cần console - iot - ui - quick fixes on the create project workflow trước ngày 22/08/2025, ưu tiên thấp.
+Quân cần [systemtest] delete old st scripts and old automation trước ngày 23/08/2025, ưu tiên cao.
+Hoa cần console-iot-ui- integrate mock-server for credentials filter on configurationinfo page trước ngày 24/08/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 19 tháng 08 năm 2025

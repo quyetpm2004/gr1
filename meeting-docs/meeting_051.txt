@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 27/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Create Project certificate list visual components | An | 28/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create toolbar for IoT Certificates | Bình | 29/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Viết unit kiểm thử for visual components of IoT certificates | Chi | 30/07/2025 | Chưa bắt đầu
+Allow configuring CPU limits for infra | Dũng | 31/07/2025 | Chưa bắt đầu
+Refactor GraphQL query in client side for deleteAddressSpace and deleteAddress to send many target objects | An | 01/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần console-iot-ui - create project certificate list visual components trước ngày 28/07/2025, ưu tiên cao.
+Bình cần console-iot-ui - create toolbar for iot certificates trước ngày 29/07/2025, ưu tiên trung bình.
+Chi cần console-iot-ui - viết unit kiểm thử for visual components of iot certificates trước ngày 30/07/2025, ưu tiên thấp.
+Dũng cần allow configuring cpu limits for infra trước ngày 31/07/2025, ưu tiên cao.
+An cần refactor graphql query in client side for deleteaddressspace and deleteaddress to send many target objects trước ngày 01/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 27 tháng 07 năm 2025

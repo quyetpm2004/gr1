@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 15/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[CI] Enable caching dependencies on actions | Sơn | 16/08/2025 | Chưa bắt đầu
+[systemkiểm thử] Migrate all doTest methods (clients) to clientRunner | Phúc | 17/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Fix upgrade patternfly 4 issues | Khoa | 18/08/2025 | Chưa bắt đầu
+Console-IoT-UI - DeviceList.Unhide dropdown options under parameters criteria, second collumn | Lâm | 19/08/2025 | Chưa bắt đầu
+[systemtest] enable systemkiểm thử framework unit kiểm thử without kubernetes connection | Sơn | 20/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần [ci] enable caching dependencies on actions trước ngày 16/08/2025, ưu tiên cao.
+Phúc cần [systemkiểm thử] migrate all dotest methods (clients) to clientrunner trước ngày 17/08/2025, ưu tiên trung bình.
+Khoa cần console-iot-ui- fix upgrade patternfly 4 issues trước ngày 18/08/2025, ưu tiên thấp.
+Lâm cần console-iot-ui - devicelist.unhide dropdown options under parameters criteria, second collumn trước ngày 19/08/2025, ưu tiên cao.
+Sơn cần [systemtest] enable systemkiểm thử framework unit kiểm thử without kubernetes connection trước ngày 20/08/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 15 tháng 08 năm 2025

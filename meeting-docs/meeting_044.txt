@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 20/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI-Create Credentials view component for Device Info page | Hoa | 21/07/2025 | Chưa bắt đầu
+Console-IoT-UI-View in Json Device Info page | Tuấn | 22/07/2025 | Chưa bắt đầu
+[#4349] Consol-UI refactor for Address Space | Linh | 23/07/2025 | Chưa bắt đầu
+[#4349] Console-UI-Code refactor for Address Space detail | Quân | 24/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Create Change Password dialog/modal component | Hoa | 25/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần console-iot-ui-create credentials view component for device info page trước ngày 21/07/2025, ưu tiên cao.
+Tuấn cần console-iot-ui-view in json device info page trước ngày 22/07/2025, ưu tiên trung bình.
+Linh cần [#4349] consol-ui refactor for address space trước ngày 23/07/2025, ưu tiên thấp.
+Quân cần [#4349] console-ui-code refactor for address space detail trước ngày 24/07/2025, ưu tiên cao.
+Hoa cần console-iot-ui- create change password dialog/modal component trước ngày 25/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 20 tháng 07 năm 2025

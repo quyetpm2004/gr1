@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 08/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+system-kiểm thử: Create test for check if size of messages was exceeded | Phương | 09/07/2025 | Chưa bắt đầu
+Add the ability to use AMQP over WebSockets to a route on port 443 | Quang | 10/07/2025 | Chưa bắt đầu
+địa chỉ-bộ điều khiển: NPE when required parameters (địa chỉ, plan or type) are not set | Lan | 11/07/2025 | Chưa bắt đầu
+ system-kiểm thử: new test for auto scaleup after manual scaledown | Minh | 12/07/2025 | Chưa bắt đầu
+New system-kiểm thử for websocket | Phương | 13/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần system-kiểm thử: create test for check if size of messages was exceeded trước ngày 09/07/2025, ưu tiên cao.
+Quang cần add the ability to use amqp over websockets to a route on port 443 trước ngày 10/07/2025, ưu tiên trung bình.
+Lan cần địa chỉ-bộ điều khiển: npe when required parameters (địa chỉ, plan or type) are not set trước ngày 11/07/2025, ưu tiên thấp.
+Minh cần  system-kiểm thử: new test for auto scaleup after manual scaledown trước ngày 12/07/2025, ưu tiên cao.
+Phương cần new system-kiểm thử for websocket trước ngày 13/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 08 tháng 07 năm 2025

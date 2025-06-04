@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 21/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: tạo kiểm thử for large messages | Sơn | 22/06/2025 | Chưa bắt đầu
+Use persistent volumes for keycloak | Phúc | 23/06/2025 | Chưa bắt đầu
+Add HTTPS support for chuẩn xác thực service | Khoa | 24/06/2025 | Chưa bắt đầu
+Support multiple địa chỉ bộ điều khiểns in the same OpenShift cluster | Lâm | 25/06/2025 | Chưa bắt đầu
+Limit the scope of privileges required by địa chỉ-bộ điều khiển | Sơn | 26/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần kiểm thử hệ thống: tạo kiểm thử for large messages trước ngày 22/06/2025, ưu tiên cao.
+Phúc cần use persistent volumes for keycloak trước ngày 23/06/2025, ưu tiên trung bình.
+Khoa cần add https support for chuẩn xác thực service trước ngày 24/06/2025, ưu tiên thấp.
+Lâm cần support multiple địa chỉ bộ điều khiểns in the same openshift cluster trước ngày 25/06/2025, ưu tiên cao.
+Sơn cần limit the scope of privileges required by địa chỉ-bộ điều khiển trước ngày 26/06/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 21 tháng 06 năm 2025

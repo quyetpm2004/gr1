@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 25/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Thêm hỗ trợ cho colocated chủ đề | Hoa | 26/06/2025 | Chưa bắt đầu
+Use statefulsets for brokers | Tuấn | 27/06/2025 | Chưa bắt đầu
+Implement Plan resource limits for địa chỉ space | Linh | 28/06/2025 | Chưa bắt đầu
+Persist decision about where hàng đợi/chủ đề are placed | Quân | 29/06/2025 | Chưa bắt đầu
+Implement Plan resource requests for địa chỉes | Hoa | 30/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần thêm hỗ trợ cho colocated chủ đề trước ngày 26/06/2025, ưu tiên cao.
+Tuấn cần use statefulsets for brokers trước ngày 27/06/2025, ưu tiên trung bình.
+Linh cần implement plan resource limits for địa chỉ space trước ngày 28/06/2025, ưu tiên thấp.
+Quân cần persist decision about where hàng đợi/chủ đề are placed trước ngày 29/06/2025, ưu tiên cao.
+Hoa cần implement plan resource requests for địa chỉes trước ngày 30/06/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 25 tháng 06 năm 2025

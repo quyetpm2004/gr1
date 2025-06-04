@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 12/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Add graphQL query to delete multiple iot projects | Phương | 13/08/2025 | Chưa bắt đầu
+Add graphQL querry to delete multiples iot devices | Quang | 14/08/2025 | Chưa bắt đầu
+Add UUID for credentials entries in mock servers | Lan | 15/08/2025 | Chưa bắt đầu
+Add status fields for Iot devices in mock server | Minh | 16/08/2025 | Chưa bắt đầu
+Add graphQL query to generate command to tạo iot project | Phương | 17/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần add graphql query to delete multiple iot projects trước ngày 13/08/2025, ưu tiên cao.
+Quang cần add graphql querry to delete multiples iot devices trước ngày 14/08/2025, ưu tiên trung bình.
+Lan cần add uuid for credentials entries in mock servers trước ngày 15/08/2025, ưu tiên thấp.
+Minh cần add status fields for iot devices in mock server trước ngày 16/08/2025, ưu tiên cao.
+Phương cần add graphql query to generate command to tạo iot project trước ngày 17/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 12 tháng 08 năm 2025

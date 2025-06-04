@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 11/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+tác tử: use \\\ | Sơn | 12/07/2025 | Chưa bắt đầu
+ attribute instead of \\\ | Phúc | 13/07/2025 | Chưa bắt đầu
+ for autoLinks | Khoa | 14/07/2025 | Chưa bắt đầu
+tác tử container: high load and memory issue with many địa chỉes | Lâm | 15/07/2025 | Chưa bắt đầu
+When creating many địa chỉes at the same time, a few have missing autolinks | Sơn | 16/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần tác tử: use \\\ trước ngày 12/07/2025, ưu tiên cao.
+Phúc cần  attribute instead of \\\ trước ngày 13/07/2025, ưu tiên trung bình.
+Khoa cần  for autolinks trước ngày 14/07/2025, ưu tiên thấp.
+Lâm cần tác tử container: high load and memory issue with many địa chỉes trước ngày 15/07/2025, ưu tiên cao.
+Sơn cần when creating many địa chỉes at the same time, a few have missing autolinks trước ngày 16/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 11 tháng 07 năm 2025

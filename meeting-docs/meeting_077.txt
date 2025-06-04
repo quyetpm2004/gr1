@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 22/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[CI] add job for running nightly of release-03 branch from upstream | Phương | 23/08/2025 | Chưa bắt đầu
+Console-UI-IoT Convert modal wizard to inPage wizard for tạo device flow | Quang | 24/08/2025 | Chưa bắt đầu
+Docs: Release Notes - Add known issue OLM Subscription fails with OpenShift 41 and  | Lan | 25/08/2025 | Chưa bắt đầu
+[UXD] UI changes for IoT - AMQ Online V2. | Minh | 26/08/2025 | Chưa bắt đầu
+[CI] tạo job for runing kiểm thử on dis cluster in maas-jenkins | Phương | 27/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần [ci] add job for running nightly of release-03 branch from upstream trước ngày 23/08/2025, ưu tiên cao.
+Quang cần console-ui-iot convert modal wizard to inpage wizard for tạo device flow trước ngày 24/08/2025, ưu tiên trung bình.
+Lan cần docs: release notes - add known issue olm subscription fails with openshift 41 and  trước ngày 25/08/2025, ưu tiên thấp.
+Minh cần [uxd] ui changes for iot - amq online v2. trước ngày 26/08/2025, ưu tiên cao.
+Phương cần [ci] tạo job for runing kiểm thử on dis cluster in maas-jenkins trước ngày 27/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 22 tháng 08 năm 2025

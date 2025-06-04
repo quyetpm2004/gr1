@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 29/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Changes to service broker (service type is just địa chỉ space, different plans are supported. See also point above about how to tie plans offered to plans specified)  | Hoàng | 30/06/2025 | Chưa bắt đầu
+Keycloak plugin OAUTH2 support | Thảo | 01/07/2025 | Chưa bắt đầu
+Brokered: cannot tạo topic: người dùng null does not have quyền to 'send'... | Vân | 02/07/2025 | Chưa bắt đầu
+Investigate options for enforcing backlog limits on broker/router | Hải | 03/07/2025 | Chưa bắt đầu
+Console does not sanitize địa chỉ config names | Hoàng | 04/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần changes to service broker (service type is just địa chỉ space, different plans are supported. see also point above about how to tie plans offered to plans specified)  trước ngày 30/06/2025, ưu tiên cao.
+Thảo cần keycloak plugin oauth2 support trước ngày 01/07/2025, ưu tiên trung bình.
+Vân cần brokered: cannot tạo topic: người dùng null does not have quyền to 'send'... trước ngày 02/07/2025, ưu tiên thấp.
+Hải cần investigate options for enforcing backlog limits on broker/router trước ngày 03/07/2025, ưu tiên cao.
+Hoàng cần console does not sanitize địa chỉ config names trước ngày 04/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 29 tháng 06 năm 2025

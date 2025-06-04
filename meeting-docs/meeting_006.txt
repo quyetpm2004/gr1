@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 12/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: trung gian/chuẩn: phân quyền kiểm thử | An | 13/06/2025 | Chưa bắt đầu
+Migrate build files to maven | Bình | 14/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: kiểm thử for particular supported features in trung gian địa chỉ space | Chi | 15/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: webgiao diện điều khiển kiểm thử | Dũng | 16/06/2025 | Chưa bắt đầu
+Address-bộ điều khiển is restarted with 'Error syncing pod' event and no additional info in log | An | 17/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần kiểm thử hệ thống: trung gian/chuẩn: phân quyền kiểm thử trước ngày 13/06/2025, ưu tiên cao.
+Bình cần migrate build files to maven trước ngày 14/06/2025, ưu tiên trung bình.
+Chi cần kiểm thử hệ thống: trung gian: kiểm thử for particular supported features in trung gian địa chỉ space trước ngày 15/06/2025, ưu tiên thấp.
+Dũng cần kiểm thử hệ thống: trung gian: webgiao diện điều khiển kiểm thử trước ngày 16/06/2025, ưu tiên cao.
+An cần address-bộ điều khiển is restarted with 'error syncing pod' event and no additional info in log trước ngày 17/06/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 12 tháng 06 năm 2025

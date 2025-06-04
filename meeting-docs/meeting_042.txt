@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 18/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Implement GraphQL closeConnections | Phương | 19/07/2025 | Chưa bắt đầu
+Integrate connection close into the giao diện điều khiển | Quang | 20/07/2025 | Chưa bắt đầu
+Build warnings from UI builds | Lan | 21/07/2025 | Chưa bắt đầu
+Create system test for connection close | Minh | 22/07/2025 | Chưa bắt đầu
+[systemtest] tạo test container for running enmasse suite in delorean | Phương | 23/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần implement graphql closeconnections trước ngày 19/07/2025, ưu tiên cao.
+Quang cần integrate connection close into the giao diện điều khiển trước ngày 20/07/2025, ưu tiên trung bình.
+Lan cần build warnings from ui builds trước ngày 21/07/2025, ưu tiên thấp.
+Minh cần create system test for connection close trước ngày 22/07/2025, ưu tiên cao.
+Phương cần [systemtest] tạo test container for running enmasse suite in delorean trước ngày 23/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 18 tháng 07 năm 2025

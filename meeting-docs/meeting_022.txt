@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 28/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Define kiểm thử for limitation of địa chỉ-spaces (by credits) | Phương | 29/06/2025 | Chưa bắt đầu
+Recheck and enable kiểm thử hệ thống for chuẩn địa chỉ space | Quang | 30/06/2025 | Chưa bắt đầu
+improve test framework regarding to definition of dynamically tạod plans | Lan | 01/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo documentation in HACKING doc how to execute webgiao diện điều khiển kiểm thử | Minh | 02/07/2025 | Chưa bắt đầu
+Viết tài liệu về Creating and deleting địa chỉes | Phương | 03/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần define kiểm thử for limitation of địa chỉ-spaces (by credits) trước ngày 29/06/2025, ưu tiên cao.
+Quang cần recheck and enable kiểm thử hệ thống for chuẩn địa chỉ space trước ngày 30/06/2025, ưu tiên trung bình.
+Lan cần improve test framework regarding to definition of dynamically tạod plans trước ngày 01/07/2025, ưu tiên thấp.
+Minh cần system-kiểm thử: tạo documentation in hacking doc how to execute webgiao diện điều khiển kiểm thử trước ngày 02/07/2025, ưu tiên cao.
+Phương cần viết tài liệu về creating and deleting địa chỉes trước ngày 03/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 28 tháng 06 năm 2025

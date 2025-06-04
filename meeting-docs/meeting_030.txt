@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 06/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: how to manage người dùng quyền | Sơn | 07/07/2025 | Chưa bắt đầu
+Docs: document the sign-up process for beta | Phúc | 08/07/2025 | Chưa bắt đầu
+Make resync interval in bộ điều khiểns configurable | Khoa | 09/07/2025 | Chưa bắt đầu
+Separata status check from bộ điều khiển resync | Lâm | 10/07/2025 | Chưa bắt đầu
+Events sent to địa chỉ of type queue not delivered after a while | Sơn | 11/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần docs: how to manage người dùng quyền trước ngày 07/07/2025, ưu tiên cao.
+Phúc cần docs: document the sign-up process for beta trước ngày 08/07/2025, ưu tiên trung bình.
+Khoa cần make resync interval in bộ điều khiểns configurable trước ngày 09/07/2025, ưu tiên thấp.
+Lâm cần separata status check from bộ điều khiển resync trước ngày 10/07/2025, ưu tiên cao.
+Sơn cần events sent to địa chỉ of type queue not delivered after a while trước ngày 11/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 06 tháng 07 năm 2025

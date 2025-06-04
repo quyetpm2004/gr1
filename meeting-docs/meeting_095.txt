@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 09/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+CVP trigger job from iib message and run olm kiểm thử | Sơn | 10/09/2025 | Chưa bắt đầu
+Maintain supported configurations with OperatorHub automatic upgrades | Phúc | 11/09/2025 | Chưa bắt đầu
+Docs: Add known issue to 1 release notes | Khoa | 12/09/2025 | Chưa bắt đầu
+Upgrade minikube version | Lâm | 13/09/2025 | Chưa bắt đầu
+Implement or update olm upgrade kiểm thử in kiểm thửuite | Sơn | 14/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần cvp trigger job from iib message and run olm kiểm thử trước ngày 10/09/2025, ưu tiên cao.
+Phúc cần maintain supported configurations with operatorhub automatic upgrades trước ngày 11/09/2025, ưu tiên trung bình.
+Khoa cần docs: add known issue to 1 release notes trước ngày 12/09/2025, ưu tiên thấp.
+Lâm cần upgrade minikube version trước ngày 13/09/2025, ưu tiên cao.
+Sơn cần implement or update olm upgrade kiểm thử in kiểm thửuite trước ngày 14/09/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 09 tháng 09 năm 2025

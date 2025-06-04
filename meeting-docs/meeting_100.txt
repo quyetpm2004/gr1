@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 14/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Onboard AMQ online 1 to ocp4 LP testing | Sơn | 15/09/2025 | Chưa bắt đầu
+Migrate from old cachet plugin to statuspage | Phúc | 16/09/2025 | Chưa bắt đầu
+[Weekly] Check and eventually cleanup nightly ocp/aws clusters | Khoa | 17/09/2025 | Chưa bắt đầu
+Migration of Jenkins CSB phiên bảns | Lâm | 18/09/2025 | Chưa bắt đầu
+RHMI - AMQ Online 1 debugging | Sơn | 19/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần onboard amq online 1 to ocp4 lp testing trước ngày 15/09/2025, ưu tiên cao.
+Phúc cần migrate from old cachet plugin to statuspage trước ngày 16/09/2025, ưu tiên trung bình.
+Khoa cần [weekly] check and eventually cleanup nightly ocp/aws clusters trước ngày 17/09/2025, ưu tiên thấp.
+Lâm cần migration of jenkins csb phiên bảns trước ngày 18/09/2025, ưu tiên cao.
+Sơn cần rhmi - amq online 1 debugging trước ngày 19/09/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 14 tháng 09 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 04/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+system-kiểm thử: test{Pod,Credit}Limitations with webgiao diện điều khiển | Hoàng | 05/07/2025 | Chưa bắt đầu
+system-kiểm thử: modify QueueTest#testScaledown | Thảo | 06/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo test for API REST - địa chỉ resource required params are missing | Vân | 07/07/2025 | Chưa bắt đầu
+system-kiểm thử: modify xác thực kiểm thử to tạo multiple địa chỉ-spaces in one request | Hải | 08/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo new test for địa chỉ-space endpoints \\\ | Hoàng | 09/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần system-kiểm thử: test{pod,credit}limitations with webgiao diện điều khiển trước ngày 05/07/2025, ưu tiên cao.
+Thảo cần system-kiểm thử: modify queuetest#testscaledown trước ngày 06/07/2025, ưu tiên trung bình.
+Vân cần system-kiểm thử: tạo test for api rest - địa chỉ resource required params are missing trước ngày 07/07/2025, ưu tiên thấp.
+Hải cần system-kiểm thử: modify xác thực kiểm thử to tạo multiple địa chỉ-spaces in one request trước ngày 08/07/2025, ưu tiên cao.
+Hoàng cần system-kiểm thử: tạo new test for địa chỉ-space endpoints \\\ trước ngày 09/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 04 tháng 07 năm 2025

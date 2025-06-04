@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 10/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] Modify system test for multiple addspace filters | Sơn | 11/08/2025 | Chưa bắt đầu
+[systemkiểm thử] enable ability to run kiểm thử in parallel in surefire | Phúc | 12/08/2025 | Chưa bắt đầu
+[systemtest] modify resource manager to delete only test scoped resources in parallel run | Khoa | 13/08/2025 | Chưa bắt đầu
+Docs: Remove note regarding DLQs | Lâm | 14/08/2025 | Chưa bắt đầu
+Support consumer priority for forwarders | Sơn | 15/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần [systemtest] modify system test for multiple addspace filters trước ngày 11/08/2025, ưu tiên cao.
+Phúc cần [systemkiểm thử] enable ability to run kiểm thử in parallel in surefire trước ngày 12/08/2025, ưu tiên trung bình.
+Khoa cần [systemtest] modify resource manager to delete only test scoped resources in parallel run trước ngày 13/08/2025, ưu tiên thấp.
+Lâm cần docs: remove note regarding dlqs trước ngày 14/08/2025, ưu tiên cao.
+Sơn cần support consumer priority for forwarders trước ngày 15/08/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 10 tháng 08 năm 2025

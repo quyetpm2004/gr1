@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 17/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+giao diện điều khiển backend : implement delete iot device | Phương | 18/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement tạo iot device | Quang | 19/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement toggle iot device state | Lan | 20/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement retrieve iot device list | Minh | 21/08/2025 | Chưa bắt đầu
+iot device registry : implement filters and GET method on /devices | Phương | 22/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần giao diện điều khiển backend : implement delete iot device trước ngày 18/08/2025, ưu tiên cao.
+Quang cần giao diện điều khiển backend : implement tạo iot device trước ngày 19/08/2025, ưu tiên trung bình.
+Lan cần giao diện điều khiển backend : implement toggle iot device state trước ngày 20/08/2025, ưu tiên thấp.
+Minh cần giao diện điều khiển backend : implement retrieve iot device list trước ngày 21/08/2025, ưu tiên cao.
+Phương cần iot device registry : implement filters and get method on /devices trước ngày 22/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 17 tháng 08 năm 2025

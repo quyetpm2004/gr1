@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 08/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Viết systemkiểm thử for trung gian địa chỉ space | Phương | 09/06/2025 | Chưa bắt đầu
+Cấu hình JMS TCK testing on internal Jenkins phiên bản | Quang | 10/06/2025 | Chưa bắt đầu
+đổi tên giao diện điều khiển to tác tử | Lan | 11/06/2025 | Chưa bắt đầu
+Cấu hình Joram kiểm thử to run against trung gian địa chỉ space with client JMS | Minh | 12/06/2025 | Chưa bắt đầu
+add kiểm thử hệ thống wrt độ bền of hàng đợi and chủ đề for chuẩn addr space | Phương | 13/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần viết systemkiểm thử for trung gian địa chỉ space trước ngày 09/06/2025, ưu tiên cao.
+Quang cần cấu hình jms tck testing on internal jenkins phiên bản trước ngày 10/06/2025, ưu tiên trung bình.
+Lan cần đổi tên giao diện điều khiển to tác tử trước ngày 11/06/2025, ưu tiên thấp.
+Minh cần cấu hình joram kiểm thử to run against trung gian địa chỉ space with client jms trước ngày 12/06/2025, ưu tiên cao.
+Phương cần add kiểm thử hệ thống wrt độ bền of hàng đợi and chủ đề for chuẩn addr space trước ngày 13/06/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 08 tháng 06 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 13/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+SystemTests: message grouping kiểm thử | Phương | 14/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: Create external clients executor | Quang | 15/06/2025 | Chưa bắt đầu
+test tạo/delete of trung gian địa chỉ space | Lan | 16/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: test địa chỉ types | Minh | 17/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: test durable subscribers | Phương | 18/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần systemtests: message grouping kiểm thử trước ngày 14/06/2025, ưu tiên cao.
+Quang cần kiểm thử hệ thống: create external clients executor trước ngày 15/06/2025, ưu tiên trung bình.
+Lan cần test tạo/delete of trung gian địa chỉ space trước ngày 16/06/2025, ưu tiên thấp.
+Minh cần kiểm thử hệ thống: trung gian: test địa chỉ types trước ngày 17/06/2025, ưu tiên cao.
+Phương cần kiểm thử hệ thống: trung gian: test durable subscribers trước ngày 18/06/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 13 tháng 06 năm 2025

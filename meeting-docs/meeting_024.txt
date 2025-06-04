@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 30/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Make ansible deployment for install dependencies for running systemkiểm thử | Hoa | 01/07/2025 | Chưa bắt đầu
+địa chỉ-bộ điều khiển can't replace địa chỉes tạod via giao diện điều khiển | Tuấn | 02/07/2025 | Chưa bắt đầu
+Disable durable subs (configurable upstream?) | Linh | 03/07/2025 | Chưa bắt đầu
+Console to support status for địa chỉes | Quân | 04/07/2025 | Chưa bắt đầu
+How to match plans offered to plans specified (e.g. have giao diện điều khiển offer plans based on the presence of configmaps in its namespace or variations of that) | Hoa | 05/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần make ansible deployment for install dependencies for running systemkiểm thử trước ngày 01/07/2025, ưu tiên cao.
+Tuấn cần địa chỉ-bộ điều khiển can't replace địa chỉes tạod via giao diện điều khiển trước ngày 02/07/2025, ưu tiên trung bình.
+Linh cần disable durable subs (configurable upstream?) trước ngày 03/07/2025, ưu tiên thấp.
+Quân cần console to support status for địa chỉes trước ngày 04/07/2025, ưu tiên cao.
+Hoa cần how to match plans offered to plans specified (e.g. have giao diện điều khiển offer plans based on the presence of configmaps in its namespace or variations of that) trước ngày 05/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 30 tháng 06 năm 2025

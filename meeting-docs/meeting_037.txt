@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 13/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Ops procedures - document enable protocol trace for router/broker | Phương | 14/07/2025 | Chưa bắt đầu
+[CI] rewrite enmasse shared lib functions to class | Quang | 15/07/2025 | Chưa bắt đầu
+[CI] use new Enmasse class in shared lib in AMQ Online/Enmasse pipelines | Lan | 16/07/2025 | Chưa bắt đầu
+Console UI tweaks to Create Address wizard | Minh | 17/07/2025 | Chưa bắt đầu
+[CI] fix plugins.txt for enmase csb jenkins | Phương | 18/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần ops procedures - document enable protocol trace for router/broker trước ngày 14/07/2025, ưu tiên cao.
+Quang cần [ci] rewrite enmasse shared lib functions to class trước ngày 15/07/2025, ưu tiên trung bình.
+Lan cần [ci] use new enmasse class in shared lib in amq online/enmasse pipelines trước ngày 16/07/2025, ưu tiên thấp.
+Minh cần console ui tweaks to create address wizard trước ngày 17/07/2025, ưu tiên cao.
+Phương cần [ci] fix plugins.txt for enmase csb jenkins trước ngày 18/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 13 tháng 07 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 19/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Display lỗis in giao diện điều khiển | Hoàng | 20/06/2025 | Chưa bắt đầu
+Upgrade router to 1. | Thảo | 21/06/2025 | Chưa bắt đầu
+Create initial admin credentials per realm for keycloak | Vân | 22/06/2025 | Chưa bắt đầu
+Make địa chỉ type plans configurable | Hải | 23/06/2025 | Chưa bắt đầu
+Report lỗi events in bộ điều khiểns using k8s events | Hoàng | 24/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần display lỗis in giao diện điều khiển trước ngày 20/06/2025, ưu tiên cao.
+Thảo cần upgrade router to 1. trước ngày 21/06/2025, ưu tiên trung bình.
+Vân cần create initial admin credentials per realm for keycloak trước ngày 22/06/2025, ưu tiên thấp.
+Hải cần make địa chỉ type plans configurable trước ngày 23/06/2025, ưu tiên cao.
+Hoàng cần report lỗi events in bộ điều khiểns using k8s events trước ngày 24/06/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 19 tháng 06 năm 2025

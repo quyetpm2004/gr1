@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 10/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Change parent images to use external registry registry.redhat.io/ubi7/ubi:latest | An | 11/09/2025 | Chưa bắt đầu
+enmasse-ci refactor common pipelines | Bình | 12/09/2025 | Chưa bắt đầu
+[#5285] Provide upgrade path for người dùngs of !!GLOBAL_DLQ fallback DLQ địa chỉ | Chi | 13/09/2025 | Chưa bắt đầu
+Fix installation of local jenkins phiên bản for testing | Dũng | 14/09/2025 | Chưa bắt đầu
+[#5247] Support v1 of CRD API | An | 15/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần change parent images to use external registry registry.redhat.io/ubi7/ubi:latest trước ngày 11/09/2025, ưu tiên cao.
+Bình cần enmasse-ci refactor common pipelines trước ngày 12/09/2025, ưu tiên trung bình.
+Chi cần [#5285] provide upgrade path for người dùngs of !!global_dlq fallback dlq địa chỉ trước ngày 13/09/2025, ưu tiên thấp.
+Dũng cần fix installation of local jenkins phiên bản for testing trước ngày 14/09/2025, ưu tiên cao.
+An cần [#5247] support v1 of crd api trước ngày 15/09/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 10 tháng 09 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 26/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] tạo kiểm thử for monitoring alerts | Sơn | 27/07/2025 | Chưa bắt đầu
+Docs: Configuring max queue size for chuẩn and trung gian địa chỉ space | Phúc | 28/07/2025 | Chưa bắt đầu
+[#4785] Docs: Setting per-địa chỉ max TTL | Khoa | 29/07/2025 | Chưa bắt đầu
+Refactor GraphQL delete địa chỉspace and địa chỉ to take more than one target | Lâm | 30/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create component for Project certificate | Sơn | 31/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần [systemtest] tạo kiểm thử for monitoring alerts trước ngày 27/07/2025, ưu tiên cao.
+Phúc cần docs: configuring max queue size for chuẩn and trung gian địa chỉ space trước ngày 28/07/2025, ưu tiên trung bình.
+Khoa cần [#4785] docs: setting per-địa chỉ max ttl trước ngày 29/07/2025, ưu tiên thấp.
+Lâm cần refactor graphql delete địa chỉspace and địa chỉ to take more than one target trước ngày 30/07/2025, ưu tiên cao.
+Sơn cần console-iot-ui - create component for project certificate trước ngày 31/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 26 tháng 07 năm 2025

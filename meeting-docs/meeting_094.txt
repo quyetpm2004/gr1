@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 08/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Build new version of systemkiểm thử-clients | Hoa | 09/09/2025 | Chưa bắt đầu
+Investigate random issue \\\ | Tuấn | 10/09/2025 | Chưa bắt đầu
+ | Linh | 11/09/2025 | Chưa bắt đầu
+Investigate why upstream isolated job takes too much time and build failed | Quân | 12/09/2025 | Chưa bắt đầu
+Investigate and fix why dowsntream stage and production jobs do not run kiểm thử and replace images in mẫus | Hoa | 13/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần build new version of systemkiểm thử-clients trước ngày 09/09/2025, ưu tiên cao.
+Tuấn cần investigate random issue \\\ trước ngày 10/09/2025, ưu tiên trung bình.
+Linh cần  trước ngày 11/09/2025, ưu tiên thấp.
+Quân cần investigate why upstream isolated job takes too much time and build failed trước ngày 12/09/2025, ưu tiên cao.
+Hoa cần investigate and fix why dowsntream stage and production jobs do not run kiểm thử and replace images in mẫus trước ngày 13/09/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 08 tháng 09 năm 2025

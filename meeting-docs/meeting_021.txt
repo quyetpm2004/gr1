@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 27/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+WebConsole Tests for địa chỉes status | An | 28/06/2025 | Chưa bắt đầu
+Tests for clients phân quyền | Bình | 29/06/2025 | Chưa bắt đầu
+Rewrite Jenkinsfile-long to declarative pipeline syntax | Chi | 30/06/2025 | Chưa bắt đầu
+Setup Jenkins job with productized images | Dũng | 01/07/2025 | Chưa bắt đầu
+Polarion reporting of enmasse test cases | An | 02/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần webconsole tests for địa chỉes status trước ngày 28/06/2025, ưu tiên cao.
+Bình cần tests for clients phân quyền trước ngày 29/06/2025, ưu tiên trung bình.
+Chi cần rewrite jenkinsfile-long to declarative pipeline syntax trước ngày 30/06/2025, ưu tiên thấp.
+Dũng cần setup jenkins job with productized images trước ngày 01/07/2025, ưu tiên cao.
+An cần polarion reporting of enmasse test cases trước ngày 02/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 27 tháng 06 năm 2025

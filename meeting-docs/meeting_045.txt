@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 21/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] write new method for wait until deployments/statefulsets are ready | Sơn | 22/07/2025 | Chưa bắt đầu
+[CI] Onboard on OCP LP testing pipeline | Phúc | 23/07/2025 | Chưa bắt đầu
+[systemtest] tạo monitoring kiểm thử for enmasse core components | Khoa | 24/07/2025 | Chưa bắt đầu
+[systemtest] tạo monitoring kiểm thử for iot comonents | Lâm | 25/07/2025 | Chưa bắt đầu
+Upgrade Artemis to version 23. | Sơn | 26/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần [systemtest] write new method for wait until deployments/statefulsets are ready trước ngày 22/07/2025, ưu tiên cao.
+Phúc cần [ci] onboard on ocp lp testing pipeline trước ngày 23/07/2025, ưu tiên trung bình.
+Khoa cần [systemtest] tạo monitoring kiểm thử for enmasse core components trước ngày 24/07/2025, ưu tiên thấp.
+Lâm cần [systemtest] tạo monitoring kiểm thử for iot comonents trước ngày 25/07/2025, ưu tiên cao.
+Sơn cần upgrade artemis to version 23. trước ngày 26/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 21 tháng 07 năm 2025

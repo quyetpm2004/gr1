@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 10/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+system-kiểm thử: Use ENUM instead of string tags | Hoa | 11/07/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: Improve waiting for webItems | Tuấn | 12/07/2025 | Chưa bắt đầu
+Response code/payload of AddressController API REST POST/DELETE operations | Linh | 13/07/2025 | Chưa bắt đầu
+Endpoints declaratively specified should be checked in status | Quân | 14/07/2025 | Chưa bắt đầu
+Install EnMasse on Bosch OpenShift Dedicated cluster | Hoa | 15/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần system-kiểm thử: use enum instead of string tags trước ngày 11/07/2025, ưu tiên cao.
+Tuấn cần kiểm thử hệ thống: improve waiting for webitems trước ngày 12/07/2025, ưu tiên trung bình.
+Linh cần response code/payload of addresscontroller api rest post/delete operations trước ngày 13/07/2025, ưu tiên thấp.
+Quân cần endpoints declaratively specified should be checked in status trước ngày 14/07/2025, ưu tiên cao.
+Hoa cần install enmasse on bosch openshift dedicated cluster trước ngày 15/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 10 tháng 07 năm 2025

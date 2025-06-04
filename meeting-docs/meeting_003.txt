@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 09/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+tách system-kiểm thử to full and reduced set of kiểm thử | Hoàng | 10/06/2025 | Chưa bắt đầu
+tạo documentation for kiểm thử hệ thống | Thảo | 11/06/2025 | Chưa bắt đầu
+Console Server: Make source of stats, source of địa chỉes pluggable | Vân | 12/06/2025 | Chưa bắt đầu
+React to changes in the địa chỉ definitions to ensure broker is correctly configured | Hải | 13/06/2025 | Chưa bắt đầu
+Cập nhật giao diện điều khiển to work seamlessly with trung gian địa chỉ space | Hoàng | 14/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần tách system-kiểm thử to full and reduced set of kiểm thử trước ngày 10/06/2025, ưu tiên cao.
+Thảo cần tạo documentation for kiểm thử hệ thống trước ngày 11/06/2025, ưu tiên trung bình.
+Vân cần console server: make source of stats, source of địa chỉes pluggable trước ngày 12/06/2025, ưu tiên thấp.
+Hải cần react to changes in the địa chỉ definitions to ensure broker is correctly configured trước ngày 13/06/2025, ưu tiên cao.
+Hoàng cần cập nhật giao diện điều khiển to work seamlessly with trung gian địa chỉ space trước ngày 14/06/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 09 tháng 06 năm 2025

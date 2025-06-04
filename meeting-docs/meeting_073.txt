@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 18/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+iot device registry : implement status field for iot devices | Hoàng | 19/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement set credentials for iot device | Thảo | 20/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement get credentials for iot device | Vân | 21/08/2025 | Chưa bắt đầu
+[CI] enable iot profile for nightly upstream testing | Hải | 22/08/2025 | Chưa bắt đầu
+[Shared Infra] [Identity] Basic Access Control Server | Hoàng | 23/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần iot device registry : implement status field for iot devices trước ngày 19/08/2025, ưu tiên cao.
+Thảo cần giao diện điều khiển backend : implement set credentials for iot device trước ngày 20/08/2025, ưu tiên trung bình.
+Vân cần giao diện điều khiển backend : implement get credentials for iot device trước ngày 21/08/2025, ưu tiên thấp.
+Hải cần [ci] enable iot profile for nightly upstream testing trước ngày 22/08/2025, ưu tiên cao.
+Hoàng cần [shared infra] [identity] basic access control server trước ngày 23/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 18 tháng 08 năm 2025

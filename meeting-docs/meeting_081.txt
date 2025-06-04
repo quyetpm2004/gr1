@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 26/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemkiểm thử] tekton allow to run iot kiểm thử and add examples | An | 27/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Sorting IoT devices by status date is not working | Bình | 28/08/2025 | Chưa bắt đầu
+[systemtest] rewrite resource manager to keep default resources if another test using it | Chi | 29/08/2025 | Chưa bắt đầu
+Yarn warnings since giao diện điều khiển-iot merge | Dũng | 30/08/2025 | Chưa bắt đầu
+Console-IoT-UI- deserialize function for credentials | An | 31/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần [systemkiểm thử] tekton allow to run iot kiểm thử and add examples trước ngày 27/08/2025, ưu tiên cao.
+Bình cần console-iot-ui - sorting iot devices by status date is not working trước ngày 28/08/2025, ưu tiên trung bình.
+Chi cần [systemtest] rewrite resource manager to keep default resources if another test using it trước ngày 29/08/2025, ưu tiên thấp.
+Dũng cần yarn warnings since giao diện điều khiển-iot merge trước ngày 30/08/2025, ưu tiên cao.
+An cần console-iot-ui- deserialize function for credentials trước ngày 31/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 26 tháng 08 năm 2025

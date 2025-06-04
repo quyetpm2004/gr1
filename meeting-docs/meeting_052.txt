@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 28/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console UI - Add filter for status in địa chỉ-space list | Phương | 29/07/2025 | Chưa bắt đầu
+Investigate what's needed for operations (nhật ký/monitoring) | Quang | 30/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Create Configuration Info Page | Lan | 31/07/2025 | Chưa bắt đầu
+System test to include filter địa chỉ-spaces by status field | Minh | 01/08/2025 | Chưa bắt đầu
+[systemtest] load env from json config | Phương | 02/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần console ui - add filter for status in địa chỉ-space list trước ngày 29/07/2025, ưu tiên cao.
+Quang cần investigate what's needed for operations (nhật ký/monitoring) trước ngày 30/07/2025, ưu tiên trung bình.
+Lan cần console-iot-ui- create configuration info page trước ngày 31/07/2025, ưu tiên thấp.
+Minh cần system test to include filter địa chỉ-spaces by status field trước ngày 01/08/2025, ưu tiên cao.
+Phương cần [systemtest] load env from json config trước ngày 02/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 28 tháng 07 năm 2025

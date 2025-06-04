@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 11/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Viết tài liệu về a new field for !!GLOBAL_DLQ | Phương | 12/09/2025 | Chưa bắt đầu
+[#5236] [#5276] Bump Netty 48.Final to 40.Final | Quang | 13/09/2025 | Chưa bắt đầu
+[#5265] Upgrade to fabric8 kubernetes-client 5.0. | Lan | 14/09/2025 | Chưa bắt đầu
+[#5249] Bump jackson-databind.version from 20 to  | Minh | 15/09/2025 | Chưa bắt đầu
+[#5272] Support router configuration maxMessageSize | Phương | 16/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần docs: viết tài liệu về a new field for !!global_dlq trước ngày 12/09/2025, ưu tiên cao.
+Quang cần [#5236] [#5276] bump netty 48.final to 40.final trước ngày 13/09/2025, ưu tiên trung bình.
+Lan cần [#5265] upgrade to fabric8 kubernetes-client 5.0. trước ngày 14/09/2025, ưu tiên thấp.
+Minh cần [#5249] bump jackson-databind.version from 20 to  trước ngày 15/09/2025, ưu tiên cao.
+Phương cần [#5272] support router configuration maxmessagesize trước ngày 16/09/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 11 tháng 09 năm 2025

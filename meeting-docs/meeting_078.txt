@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 23/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Add meaningful ID to địa chỉ module | Hoàng | 24/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Add meaningful ID to địa chỉ-detail module | Thảo | 25/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Add meaningful ID to connections module | Vân | 26/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Add meaningful ID to Endpoint module | Hải | 27/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Add meaningful ID to IoT Certificates module | Hoàng | 28/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần console-iot-ui - add meaningful id to địa chỉ module trước ngày 24/08/2025, ưu tiên cao.
+Thảo cần console-iot-ui- add meaningful id to địa chỉ-detail module trước ngày 25/08/2025, ưu tiên trung bình.
+Vân cần console-iot-ui - add meaningful id to connections module trước ngày 26/08/2025, ưu tiên thấp.
+Hải cần console-iot-ui - add meaningful id to endpoint module trước ngày 27/08/2025, ưu tiên cao.
+Hoàng cần console-iot-ui - add meaningful id to iot certificates module trước ngày 28/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 23 tháng 08 năm 2025

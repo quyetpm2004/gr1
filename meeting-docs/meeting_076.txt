@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 21/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Add iot tenant messaging credentials in graphQL | An | 22/08/2025 | Chưa bắt đầu
+[CI] Move github actions to go version 1 | Bình | 23/08/2025 | Chưa bắt đầu
+Docs: Add link to 1 resolved issues to 1 RNs | Chi | 24/08/2025 | Chưa bắt đầu
+Use OpenShift4 oauth-proxy when running on OpenShift | Dũng | 25/08/2025 | Chưa bắt đầu
+Console-IoT-UI-Edit in JSON under certificates not working | An | 26/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần add iot tenant messaging credentials in graphql trước ngày 22/08/2025, ưu tiên cao.
+Bình cần [ci] move github actions to go version 1 trước ngày 23/08/2025, ưu tiên trung bình.
+Chi cần docs: add link to 1 resolved issues to 1 rns trước ngày 24/08/2025, ưu tiên thấp.
+Dũng cần use openshift4 oauth-proxy when running on openshift trước ngày 25/08/2025, ưu tiên cao.
+An cần console-iot-ui-edit in json under certificates not working trước ngày 26/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 21 tháng 08 năm 2025

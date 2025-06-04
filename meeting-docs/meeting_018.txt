@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 24/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+SystemTests: trung gian/chuẩn: new test for keycloak persistent storage | Hoàng | 25/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: November list of disabled kiểm thử | Thảo | 26/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: tạotestAuthSendReceiveLong | Vân | 27/06/2025 | Chưa bắt đầu
+Productize ER3 of RHOM | Hải | 28/06/2025 | Chưa bắt đầu
+Thêm hỗ trợ cho checking requests against limits and setting status on địa chỉ | Hoàng | 29/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần systemtests: trung gian/chuẩn: new test for keycloak persistent storage trước ngày 25/06/2025, ưu tiên cao.
+Thảo cần kiểm thử hệ thống: november list of disabled kiểm thử trước ngày 26/06/2025, ưu tiên trung bình.
+Vân cần kiểm thử hệ thống: tạotestauthsendreceivelong trước ngày 27/06/2025, ưu tiên thấp.
+Hải cần productize er3 of rhom trước ngày 28/06/2025, ưu tiên cao.
+Hoàng cần thêm hỗ trợ cho checking requests against limits and setting status on địa chỉ trước ngày 29/06/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 24 tháng 06 năm 2025

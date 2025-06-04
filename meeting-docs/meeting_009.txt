@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 15/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+địa chỉ-bộ điều khiển is not really in ready=true state | Hoa | 16/06/2025 | Chưa bắt đầu
+Use proper return codes on success and failure in địa chỉ bộ điều khiển | Tuấn | 17/06/2025 | Chưa bắt đầu
+'Message not accepted' after sending message to địa chỉ which is tạod/removed in loop | Linh | 18/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: tạo test with scaling broker deployment up/down | Quân | 19/06/2025 | Chưa bắt đầu
+Authenticate /v1/địa chỉspaces API RESTs using RBAC | Hoa | 20/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần địa chỉ-bộ điều khiển is not really in ready=true state trước ngày 16/06/2025, ưu tiên cao.
+Tuấn cần use proper return codes on success and failure in địa chỉ bộ điều khiển trước ngày 17/06/2025, ưu tiên trung bình.
+Linh cần 'message not accepted' after sending message to địa chỉ which is tạod/removed in loop trước ngày 18/06/2025, ưu tiên thấp.
+Quân cần kiểm thử hệ thống: trung gian: tạo test with scaling broker deployment up/down trước ngày 19/06/2025, ưu tiên cao.
+Hoa cần authenticate /v1/địa chỉspaces api rests using rbac trước ngày 20/06/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 15 tháng 06 năm 2025

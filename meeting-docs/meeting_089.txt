@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 03/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Release Notes - Cập nhật Release Notes for Release  | Hoa | 04/09/2025 | Chưa bắt đầu
+Docs: Cập nhật AMQ Online Product Version attributes | Tuấn | 05/09/2025 | Chưa bắt đầu
+Docs: Remove IoT content from docs | Linh | 06/09/2025 | Chưa bắt đầu
+Console-IoT-UI- Handle server-side success/failed toast message | Quân | 07/09/2025 | Chưa bắt đầu
+Docs: Cập nhật ProductVersion attribute in downstream docs | Hoa | 08/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần docs: release notes - cập nhật release notes for release  trước ngày 04/09/2025, ưu tiên cao.
+Tuấn cần docs: cập nhật amq online product version attributes trước ngày 05/09/2025, ưu tiên trung bình.
+Linh cần docs: remove iot content from docs trước ngày 06/09/2025, ưu tiên thấp.
+Quân cần console-iot-ui- handle server-side success/failed toast message trước ngày 07/09/2025, ưu tiên cao.
+Hoa cần docs: cập nhật productversion attribute in downstream docs trước ngày 08/09/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 03 tháng 09 năm 2025

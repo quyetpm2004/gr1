@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 20/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Upgrade device list filter and handle staus change of devices | Sơn | 21/08/2025 | Chưa bắt đầu
+Console-IoT Add enable/disable option for iot project in project list | Phúc | 22/08/2025 | Chưa bắt đầu
+Rename IoTProject to IoTTenant | Khoa | 23/08/2025 | Chưa bắt đầu
+[IoT Design] External Project design | Lâm | 24/08/2025 | Chưa bắt đầu
+[CI] Parallelization of PR job | Sơn | 25/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần console-iot-ui - upgrade device list filter and handle staus change of devices trước ngày 21/08/2025, ưu tiên cao.
+Phúc cần console-iot add enable/disable option for iot project in project list trước ngày 22/08/2025, ưu tiên trung bình.
+Khoa cần rename iotproject to iottenant trước ngày 23/08/2025, ưu tiên thấp.
+Lâm cần [iot design] external project design trước ngày 24/08/2025, ưu tiên cao.
+Sơn cần [ci] parallelization of pr job trước ngày 25/08/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 20 tháng 08 năm 2025

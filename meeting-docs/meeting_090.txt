@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 04/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Modify Standard địa chỉ space image to remove MQTT gateway and clients | Sơn | 05/09/2025 | Chưa bắt đầu
+Docs: Cập nhật Supported features table | Phúc | 06/09/2025 | Chưa bắt đầu
+Docs: Cập nhật OCP prerequisites for installing AMQ Online | Khoa | 07/09/2025 | Chưa bắt đầu
+[systemtest] Create kiểm thử for DLQ via giao diện điều khiển | Lâm | 08/09/2025 | Chưa bắt đầu
+[systemtest] add ability to check lỗis in pod nhật ký during kiểm thử | Sơn | 09/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần docs: modify standard địa chỉ space image to remove mqtt gateway and clients trước ngày 05/09/2025, ưu tiên cao.
+Phúc cần docs: cập nhật supported features table trước ngày 06/09/2025, ưu tiên trung bình.
+Khoa cần docs: cập nhật ocp prerequisites for installing amq online trước ngày 07/09/2025, ưu tiên thấp.
+Lâm cần [systemtest] create kiểm thử for dlq via giao diện điều khiển trước ngày 08/09/2025, ưu tiên cao.
+Sơn cần [systemtest] add ability to check lỗis in pod nhật ký during kiểm thử trước ngày 09/09/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 04 tháng 09 năm 2025

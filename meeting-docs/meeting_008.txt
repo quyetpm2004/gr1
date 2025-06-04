@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 14/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: trung gian: test client JMS | Hoàng | 15/06/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: trung gian: extend xác thực kiểm thử | Thảo | 16/06/2025 | Chưa bắt đầu
+remove express dependency | Vân | 17/06/2025 | Chưa bắt đầu
+Cập nhật Keycloak dependency to version 3. | Hải | 18/06/2025 | Chưa bắt đầu
+Add the ability to use AMQP over WebSockets to a route on port 4 | Hoàng | 19/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần kiểm thử hệ thống: trung gian: test client jms trước ngày 15/06/2025, ưu tiên cao.
+Thảo cần kiểm thử hệ thống: trung gian: extend xác thực kiểm thử trước ngày 16/06/2025, ưu tiên trung bình.
+Vân cần remove express dependency trước ngày 17/06/2025, ưu tiên thấp.
+Hải cần cập nhật keycloak dependency to version 3. trước ngày 18/06/2025, ưu tiên cao.
+Hoàng cần add the ability to use amqp over websockets to a route on port 4 trước ngày 19/06/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 14 tháng 06 năm 2025

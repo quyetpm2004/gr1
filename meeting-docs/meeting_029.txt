@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 05/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+ | Hoa | 06/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo new test for replace địa chỉ-space list | Tuấn | 07/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo new test that verify that returned restapi routes are reachable | Linh | 08/07/2025 | Chưa bắt đầu
+tác tử: Results count is not set correctly after refresh the page | Quân | 09/07/2025 | Chưa bắt đầu
+Cấu hình per-địa chỉ settings for each địa chỉ tạod on broker | Hoa | 10/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần  trước ngày 06/07/2025, ưu tiên cao.
+Tuấn cần system-kiểm thử: tạo new test for replace địa chỉ-space list trước ngày 07/07/2025, ưu tiên trung bình.
+Linh cần system-kiểm thử: tạo new test that verify that returned restapi routes are reachable trước ngày 08/07/2025, ưu tiên thấp.
+Quân cần tác tử: results count is not set correctly after refresh the page trước ngày 09/07/2025, ưu tiên cao.
+Hoa cần cấu hình per-địa chỉ settings for each địa chỉ tạod on broker trước ngày 10/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 05 tháng 07 năm 2025

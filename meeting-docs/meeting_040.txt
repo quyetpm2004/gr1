@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 16/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] fix flaky rhea WS test on AWS cluster | Sơn | 17/07/2025 | Chưa bắt đầu
+Docs: Add procedure for deploying the chuẩn auth service for HA to downstream docs | Phúc | 18/07/2025 | Chưa bắt đầu
+[#4349] Console-UI Create DropdownWithToggle generic component | Khoa | 19/07/2025 | Chưa bắt đầu
+[#4349] Console-UI Create DropdownWithKebabToggle generic component | Lâm | 20/07/2025 | Chưa bắt đầu
+testAddressLinks sporadic failure | Sơn | 21/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần [systemtest] fix flaky rhea ws test on aws cluster trước ngày 17/07/2025, ưu tiên cao.
+Phúc cần docs: add procedure for deploying the chuẩn auth service for ha to downstream docs trước ngày 18/07/2025, ưu tiên trung bình.
+Khoa cần [#4349] console-ui create dropdownwithtoggle generic component trước ngày 19/07/2025, ưu tiên thấp.
+Lâm cần [#4349] console-ui create dropdownwithkebabtoggle generic component trước ngày 20/07/2025, ưu tiên cao.
+Sơn cần testaddresslinks sporadic failure trước ngày 21/07/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 16 tháng 07 năm 2025

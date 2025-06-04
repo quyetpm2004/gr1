@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 05/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Create ActionManager component for device detail page | Sơn | 06/08/2025 | Chưa bắt đầu
+Add version and commit revision metadata to operator metadata | Phúc | 07/08/2025 | Chưa bắt đầu
+io.enmasse.systemtest.isolated.catalog.ServiceCatalogWebTest  địa chỉ failed to become ready | Khoa | 08/08/2025 | Chưa bắt đầu
+Upgrade to Hono  | Lâm | 09/08/2025 | Chưa bắt đầu
+MonitorTest sporadic failure - query enmasse_địa chỉes_not_ready_total unexpected value | Sơn | 10/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần console-iot-ui- create actionmanager component for device detail page trước ngày 06/08/2025, ưu tiên cao.
+Phúc cần add version and commit revision metadata to operator metadata trước ngày 07/08/2025, ưu tiên trung bình.
+Khoa cần io.enmasse.systemtest.isolated.catalog.servicecatalogwebtest  địa chỉ failed to become ready trước ngày 08/08/2025, ưu tiên thấp.
+Lâm cần upgrade to hono  trước ngày 09/08/2025, ưu tiên cao.
+Sơn cần monitortest sporadic failure - query enmasse_địa chỉes_not_ready_total unexpected value trước ngày 10/08/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 05 tháng 08 năm 2025

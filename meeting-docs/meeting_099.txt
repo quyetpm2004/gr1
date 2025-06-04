@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 13/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Add note to install about CRD API v1 support | Hoa | 14/09/2025 | Chưa bắt đầu
+OCP 4 upgrade kiểm thử failing to install AMQ Online 1 (0/6 nodes are available: 3 Insufficient memory) | Tuấn | 15/09/2025 | Chưa bắt đầu
+Docs: Fix typo in code block | Linh | 16/09/2025 | Chưa bắt đầu
+broker-support người dùng unable to perform management functions since AMQ Broker 7. | Quân | 17/09/2025 | Chưa bắt đầu
+[CI] investigate why upstream jobs stopped triggering every day | Hoa | 18/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần docs: add note to install about crd api v1 support trước ngày 14/09/2025, ưu tiên cao.
+Tuấn cần ocp 4 upgrade kiểm thử failing to install amq online 1 (0/6 nodes are available: 3 insufficient memory) trước ngày 15/09/2025, ưu tiên trung bình.
+Linh cần docs: fix typo in code block trước ngày 16/09/2025, ưu tiên thấp.
+Quân cần broker-support người dùng unable to perform management functions since amq broker 7. trước ngày 17/09/2025, ưu tiên cao.
+Hoa cần [ci] investigate why upstream jobs stopped triggering every day trước ngày 18/09/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 13 tháng 09 năm 2025

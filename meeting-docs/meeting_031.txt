@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 07/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: tạo test for API REST - GET | /v1/địa chỉes/myspace/:name  | An | 08/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo set of kiểm thử for API REST - địa chỉ resource optional params are missing | Bình | 09/07/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: tạo test for API REST - GET /v1/schema | Chi | 10/07/2025 | Chưa bắt đầu
+Kiểm thử hệ thống: tạo test for API REST - DELETE | /v1/địa chỉes/myspace | Dũng | 11/07/2025 | Chưa bắt đầu
+chuẩn-bộ điều khiển: is trying to connect to router which was already killed | An | 12/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần kiểm thử hệ thống: tạo test for api rest - get | /v1/địa chỉes/myspace/:name  trước ngày 08/07/2025, ưu tiên cao.
+Bình cần system-kiểm thử: tạo set of kiểm thử for api rest - địa chỉ resource optional params are missing trước ngày 09/07/2025, ưu tiên trung bình.
+Chi cần kiểm thử hệ thống: tạo test for api rest - get /v1/schema trước ngày 10/07/2025, ưu tiên thấp.
+Dũng cần kiểm thử hệ thống: tạo test for api rest - delete | /v1/địa chỉes/myspace trước ngày 11/07/2025, ưu tiên cao.
+An cần chuẩn-bộ điều khiển: is trying to connect to router which was already killed trước ngày 12/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 07 tháng 07 năm 2025

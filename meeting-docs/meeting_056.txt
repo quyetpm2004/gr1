@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 01/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Create a visual component to view device detail information | An | 02/08/2025 | Chưa bắt đầu
+Console-Ui-iot Modify Dialog Prompt component to include icon color and label for confirm button | Bình | 03/08/2025 | Chưa bắt đầu
+Console-UI-IoT Integrate DataToolbar For Apply filter in Project List Page | Chi | 04/08/2025 | Chưa bắt đầu
+Console-UI-IoT Integrate Project List  component with mock server | Dũng | 05/08/2025 | Chưa bắt đầu
+Docs: Add procedure for enabling tracing for IoT infrastructure to downstream docs | An | 06/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần console-iot-ui - create a visual component to view device detail information trước ngày 02/08/2025, ưu tiên cao.
+Bình cần console-ui-iot modify dialog prompt component to include icon color and label for confirm button trước ngày 03/08/2025, ưu tiên trung bình.
+Chi cần console-ui-iot integrate datatoolbar for apply filter in project list page trước ngày 04/08/2025, ưu tiên thấp.
+Dũng cần console-ui-iot integrate project list  component with mock server trước ngày 05/08/2025, ưu tiên cao.
+An cần docs: add procedure for enabling tracing for iot infrastructure to downstream docs trước ngày 06/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 01 tháng 08 năm 2025

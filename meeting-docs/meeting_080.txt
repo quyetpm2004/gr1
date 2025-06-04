@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 25/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Sơn
+Phúc
+Khoa
+Lâm
+Quản lý dự án: Oanh
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Add meaningful ID to địa chỉ space module | Sơn | 26/08/2025 | Chưa bắt đầu
+[Console-Iot] Create Device Using Json format | Phúc | 27/08/2025 | Chưa bắt đầu
+Add validations on metadata values based on the Type | Khoa | 28/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate mock-server query with EditCredentialsContainer in device detail pege | Lâm | 29/08/2025 | Chưa bắt đầu
+[Access Control] add SASL PLAIN support and initial identity provider support | Sơn | 30/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Sơn cần console-iot-ui - add meaningful id to địa chỉ space module trước ngày 26/08/2025, ưu tiên cao.
+Phúc cần [console-iot] create device using json format trước ngày 27/08/2025, ưu tiên trung bình.
+Khoa cần add validations on metadata values based on the type trước ngày 28/08/2025, ưu tiên thấp.
+Lâm cần console-iot-ui- integrate mock-server query with editcredentialscontainer in device detail pege trước ngày 29/08/2025, ưu tiên cao.
+Sơn cần [access control] add sasl plain support and initial identity provider support trước ngày 30/08/2025, ưu tiên trung bình.
+
+Ký tên: Oanh
+Hà Nội, ngày 25 tháng 08 năm 2025

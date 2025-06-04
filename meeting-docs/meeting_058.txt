@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 03/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Create Device List Page and integrate the visual components | Hoàng | 04/08/2025 | Chưa bắt đầu
+Install ocp 31 with valid trusted cert | Thảo | 05/08/2025 | Chưa bắt đầu
+Flaky test monitoring địa chỉ | Vân | 06/08/2025 | Chưa bắt đầu
+UI Test Fails and warnings | Hải | 07/08/2025 | Chưa bắt đầu
+[systemtest] add ability to run kiểm thử against all kubernetes implementations | Hoàng | 08/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần console-iot-ui - create device list page and integrate the visual components trước ngày 04/08/2025, ưu tiên cao.
+Thảo cần install ocp 31 with valid trusted cert trước ngày 05/08/2025, ưu tiên trung bình.
+Vân cần flaky test monitoring địa chỉ trước ngày 06/08/2025, ưu tiên thấp.
+Hải cần ui test fails and warnings trước ngày 07/08/2025, ưu tiên cao.
+Hoàng cần [systemtest] add ability to run kiểm thử against all kubernetes implementations trước ngày 08/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 03 tháng 08 năm 2025

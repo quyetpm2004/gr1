@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 11/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[CI] change structure of jobs for enmasse 1.0 upstream | An | 12/08/2025 | Chưa bắt đầu
+Delete kiểm thử for old enmase 0.x | Bình | 13/08/2025 | Chưa bắt đầu
+Delete lib functions which we do not need for enmasse 1. | Chi | 14/08/2025 | Chưa bắt đầu
+Cập nhật iot giao diện điều khiển GraphQL types to reflect shared-infra changes | Dũng | 15/08/2025 | Chưa bắt đầu
+Add mock stats for IOT entities in mock server | An | 16/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần [ci] change structure of jobs for enmasse 1.0 upstream trước ngày 12/08/2025, ưu tiên cao.
+Bình cần delete kiểm thử for old enmase 0.x trước ngày 13/08/2025, ưu tiên trung bình.
+Chi cần delete lib functions which we do not need for enmasse 1. trước ngày 14/08/2025, ưu tiên thấp.
+Dũng cần cập nhật iot giao diện điều khiển graphql types to reflect shared-infra changes trước ngày 15/08/2025, ưu tiên cao.
+An cần add mock stats for iot entities in mock server trước ngày 16/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 11 tháng 08 năm 2025

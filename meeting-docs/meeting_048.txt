@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 24/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - Create Toolbar for Device List | Hoàng | 25/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Table component for Device LIst | Thảo | 26/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Bulk Select component | Vân | 27/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Empty Result component for Device List | Hải | 28/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Add Gateway step for Add Device Wizard | Hoàng | 29/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần console-iot-ui - create toolbar for device list trước ngày 25/07/2025, ưu tiên cao.
+Thảo cần console-iot-ui - create table component for device list trước ngày 26/07/2025, ưu tiên trung bình.
+Vân cần console-iot-ui - create bulk select component trước ngày 27/07/2025, ưu tiên thấp.
+Hải cần console-iot-ui - create empty result component for device list trước ngày 28/07/2025, ưu tiên cao.
+Hoàng cần console-iot-ui - create add gateway step for add device wizard trước ngày 29/07/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 24 tháng 07 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 22/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[Shared infra] Use SASL EXTERNAL for router and broker management for shared infra | An | 23/07/2025 | Chưa bắt đầu
+Lower default globalMaxSize of broker to 1/4 of broker heap | Bình | 24/07/2025 | Chưa bắt đầu
+Extend địa chỉspaceschema to enumerate endpoint types and certification providers | Chi | 25/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Create visual component for metadata in Create Device | Dũng | 26/07/2025 | Chưa bắt đầu
+Console-IoT-UI: Add auto populate feature for properties in metadata | An | 27/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần [shared infra] use sasl external for router and broker management for shared infra trước ngày 23/07/2025, ưu tiên cao.
+Bình cần lower default globalmaxsize of broker to 1/4 of broker heap trước ngày 24/07/2025, ưu tiên trung bình.
+Chi cần extend địa chỉspaceschema to enumerate endpoint types and certification providers trước ngày 25/07/2025, ưu tiên thấp.
+Dũng cần console-iot-ui- create visual component for metadata in create device trước ngày 26/07/2025, ưu tiên cao.
+An cần console-iot-ui: add auto populate feature for properties in metadata trước ngày 27/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 22 tháng 07 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 17/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[#4522] Cập nhật yarn dependencies | An | 18/07/2025 | Chưa bắt đầu
+[#4349] Console UI - Code refactoring  and creating reusable components. | Bình | 19/07/2025 | Chưa bắt đầu
+[Docs] correct OpenShift refs in kube docs for giao diện điều khiển | Chi | 20/07/2025 | Chưa bắt đầu
+Docs: Add link to 1 fixed issues to 1 RNs | Dũng | 21/07/2025 | Chưa bắt đầu
+Refactor GraphQL purgeAddress to permit multiple target địa chỉes | An | 22/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần [#4522] cập nhật yarn dependencies trước ngày 18/07/2025, ưu tiên cao.
+Bình cần [#4349] console ui - code refactoring  and creating reusable components. trước ngày 19/07/2025, ưu tiên trung bình.
+Chi cần [docs] correct openshift refs in kube docs for giao diện điều khiển trước ngày 20/07/2025, ưu tiên thấp.
+Dũng cần docs: add link to 1 fixed issues to 1 rns trước ngày 21/07/2025, ưu tiên cao.
+An cần refactor graphql purgeaddress to permit multiple target địa chỉes trước ngày 22/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 17 tháng 07 năm 2025

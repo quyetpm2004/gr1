@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 27/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI-Fix alignment isuues in add a device modal dialog | Phương | 28/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Add meaningful ID to components folder | Quang | 29/08/2025 | Chưa bắt đầu
+messaging-monitoring-app exclude connection/session establishment from latency time. | Lan | 30/08/2025 | Chưa bắt đầu
+Docs: Release Notes - Remove workaround for issue when installing AMQ Online from the OperatorHub on OpenShift 41 and  | Minh | 31/08/2025 | Chưa bắt đầu
+[Console-Iot] Integrate Create Device using JSON component with mock server | Phương | 01/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần console-iot-ui-fix alignment isuues in add a device modal dialog trước ngày 28/08/2025, ưu tiên cao.
+Quang cần console-iot-ui - add meaningful id to components folder trước ngày 29/08/2025, ưu tiên trung bình.
+Lan cần messaging-monitoring-app exclude connection/session establishment from latency time. trước ngày 30/08/2025, ưu tiên thấp.
+Minh cần docs: release notes - remove workaround for issue when installing amq online from the operatorhub on openshift 41 and  trước ngày 31/08/2025, ưu tiên cao.
+Phương cần [console-iot] integrate create device using json component with mock server trước ngày 01/09/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 27 tháng 08 năm 2025

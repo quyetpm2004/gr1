@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 20/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Define process for testing productised images | Hoa | 21/06/2025 | Chưa bắt đầu
+Define tasks for adding downstream CI | Tuấn | 22/06/2025 | Chưa bắt đầu
+Create systemkiểm thử for open service broker api | Linh | 23/06/2025 | Chưa bắt đầu
+Define long running kiểm thử | Quân | 24/06/2025 | Chưa bắt đầu
+Define giao diện điều khiển kiểm thử | Hoa | 25/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần define process for testing productised images trước ngày 21/06/2025, ưu tiên cao.
+Tuấn cần define tasks for adding downstream ci trước ngày 22/06/2025, ưu tiên trung bình.
+Linh cần create systemkiểm thử for open service broker api trước ngày 23/06/2025, ưu tiên thấp.
+Quân cần define long running kiểm thử trước ngày 24/06/2025, ưu tiên cao.
+Hoa cần define giao diện điều khiển kiểm thử trước ngày 25/06/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 20 tháng 06 năm 2025

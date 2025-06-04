@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 16/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+iot giao diện điều khiển metrics | An | 17/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement delete iot tenant | Bình | 18/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement tạo iot tenant | Chi | 19/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : implement toggle iot tenant state | Dũng | 20/08/2025 | Chưa bắt đầu
+giao diện điều khiển backend : design iot tenant and messaging projects lists | An | 21/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần iot giao diện điều khiển metrics trước ngày 17/08/2025, ưu tiên cao.
+Bình cần giao diện điều khiển backend : implement delete iot tenant trước ngày 18/08/2025, ưu tiên trung bình.
+Chi cần giao diện điều khiển backend : implement tạo iot tenant trước ngày 19/08/2025, ưu tiên thấp.
+Dũng cần giao diện điều khiển backend : implement toggle iot tenant state trước ngày 20/08/2025, ưu tiên cao.
+An cần giao diện điều khiển backend : design iot tenant and messaging projects lists trước ngày 21/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 16 tháng 08 năm 2025

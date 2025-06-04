@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 31/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Wrong verification step for xác thực service config | An | 01/09/2025 | Chưa bắt đầu
+Console-IoT-UI- Add meaningful ID to messaging project module | Bình | 02/09/2025 | Chưa bắt đầu
+Console-IoT-UI- Fix alignment issue for Project List toolbar | Chi | 03/09/2025 | Chưa bắt đầu
+Console-IoT-UI- Create visual component for add gateways group  (member of) | Dũng | 04/09/2025 | Chưa bắt đầu
+Minor documentation fixes | An | 05/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần wrong verification step for xác thực service config trước ngày 01/09/2025, ưu tiên cao.
+Bình cần console-iot-ui- add meaningful id to messaging project module trước ngày 02/09/2025, ưu tiên trung bình.
+Chi cần console-iot-ui- fix alignment issue for project list toolbar trước ngày 03/09/2025, ưu tiên thấp.
+Dũng cần console-iot-ui- create visual component for add gateways group  (member of) trước ngày 04/09/2025, ưu tiên cao.
+An cần minor documentation fixes trước ngày 05/09/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 31 tháng 08 năm 2025

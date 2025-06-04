@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 02/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Kiểm thử hệ thống: framework: fetch the restapi cert | An | 03/07/2025 | Chưa bắt đầu
+system-kiểm thử: tạo new test for thorough testing of API REST for địa chỉ/địa chỉ-space | Bình | 04/07/2025 | Chưa bắt đầu
+system-kiểm thử: new scale test: testCreditLimitation ({sharded,pooled}{hàng đợi,chủ đề}) | Chi | 05/07/2025 | Chưa bắt đầu
+Add Viết tài liệu vềation Conventions to Guide | Dũng | 06/07/2025 | Chưa bắt đầu
+Make global-max-size parameter configurable via mẫu/plan | An | 07/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần kiểm thử hệ thống: framework: fetch the restapi cert trước ngày 03/07/2025, ưu tiên cao.
+Bình cần system-kiểm thử: tạo new test for thorough testing of api rest for địa chỉ/địa chỉ-space trước ngày 04/07/2025, ưu tiên trung bình.
+Chi cần system-kiểm thử: new scale test: testcreditlimitation ({sharded,pooled}{hàng đợi,chủ đề}) trước ngày 05/07/2025, ưu tiên thấp.
+Dũng cần add viết tài liệu vềation conventions to guide trước ngày 06/07/2025, ưu tiên cao.
+An cần make global-max-size parameter configurable via mẫu/plan trước ngày 07/07/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 02 tháng 07 năm 2025

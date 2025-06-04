@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 29/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Viết tài liệu về Pods overview | Hoa | 30/08/2025 | Chưa bắt đầu
+[CI] tạo job which check stage images and mẫus | Tuấn | 31/08/2025 | Chưa bắt đầu
+[CI] tạo job which check released images and mẫus | Linh | 01/09/2025 | Chưa bắt đầu
+FirefoxConsoleTest.testOpenShiftWithCustomCert on OpenShift  | Quân | 02/09/2025 | Chưa bắt đầu
+Use non-nodeport approach for kiểm thử on OCP | Hoa | 03/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần docs: viết tài liệu về pods overview trước ngày 30/08/2025, ưu tiên cao.
+Tuấn cần [ci] tạo job which check stage images and mẫus trước ngày 31/08/2025, ưu tiên trung bình.
+Linh cần [ci] tạo job which check released images and mẫus trước ngày 01/09/2025, ưu tiên thấp.
+Quân cần firefoxconsoletest.testopenshiftwithcustomcert on openshift  trước ngày 02/09/2025, ưu tiên cao.
+Hoa cần use non-nodeport approach for kiểm thử on ocp trước ngày 03/09/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 29 tháng 08 năm 2025

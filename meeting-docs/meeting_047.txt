@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 23/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Add and remove siblings and children in device registration metadata | Phương | 24/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Formulate json using device registration form | Quang | 25/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Add validations on nested data structure | Lan | 26/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Empty State component for device list | Minh | 27/07/2025 | Chưa bắt đầu
+Console-IoT-UI - Create Alert component for Device List | Phương | 28/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần console-iot-ui- add and remove siblings and children in device registration metadata trước ngày 24/07/2025, ưu tiên cao.
+Quang cần console-iot-ui- formulate json using device registration form trước ngày 25/07/2025, ưu tiên trung bình.
+Lan cần console-iot-ui- add validations on nested data structure trước ngày 26/07/2025, ưu tiên thấp.
+Minh cần console-iot-ui - create empty state component for device list trước ngày 27/07/2025, ưu tiên cao.
+Phương cần console-iot-ui - create alert component for device list trước ngày 28/07/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 23 tháng 07 năm 2025

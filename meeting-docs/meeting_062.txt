@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 07/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Add kebab dropdown options based on backend response in device detail  page | Phương | 08/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate mock-server queries in EditGatewaysContainer device detail page | Quang | 09/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate mock-server queries  with EditDeviceInJsonContainer in device detail page | Lan | 10/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate change connection type (kebab dropdown option) functionality in device detail page | Minh | 11/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Integrate mock-server queries with AddCredentialsContainer in device detail page | Phương | 12/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần console-iot-ui- add kebab dropdown options based on backend response in device detail  page trước ngày 08/08/2025, ưu tiên cao.
+Quang cần console-iot-ui- integrate mock-server queries in editgatewayscontainer device detail page trước ngày 09/08/2025, ưu tiên trung bình.
+Lan cần console-iot-ui- integrate mock-server queries  with editdeviceinjsoncontainer in device detail page trước ngày 10/08/2025, ưu tiên thấp.
+Minh cần console-iot-ui- integrate change connection type (kebab dropdown option) functionality in device detail page trước ngày 11/08/2025, ưu tiên cao.
+Phương cần console-iot-ui- integrate mock-server queries with addcredentialscontainer in device detail page trước ngày 12/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 07 tháng 08 năm 2025

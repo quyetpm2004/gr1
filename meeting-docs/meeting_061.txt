@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 06/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI - add dianhật ký for device list page | An | 07/08/2025 | Chưa bắt đầu
+[systemtest] fix flaxy service catalog trung gian test | Bình | 08/08/2025 | Chưa bắt đầu
+Console-IoT-UI - adjust alert and empty state according to number of devices | Chi | 09/08/2025 | Chưa bắt đầu
+[systemtest] upgrade to surefire plugin 3.0.0-M5 and remove workarounds | Dũng | 10/08/2025 | Chưa bắt đầu
+Upgrade Patternfly | An | 11/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần console-iot-ui - add dianhật ký for device list page trước ngày 07/08/2025, ưu tiên cao.
+Bình cần [systemtest] fix flaxy service catalog trung gian test trước ngày 08/08/2025, ưu tiên trung bình.
+Chi cần console-iot-ui - adjust alert and empty state according to number of devices trước ngày 09/08/2025, ưu tiên thấp.
+Dũng cần [systemtest] upgrade to surefire plugin 3.0.0-m5 and remove workarounds trước ngày 10/08/2025, ưu tiên cao.
+An cần upgrade patternfly trước ngày 11/08/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 06 tháng 08 năm 2025

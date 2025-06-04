@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 07/06/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+An
+Bình
+Chi
+Dũng
+Quản lý dự án: Em
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Thêm hỗ trợ cho maintaining endpoints and địa chỉ space readiness for trung gian địa chỉ space | An | 08/06/2025 | Chưa bắt đầu
+Viết tài liệu về trung gian địa chỉ space | Bình | 09/06/2025 | Chưa bắt đầu
+Khởi tạo mẫu for trung gian địa chỉ space type in bộ điều khiển for trung gian địa chỉ space | Chi | 10/06/2025 | Chưa bắt đầu
+Cập nhật Artemis startup scripts to support trung gian địa chỉ space | Dũng | 11/06/2025 | Chưa bắt đầu
+Thêm hỗ trợ cho different địa chỉ space types to systemtest framework | An | 12/06/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+An cần thêm hỗ trợ cho maintaining endpoints and địa chỉ space readiness for trung gian địa chỉ space trước ngày 08/06/2025, ưu tiên cao.
+Bình cần viết tài liệu về trung gian địa chỉ space trước ngày 09/06/2025, ưu tiên trung bình.
+Chi cần khởi tạo mẫu for trung gian địa chỉ space type in bộ điều khiển for trung gian địa chỉ space trước ngày 10/06/2025, ưu tiên thấp.
+Dũng cần cập nhật artemis startup scripts to support trung gian địa chỉ space trước ngày 11/06/2025, ưu tiên cao.
+An cần thêm hỗ trợ cho different địa chỉ space types to systemtest framework trước ngày 12/06/2025, ưu tiên trung bình.
+
+Ký tên: Em
+Hà Nội, ngày 07 tháng 06 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 02/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Phương
+Quang
+Lan
+Minh
+Quản lý dự án: Ngọc
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] write workaround for catching all beforeall install issue | Phương | 03/08/2025 | Chưa bắt đầu
+Docs: Add địa chỉ canary metrics to downstream docs | Quang | 04/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Viết graphql query for DeviceDetailPage and Integrate with UI | Lan | 05/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Create DeviceInfo container,  write query and integrate with mock server | Minh | 06/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Create ConfigurationInfo  container,  write query and integrate with mock server | Phương | 07/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Phương cần [systemtest] write workaround for catching all beforeall install issue trước ngày 03/08/2025, ưu tiên cao.
+Quang cần docs: add địa chỉ canary metrics to downstream docs trước ngày 04/08/2025, ưu tiên trung bình.
+Lan cần console-iot-ui- viết graphql query for devicedetailpage and integrate with ui trước ngày 05/08/2025, ưu tiên thấp.
+Minh cần console-iot-ui- create deviceinfo container,  write query and integrate with mock server trước ngày 06/08/2025, ưu tiên cao.
+Phương cần console-iot-ui- create configurationinfo  container,  write query and integrate with mock server trước ngày 07/08/2025, ưu tiên trung bình.
+
+Ký tên: Ngọc
+Hà Nội, ngày 02 tháng 08 năm 2025

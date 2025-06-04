@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 02/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Integrate pre-confirm dialog for remove gateways and credentials in device detail page | Hoàng | 03/09/2025 | Chưa bắt đầu
+[CI] restore old pipelines for amq online and merge into master | Thảo | 04/09/2025 | Chưa bắt đầu
+[UXD] V2.0 UI Changes for Endpoint | Vân | 05/09/2025 | Chưa bắt đầu
+[systemtest] Cập nhật metadata for priority forwards | Hải | 06/09/2025 | Chưa bắt đầu
+[Viết tài liệu vềation] Viết tài liệu về changing broker logging level at runtime | Hoàng | 07/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần console-iot-ui- integrate pre-confirm dialog for remove gateways and credentials in device detail page trước ngày 03/09/2025, ưu tiên cao.
+Thảo cần [ci] restore old pipelines for amq online and merge into master trước ngày 04/09/2025, ưu tiên trung bình.
+Vân cần [uxd] v2.0 ui changes for endpoint trước ngày 05/09/2025, ưu tiên thấp.
+Hải cần [systemtest] cập nhật metadata for priority forwards trước ngày 06/09/2025, ưu tiên cao.
+Hoàng cần [viết tài liệu vềation] viết tài liệu về changing broker logging level at runtime trước ngày 07/09/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 02 tháng 09 năm 2025

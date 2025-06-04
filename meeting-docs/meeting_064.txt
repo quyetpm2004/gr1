@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 09/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Add procedure to downstream docs for obtaining an xác thực token | Hoa | 10/08/2025 | Chưa bắt đầu
+Create polarion metadata for new kiểm thử for 1. | Tuấn | 11/08/2025 | Chưa bắt đầu
+Docs: Add securityContext field to the trung gian/chuẩn infra config | Linh | 12/08/2025 | Chưa bắt đầu
+[CI] tạo job which repush images from proxy registry into private quay | Quân | 13/08/2025 | Chưa bắt đầu
+[CI] tạo job which build new mẫus with private quay images | Hoa | 14/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần docs: add procedure to downstream docs for obtaining an xác thực token trước ngày 10/08/2025, ưu tiên cao.
+Tuấn cần create polarion metadata for new kiểm thử for 1. trước ngày 11/08/2025, ưu tiên trung bình.
+Linh cần docs: add securitycontext field to the trung gian/chuẩn infra config trước ngày 12/08/2025, ưu tiên thấp.
+Quân cần [ci] tạo job which repush images from proxy registry into private quay trước ngày 13/08/2025, ưu tiên cao.
+Hoa cần [ci] tạo job which build new mẫus with private quay images trước ngày 14/08/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 09 tháng 08 năm 2025

@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 25/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Docs: Viết tài liệu về procedure for closing connections using AMQ Console | Hoa | 26/07/2025 | Chưa bắt đầu
+Create giao diện điều khiển kiểm thử hệ thống for the endpoint features | Tuấn | 27/07/2025 | Chưa bắt đầu
+Docs: Add procedures for configuring IoT infrastructure logging to downstream docs | Linh | 28/07/2025 | Chưa bắt đầu
+[suite] add ability to override cluster type in systemkiểm thử | Quân | 29/07/2025 | Chưa bắt đầu
+[systemtest] Create kiểm thử for service selectors | Hoa | 30/07/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần docs: viết tài liệu về procedure for closing connections using amq console trước ngày 26/07/2025, ưu tiên cao.
+Tuấn cần create giao diện điều khiển kiểm thử hệ thống for the endpoint features trước ngày 27/07/2025, ưu tiên trung bình.
+Linh cần docs: add procedures for configuring iot infrastructure logging to downstream docs trước ngày 28/07/2025, ưu tiên thấp.
+Quân cần [suite] add ability to override cluster type in systemkiểm thử trước ngày 29/07/2025, ưu tiên cao.
+Hoa cần [systemtest] create kiểm thử for service selectors trước ngày 30/07/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 25 tháng 07 năm 2025

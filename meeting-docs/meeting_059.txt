@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 04/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoa
+Tuấn
+Linh
+Quân
+Quản lý dự án: Hòa
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Enable websocket kiểm thử for OCP  | Hoa | 05/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Create component for Error States  in DeviceInfo Page | Tuấn | 06/08/2025 | Chưa bắt đầu
+Rewrite smoke kiểm thử to run messaging clients in kubernetes pods | Linh | 07/08/2025 | Chưa bắt đầu
+Console-UI-IoT Integrate endpoint configuration to tạo messaging project in iot-design | Quân | 08/08/2025 | Chưa bắt đầu
+Enhance trung gian địa chỉ space's địa chỉ bộ điều khiển (tác tử) to populate địa chỉ plan status | Hoa | 09/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoa cần enable websocket kiểm thử for ocp  trước ngày 05/08/2025, ưu tiên cao.
+Tuấn cần console-iot-ui- create component for error states  in deviceinfo page trước ngày 06/08/2025, ưu tiên trung bình.
+Linh cần rewrite smoke kiểm thử to run messaging clients in kubernetes pods trước ngày 07/08/2025, ưu tiên thấp.
+Quân cần console-ui-iot integrate endpoint configuration to tạo messaging project in iot-design trước ngày 08/08/2025, ưu tiên cao.
+Hoa cần enhance trung gian địa chỉ space's địa chỉ bộ điều khiển (tác tử) to populate địa chỉ plan status trước ngày 09/08/2025, ưu tiên trung bình.
+
+Ký tên: Hòa
+Hà Nội, ngày 04 tháng 08 năm 2025

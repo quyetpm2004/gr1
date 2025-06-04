@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 29/07/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+[systemtest] đổi tên messagingPerformanceTest to scaleConnectionTest | Hoàng | 30/07/2025 | Chưa bắt đầu
+Console-IoT-UI- Create Device Detail Page and Integrate all UI components | Thảo | 31/07/2025 | Chưa bắt đầu
+Add polarion requirements for 1. | Vân | 01/08/2025 | Chưa bắt đầu
+Integrate Project Detail Header with mock server | Hải | 02/08/2025 | Chưa bắt đầu
+Console-IoT-UI- Create form for Device Information | Hoàng | 03/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần [systemtest] đổi tên messagingperformancetest to scaleconnectiontest trước ngày 30/07/2025, ưu tiên cao.
+Thảo cần console-iot-ui- create device detail page and integrate all ui components trước ngày 31/07/2025, ưu tiên trung bình.
+Vân cần add polarion requirements for 1. trước ngày 01/08/2025, ưu tiên thấp.
+Hải cần integrate project detail header with mock server trước ngày 02/08/2025, ưu tiên cao.
+Hoàng cần console-iot-ui- create form for device information trước ngày 03/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 29 tháng 07 năm 2025

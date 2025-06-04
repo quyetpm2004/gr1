@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 07/09/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Make broker behavior on rejected messages configurable | Hoàng | 08/09/2025 | Chưa bắt đầu
+Make broker behavior on rejected messages configurable on  | Thảo | 09/09/2025 | Chưa bắt đầu
+Create job which test operator from index image (CVP, CPAAS) | Vân | 10/09/2025 | Chưa bắt đầu
+[#5232] Change images source from docker to quay | Hải | 11/09/2025 | Chưa bắt đầu
+Identify flaky kiểm thử from latest 1 and 1 runs make list | Hoàng | 12/09/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần make broker behavior on rejected messages configurable trước ngày 08/09/2025, ưu tiên cao.
+Thảo cần make broker behavior on rejected messages configurable on  trước ngày 09/09/2025, ưu tiên trung bình.
+Vân cần create job which test operator from index image (cvp, cpaas) trước ngày 10/09/2025, ưu tiên thấp.
+Hải cần [#5232] change images source from docker to quay trước ngày 11/09/2025, ưu tiên cao.
+Hoàng cần identify flaky kiểm thử from latest 1 and 1 runs make list trước ngày 12/09/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 07 tháng 09 năm 2025

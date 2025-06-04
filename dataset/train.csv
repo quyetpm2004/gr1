@@ -1,0 +1,1100 @@
+text,label
+"Với mức độ ưu tiên Cao, Long chịu trách nhiệm Cập nhật ragent để hỗ trợ mô hình address mới của dự án EnRoute – Messaging Address Controller trước lễ 30/4",1
+"cho dự án TypedAddress MaaS Core, Lan cần Console-IoT-UI - Tạo form cho Device Information vào thứ 5 với mức độ ưu tiên Cao",1
+"Với tư cách Monitor , xem tất cả connections cho một address space cùng với authenticated identity , age , last activity time , ingress / egress rates , protocol trong dự án TypedAddress MaaS Core cần được thực hiện bởi Nguyễn Văn Hải trước ngày 01/01/2026 với ưu tiên Trung bình",1
+Long thực hiện API console authentication services chỉ đọc [ console mock ser ver ] trước ngày 25 tháng 12 trong dự án Cloud Messaging Orchestrator,1
+"cho dự án A-MQ Messaging-as-a-Service, Long triển khai Mục đích của topic receiver count không rõ ràng trước 17h chiều nay với mức độ ưu tiên Bình thường",1
+"thuộc dự án Cloud Messaging Orchestrator, Hồng chịu trách nhiệm Sử dụng address trên address list page thay vì name hạn cuối là 10/06 với mức độ ưu tiên Trung bình",1
+Cho phép sắp xếp Addresses theo số lượng message cho dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Nguyễn Văn Hải hạn cuối là 10/06 với ưu tiên Bình thường,1
+Mai được giao Triển khai Hono Tenant API được hỗ trợ bởi CRDs trong vòng 1 giờ nữa với mức độ ưu tiên Vừa phải,1
+"Với mức độ ưu tiên Khẩn cấp, Nguyễn Văn Hải phải [ Test ] Điều tra LPT run test fails thuộc dự án TypedAddress MaaS Core vào lúc 10h30 sáng thứ 5",1
+Nam yêu cầu Làm cho hành vi broker trên rejected messages có thể cấu hình trước ngày 25 tháng 12 ,1
+"Giao cho Tài CVP trigger job từ iib message và chạy olm tests của dự án ,dealine: sáng thứ 3 tới với ưu tiên Khẩn cấp",1
+"trước ngày 31/12/2025, Nam đảm bảo Docs : Xoá nội dung IoT khỏi docs thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+Tài thực hiện Network policies không được xoá khi address space bị xoá vào lúc 10h sáng thứ 2 tuần sau của dự án MeshRoute,1
+Long yêu cầu Console-IoT-UI - Tích hợp change connection type ( kebab dropdown option ) functionality trong device detail page đầu tháng sau với mức độ ưu tiên Khẩn cấp,1
+"Với mức độ ưu tiên Vừa phải, Tài chịu trách nhiệm Tạo device registry dựa trên JDBC cho dự án EnRoute – Messaging Address Controller trước ngày 25 tháng 12",1
+"Giao cho Trương Văn Đức Với tư cách Tenant Admin , liên kết address với Dead Letter Queue nơi các messages hết hạn hoặc không thể phân phối có thể được định tuyến của dự án ,dealine: trước 17h chiều nay với ưu tiên Trung bình",1
+Nguyễn Thanh Hiếu cần Console-Ui-iot Sửa đổi Dialog Prompt component để bao gồm icon color và label cho confirm button trước ngày 01/05/2025 ,1
+Hồng thực hiện Resource defragmentation cho pooled addresses không hoạt động trong dự án MeshRoute trước thứ 2 tuần sau với mức độ ưu tiên Gấp,1
+Trương Văn Đức cần [ CI ] Kiểm tra weekly ocp vào lúc 10h30 sáng thứ 5 ,1
+"Minh tiếp tục hỗ trợ nhóm frontend kiểm tra xử lý lỗi hiển thị sau tích hợp.",1
+"Hải theo dõi tiến độ và đảm bảo các nhóm phối hợp nhịp nhàng theo kế hoạch.",1
+"Tài cập nhật toàn bộ test case lên hệ thống quản lý kiểm thử trong ngày hôm nay.",1
+"Mai hoàn thành giao diện phần báo cáo trước ngày 20/04.",1
+"Long thực hiện rà soát mã nguồn backend để phát hiện các lỗi tiềm ẩn.",1
+"Minh viết tài liệu hướng dẫn sử dụng dashboard cho người dùng cuối.",1
+"Hải lên lịch họp sprint review cho tuần tới.",1
+"Tài phân tích hiệu năng chức năng tìm kiếm và tối ưu nếu cần.",1
+"Mai bổ sung xác thực hai lớp (2FA) vào giao diện đăng nhập.",1
+"Long cập nhật thông tin phiên bản API trong tài liệu kỹ thuật.",1
+"Quỳnh thiết kế khung hiển thị thông báo lỗi theo chuẩn UX mới.",1
+"Hòa kiểm thử chức năng quản lý người dùng trên trình duyệt Safari.",1
+"Kỳ Anh tạo sơ đồ class UML cho module xử lý đơn hàng.",1
+"Hiệp cấu hình tham số memory limit cho container backend.",1
+"Sơn triển khai chức năng xuất file báo cáo PDF cho admin.",1
+"Trung viết unit test cho module xác thực người dùng.",1
+"Bảo tối ưu responsive layout để tương thích tốt với tablet.",1
+"Kiên tổng hợp feedback từ người dùng thử nghiệm giai đoạn 1.",1
+"Quang tích hợp hệ thống đăng nhập bằng Google SSO.",1
+"Minh phối hợp với nhóm backend kiểm tra kết nối API.",1
+"Hải cập nhật biểu đồ Gantt cho toàn bộ tiến độ dự án.",1
+"Tài cấu hình CI/CD pipeline cho môi trường staging.",1
+"Mai kiểm tra lại các liên kết trong giao diện trang chủ.",1
+"Long xác minh dữ liệu mẫu trên môi trường production.",1
+"Hòa viết tài liệu README cho kho mã nguồn frontend.",1
+"Kỳ Anh hỗ trợ kiểm thử đa trình duyệt cho phiên bản mới.",1
+"Hiệp triển khai logging cho toàn bộ API endpoint.",1
+"Sơn mô hình hóa các flow xử lý trong sơ đồ hoạt động BPMN.",1
+"Trung cập nhật tài liệu hướng dẫn cài đặt hệ thống.",1
+"Bảo cải tiến hiệu năng tải trang dashboard chính.",1
+"Kiên kiểm tra lại permission role của từng loại người dùng.",1
+"Quang sửa lỗi không hiển thị thông báo khi đăng ký thất bại.",1
+"Minh thiết kế màn hình chi tiết công việc theo yêu cầu mới.",1
+"Tài kiểm thử đồng thời nhiều phiên người dùng đăng nhập.",1
+"Hải phân tích nguy cơ chậm tiến độ từ nhóm thiết kế.",1
+"Mai hoàn tất thiết kế biểu mẫu nhập dữ liệu.",1
+"Long đảm bảo đồng bộ dữ liệu giữa các bảng liên quan.",1
+"Quỳnh rà soát tất cả commit trước khi tạo pull request.",1
+"Hòa tích hợp thư viện biểu đồ để hiển thị thống kê.",1
+"Kỳ Anh viết test automation cho quy trình đăng ký.",1
+"Hiệp triển khai cảnh báo lỗi trong môi trường staging.",1
+"Sơn phân tích log hệ thống để xác định nguyên nhân lỗi 502.",1
+"Trung hoàn thiện phần upload hình ảnh với tính năng preview.",1
+"Bảo chuẩn hóa code CSS theo cấu trúc BEM.",1
+"Kiên tổ chức buổi demo chức năng chính với khách hàng.",1
+"Quang tạo biểu mẫu phản hồi người dùng trên giao diện.",1
+"Minh xây dựng cấu trúc thư mục cho frontend project.",1
+"Tài cập nhật cấu hình nginx để hỗ trợ rewrite URL.",1
+"Hải xác minh các điều kiện đầu vào trong tất cả form.",1
+"Mai viết checklist kiểm tra chất lượng phần mềm trước release.",1
+"Giao cho Mai MQTT có phải là loại namespace - Cung cấp cách cấu hình mapping và chỉ định plan ,dealine: lúc 14h ngày 25/12/2025 với ưu tiên Trung bình",1
+"Giao cho Lan Console-IoT-UI - Triển khai clone device functionality trong device detail page ,dealine: trước ngày 31/12/2025 với ưu tiên Vừa phải",1
+"Giao cho Long Không thử lại khi tạo namespace ,dealine: trong tuần tới với ưu tiên Bình thường",1
+"Với mức độ ưu tiên Cao, Hồng đảm nhận [ CI ] Tạo plots và lưu trong jenkins cho scale / perf tests cho dự án A-MQ Messaging-as-a-Service trước đầu tháng sau",1
+"Giao cho Mai Docs : Thay đổi tiêu đề RNs để phản ánh hướng dẫn CCS mới cho dự án ,dealine: trước ngày 12 tháng 8 năm 2025 với ưu tiên Khẩn cấp",1
+[ Console-UI ] Tạo Visual component cho clone device của dự án Cloud Messaging Orchestrator cần được thực hiện bởi Nguyễn Thanh Hiếu vào thứ 5 với ưu tiên Gấp,1
+Lan được giao Hiệu suất tạo addresses giảm sau khi tạo 7-8 k addresses trên 1.2.1 trước ngày 20/05/2025 ưu tiên Ưu tiên,1
+"cho dự án EnRoute – Messaging Address Controller, Mai tiến hành Tự động hoá Operator bundle image Rebuild và Release khi có thay đổi với bất kỳ related image trước 17h chiều nay với mức độ ưu tiên Gấp",1
+Hồng đảm bảo Docs : Xoá các link yaml file vào sáng thứ 3 tới với mức độ ưu tiên Khẩn cấp,1
+"trước ngày 12 tháng 8 năm 2025, Lan thực hiện Có hostname trong các ví dụ code tài liệu online khớp với hostname thực cho dịch vụ cho dự án MeshRoute với mức độ ưu tiên Khẩn cấp",1
+Trương Văn Đức phải Xác thực APIs REST / v 1 / addressspaces bằng RBAC thuộc dự án EnRoute – Messaging Address Controller trong hôm nay với mức độ ưu tiên Bình thường,1
+"Mai phải Với tư cách System Admin , cấu hình hệ thống để tất cả address spaces có thể nhận messages từ applications chạy ngoài cluster trước thứ 2 tuần sau với mức độ ưu tiên Cao",1
+"Lan chịu trách nhiệm Với tư cách MaaS Tenant Admin , quản lý addresses / destinations trước ngày 15/4 với mức độ ưu tiên Khẩn cấp",1
+"Giao cho Long console - Xoá old console route ,dealine: trước thứ 2 tuần sau với ưu tiên Vừa phải",1
+"Với mức độ ưu tiên Ưu tiên, Nam đảm bảo Với tư cách Tenant Admin , cấu hình address space để kích hoạt / vô hiệu hoá connections bằng MQTT protocol thuộc dự án A-MQ Messaging-as-a-Service trước ngày 30/04",1
+Nguyễn Thanh Hiếu đảm nhận [ Shared infra ] Thêm hỗ trợ cho tất cả address types thuộc dự án EnRoute – Messaging Address Controller trước ngày 02/09 với mức độ ưu tiên Ưu tiên,1
+"Tài tiến hành Với tư cách Developer , kết nối tới messaging space từ ngoài cluster bằng MQTT protocol sử dụng TLS qua WebSockets trước ngày 15/04/2025 cho dự án A-MQ Messaging-as-a-Service",1
+Trương Văn Đức triển khai Hỗ trợ v1 của CRD API của dự án A-MQ Messaging-as-a-Service hạn cuối là 10/06 với mức độ ưu tiên Khẩn cấp,1
+"Nguyễn Văn Hải thực hiện Là Customer , thấy messaging routes / ingresses khi mở address space trong console trước ngày mai thuộc dự án EnRoute – Messaging Address Controller",1
+Long phải Di chuyển command và control systemtests sang mô hình mới trong hôm nay ,1
+"Với mức độ ưu tiên Trung bình, Nam xử lý Keycloak plugin hỗ trợ OAUTH2 thuộc dự án TypedAddress MaaS Core trước thứ 2 tuần sau",1
+Lan cần amq-online -1 - console-init metadata giấy phép ở vị trí không chính xác trong vòng 1 giờ nữa ưu tiên Trung bình,1
+Hồng triển khai Thêm hỗ trợ cho external bridges cho dự án Cloud Messaging Orchestrator trước thứ 2 tuần sau với mức độ ưu tiên Khẩn cấp,1
+"Giao cho Mai Với tư cách Developer , gửi và nhận messages trong một distributed transaction ( yêu cầu AMQP extension ) ,dealine: trong vòng 3 ngày nữa với ưu tiên Cao",1
+"Với mức độ ưu tiên Trung bình, Nguyễn Thanh Hiếu xử lý Console-IoT-UI - Tạo General Info trên project detail page của dự án Cloud Messaging Orchestrator trong hôm nay",1
+Mai đảm nhận Có thể định nghĩa duplicate addresses ( sử dụng router pattern matching syntax ) trước ngày 15/04/2025 ,1
+"trong vòng 3 ngày nữa, Nguyễn Thanh Hiếu yêu cầu Docs : Thay đổi tất cả xrefs thành links thuộc dự án MeshRoute với mức độ ưu tiên Cao",1
+"Nguyễn Văn Hải triển khai UXD : Là Customer , thấy messaging routes / ingresses khi mở address space trong console trong hôm nay của dự án TypedAddress MaaS Core",1
+Sắp xếp sai trong chương 5 trong dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Nguyễn Văn Hải ngay sau kỳ nghỉ Tết với ưu tiên Cao,1
+"Với mức độ ưu tiên Vừa phải, Nguyễn Văn Hải đảm nhận Với tư cách System Admin , cho phép tạo / xoá address spaces bằng service catalog trên nhiều clusters cho dự án Cloud Messaging Orchestrator lúc 14h ngày 25/12/2025",1
+"Giao cho Nguyễn Văn Hải Docs : Thêm known issue về message ordering trên queues trong dự án ,dealine: ngay sau kỳ nghỉ Tết với ưu tiên Trung bình",1
+"Mai được giao [ console ] Có thể tạo subscription mà không có topic trong console , # 2 vào sáng thứ 3 tới ",1
+"Với mức độ ưu tiên Trung bình, Lan đảm nhận Thiết lập và chạy Prod Gates và xử lý bất kỳ khoảng trống nào cho dự án Cloud Messaging Orchestrator cuối tuần này",1
+"Giao cho Trương Văn Đức Xây dựng phiên bản mới của systemtests-clients ,dealine: lúc 14h ngày 25/12/2025 với ưu tiên Cao",1
+Nguyễn Văn Hải đảm bảo Di chuyển tenant service sang Quarkus vào lúc 10h30 sáng thứ 5 với mức độ ưu tiên Vừa phải,1
+"Với mức độ ưu tiên Vừa phải, Nguyễn Thanh Hiếu chịu trách nhiệm Docs : Thêm hướng dẫn kích thước vào tài liệu downstream thuộc dự án A-MQ Messaging-as-a-Service trong tuần này",1
+"cuối tuần này, Mai được giao Cung cấp upgrade path cho users của ! thuộc dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Bình thường",1
+"Giao cho Nguyễn Thanh Hiếu Console-IoT-UI - Xoá gateway assignment functionality trong device detail page ,dealine: vào lúc 7h sáng ngày 1/1/2026 với ưu tiên Ưu tiên",1
+"trước ngày 25 tháng 12, Long phải Nút Delete All không hoạt động thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Bình thường",1
+"Giao cho Nguyễn Văn Hải Docs : Sửa Standard address space image để xoá MQTT gateway và clients của dự án ,dealine: trước đầu tháng sau với ưu tiên Ưu tiên",1
+"Tài chịu trách nhiệm Là Customer , thấy messaging routes / ingresses khi mở address space trong console trước thứ 2 tuần sau ",1
+"Giao cho Nguyễn Văn Hải Console-IoT-UI - Thêm dialogs cho device list page của dự án ,dealine: vào lúc 10h sáng thứ 2 tuần sau với ưu tiên Trung bình",1
+"Giao cho Hồng Nâng cấp router lên 1.0 ,dealine: trước ngày 02/09 với ưu tiên Khẩn cấp",1
+"Giao cho Nam Với tư cách System Admin , cài AMQ Online bằng OLM ,dealine: vào sáng thứ 3 tới với ưu tiên Trung bình",1
+"Với mức độ ưu tiên Trung bình, Nam phải agent : Results count không được đặt chính xác sau khi refresh trang thuộc dự án Cloud Messaging Orchestrator trong vòng 1 giờ nữa",1
+Tài phải Docs : Ghi chú phát hành 1.1 trong vòng 3 ngày nữa ,1
+"Nguyễn Văn Hải tiến hành Với tư cách Developer , gửi / nhận messages bằng AMQP 1.0 trong dự án MeshRoute trước ngày 01/05/2025 với mức độ ưu tiên Ưu tiên",1
+"Với mức độ ưu tiên Gấp, Tài chịu trách nhiệm Thêm trường trạng thái vào CRs để vượt qua xác thực Operator Hub trong dự án MeshRoute vào lúc 10h sáng thứ 2 tuần sau",1
+"Giao cho Trương Văn Đức Tạo / xoá business application credentials cho IoT tenant cho dự án ,dealine: trước 23h59 ngày 31/12 với ưu tiên Trung bình",1
+"Giao cho Hồng Docs : RNs 1.3 ,dealine: vào sáng thứ 3 tới với ưu tiên Gấp",1
+"của dự án TypedAddress MaaS Core, Mai chịu trách nhiệm Thêm hỗ trợ cho pod disruption budgets trong hôm nay với mức độ ưu tiên Gấp",1
+Long được giao Service catalog : Binding không được tạo chính xác trước ngày 31/12/2025 với mức độ ưu tiên Gấp,1
+Nam phải Custom certificate cung cấp trong AMQ Online console được mã hoá hai lần trước lễ 30/4 ưu tiên Ưu tiên,1
+"Hồng tiến hành Với tư cách Developer , nhận events HTTP đã xảy ra khi tôi bị ngắt kết nối trước ngày 30/06/2025 ưu tiên Bình thường",1
+"Giao cho Nguyễn Văn Hải [ Console-IoT ] Tạo Review component cho device của dự án ,dealine: lúc 14h ngày 25/12/2025 với ưu tiên Ưu tiên",1
+"Nam cần Addressspace edit không hoạt động , tôi không thể chuyển plan và auth service trước ngày 01/01/2026 thuộc dự án A-MQ Messaging-as-a-Service",1
+"Giao cho Nam Bao gồm đặc tả API quản lý trong tài liệu thuộc dự án ,dealine: trước lễ 30/4 với ưu tiên Trung bình",1
+"hạn cuối là 10/06, Mai cần Không sử dụng default deployer service account của dự án TypedAddress MaaS Core với mức độ ưu tiên Bình thường",1
+Nam yêu cầu Binding credentials vẫn có thể sử dụng sau khi secret bị xoá trước đầu tháng sau của dự án A-MQ Messaging-as-a-Service,1
+Tài chịu trách nhiệm Thêm type và plan vào address-space trong address controller ( đổi tên instance thành address-space ? ) ngay sau kỳ nghỉ Tết với mức độ ưu tiên Khẩn cấp,1
+Nguyễn Thanh Hiếu đảm bảo Expiry-address và TTL không hoạt động cho durable subscriptions cho dự án MeshRoute trước 23h59 ngày 31/12 với mức độ ưu tiên Ưu tiên,1
+Nam triển khai Forwarder không giải quyết message đã mang replicated annotation trong vòng 3 ngày nữa với mức độ ưu tiên Trung bình,1
+Hồng cần Thay đổi parent images để sử dụng external registry registry.redhat.io/ubi7/ubi:latest của dự án TypedAddress MaaS Core trước ngày 01/05/2025 với mức độ ưu tiên Khẩn cấp,1
+Tài phải Build warnings từ UI builds trước ngày 15/4 ưu tiên Ưu tiên,1
+"Giao cho Nguyễn Văn Hải Sửa cài đặt local jenkins instance để kiểm tra của dự án ,dealine: trước ngày 02/09 với ưu tiên Khẩn cấp",1
+"của dự án A-MQ Messaging-as-a-Service, Mai yêu cầu Link "" learn more "" trong modal tạo address mới là dead link trước ngày 15/4 với mức độ ưu tiên Vừa phải",1
+"đầu tháng sau, Tài được giao Bảo vệ chống lại giá trị queue depth bất ngờ ( ARTEMIS-1982 ) khi xác định liệu Broker có bị drained hay không của dự án MeshRoute với mức độ ưu tiên Bình thường",1
+"[ Shared infra ] Hỗ trợ chỉ định podTemplate ( affinity , tolerations , priority , memory request / limits , storage request / limits ) cho routers và brokers thuộc dự án TypedAddress MaaS Core cần được thực hiện bởi Tài hạn cuối là 10/06 với ưu tiên Ưu tiên",1
+"Mai xử lý Với tư cách System Admin , tạo và xoá addresses trong address space mà không để tenant thấy các address đó trước 15h chiều nay với mức độ ưu tiên Bình thường",1
+Mai cần Thêm tài liệu cho việc sử dụng User API của dự án Cloud Messaging Orchestrator trước ngày 15/4 với mức độ ưu tiên Trung bình,1
+Nguyễn Thanh Hiếu triển khai Sắp xếp cột trên links page ( Links / Clients ) không hoạt động vào lúc 18h chiều mai ,1
+Tài được giao Thêm hỗ trợ kiểm tra requests dựa trên limits và đặt status trên address của dự án A-MQ Messaging-as-a-Service lúc 15h ngày 20/5 với mức độ ưu tiên Trung bình,1
+"Với mức độ ưu tiên Cao, Mai xử lý Tạo alert cho console status cho dự án EnRoute – Messaging Address Controller cuối tuần này",1
+"Hồng phải Với tư cách Tenant Admin , gán permissions cho address space users để cho phép họ gửi / nhận / tạo / xoá / quản lý addresses của một name / pattern nhất định trước 23h59 ngày 31/12 cho dự án A-MQ Messaging-as-a-Service",1
+Long cần Tạo / xoá business application credentials cho IoT tenant vào lúc 18h chiều mai ưu tiên Khẩn cấp,1
+"của dự án TypedAddress MaaS Core, Tài phải [ Shared infra ] Hỗ trợ chỉ định minAvailable / maxUnavailable cho routers và brokers ( PodDisruptionBudgets ) trước ngày mai với mức độ ưu tiên Trung bình",1
+Hồng xử lý Xoá tư cách thành viên nhóm root khỏi các images dựa trên Java ( Quyền tối thiểu ) cuối tuần này ,1
+Mai thực hiện [ Test ] Điều tra root cause của acceptance failed tests lúc 14h ngày 25/12/2025 trong dự án EnRoute – Messaging Address Controller,1
+Long cần Address space Broker nên chỉ ra rằng giao thức STOMP được hỗ trợ trước 17h chiều nay với mức độ ưu tiên Cao,1
+Long đảm nhận EOL AMQ Online : Loại bỏ Hello World khỏi dev portal vào lúc 10h30 sáng thứ 5 ,1
+"Mai đảm nhận Với tư cách System Admin , xoá address space plan khỏi hệ thống đang hoạt động trước ngày 20/05/2025 với mức độ ưu tiên Trung bình",1
+Nguyễn Thanh Hiếu đảm bảo Thêm hỗ trợ cho mTLS configuration của aggregated api server trước thứ 2 tuần sau ,1
+"Tài: thực hiện gửi báo cáo tiến độ vào Thứ 5, sau đó phối hợp cùng Long thực hiện kiểm thử module đăng nhập.",1
+"thuộc dự án A-MQ Messaging-as-a-Service, Mai đảm nhận [ Console-Iot ] Tạo Device bằng Json format vào lúc 10h30 sáng thứ 5 với mức độ ưu tiên Gấp",1
+"Giao cho Nam Console-IoT-UI - Tích hợp pre-confirm dialog để xoá gateways và credentials trong device detail page ,dealine: trong tuần tới với ưu tiên Trung bình",1
+Mai đảm nhận Cho phép thay đổi spec của address space trong dự án A-MQ Messaging-as-a-Service trong vòng 3 ngày nữa với mức độ ưu tiên Trung bình,1
+"Với mức độ ưu tiên Gấp, Long thực hiện [ IoT Design ] Chỉnh sửa Device thuộc dự án MeshRoute trước đầu tháng sau",1
+"Với mức độ ưu tiên Ưu tiên, Trương Văn Đức đảm bảo Sản phẩm hoá cả Hono và các thành phần IoT EnMasse tuỳ chỉnh trong dự án MeshRoute trong hôm nay",1
+"trước ngày mai, Nguyễn Thanh Hiếu thực hiện [ Console-IoT ] Sử dụng manage column toolbar để cập nhật device list thuộc dự án MeshRoute với mức độ ưu tiên Gấp",1
+"trước 17h chiều nay, Hồng triển khai Operator metadata tham chiếu internal registry url cho AMQ Online 1.6.0 thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Bình thường",1
+Console-IoT-UI - Tạo serialize function cho device để chỉnh sửa device trong json page thuộc dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Nguyễn Văn Hải hạn là 20/5/2025 với ưu tiên Bình thường,1
+"Nam chịu trách nhiệm Với tư cách Monitor , xem metrics về một user cụ thể trước 23h59 ngày 31/12 ",1
+"Hồng phải Message counters không hoạt động ( message in / out / stored ) , Connections cũng không hoạt động trước ngày 15/04/2025 ",1
+Tài tiến hành Connection detail page thất bại đối với brokered address space trước 17h chiều nay với mức độ ưu tiên Bình thường,1
+Nguyễn Thanh Hiếu xử lý Docs : Thay thế image Console downstream trước ngày 30/06/2025 của dự án A-MQ Messaging-as-a-Service,1
+Mai tiến hành Các filters connection hiện có không áp dụng cho các connections mới hình thành của dự án Cloud Messaging Orchestrator trong tuần này với mức độ ưu tiên Ưu tiên,1
+"Giao cho Nguyễn Thanh Hiếu Với tư cách Tenant Admin , tạo addresses cung cấp reliable store và forward messaging từ sender tới single receiver ( trong số nhiều receiver tiềm năng ) đang nghe trên address đó trong dự án ,dealine: trước ngày 30/06/2025 với ưu tiên Gấp",1
+"trước ngày 25 tháng 12, Tài chịu trách nhiệm Docs : Sửa link ở đầu tài liệu Sử dụng Red Hat AMQ Console thuộc dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Bình thường",1
+Mai thực hiện Xem xét các tuỳ chọn Hono service và thêm properties hợp lý vào IoTConfig trước lễ 30/4 ưu tiên Cao,1
+"Giao cho Tài Với tư cách Monitor , tích hợp address space với industry leading APM tooling để hỗ trợ application monitoring ,dealine: trước ngày 31/12/2025 với ưu tiên Bình thường",1
+"Với mức độ ưu tiên Khẩn cấp, Nam đảm bảo Với tư cách Tenant Admin , xoá binding khỏi service , xoá mọi credentials liên quan thuộc dự án EnRoute – Messaging Address Controller trước ngày 02/09",1
+"Giao cho Lan Console-IoT-UI - Thêm navigation để xem project details và devices thuộc dự án ,dealine: trước ngày 30/04 với ưu tiên Gấp",1
+"Giao cho Lan Làm cho "" caCertSecretName "" tuỳ chọn trong external authService config cho dự án ,dealine: trong hôm nay với ưu tiên Khẩn cấp",1
+Nam phải Docs : Xoá ghi chú liên quan đến DLQs lúc 14h ngày 25/12/2025 ,1
+Mai tiến hành Cung cấp tiện ích dòng lệnh để quản lý EnMasse trước ngày 30/06/2025 thuộc dự án MeshRoute,1
+Nguyễn Thanh Hiếu phải Hỗ trợ interop team loại trừ test khỏi LPT testrun thuộc dự án A-MQ Messaging-as-a-Service hạn cuối là 10/06 với mức độ ưu tiên Cao,1
+Long yêu cầu [ QE ] Kiểm tra respin images vào lúc 10h30 sáng thứ 5 với mức độ ưu tiên Khẩn cấp,1
+Mai thực hiện Đưa lại tests cho các device registry split models khác nhau trước 23h59 ngày 31/12 với mức độ ưu tiên Cao,1
+Long đảm bảo Thêm readiness check cho dispatch router trước ngày 31/12/2025 ưu tiên Trung bình,1
+Mai thực hiện Bảng tham chiếu cho các giả định vai trò Developer trước ngày 15/04/2025 ,1
+Cho phép cấu hình SSL provider cho các connector của broker trong dự án MeshRoute cần được thực hiện bởi Mai trong vòng 1 giờ nữa với ưu tiên Trung bình,1
+Nguyễn Văn Hải được giao Dấu gạch ngang trong tên metric ( amp-online ) không tương thích với quy ước đặt tên Prometheus của dự án A-MQ Messaging-as-a-Service cuối quý 2 với mức độ ưu tiên Vừa phải,1
+Lan chịu trách nhiệm Lọc addresses với ký tự sao trong console cho kết quả sai trước ngày 30/06/2025 ,1
+Nam cần system-tests : Viết lại sang junit5 bước 2 ( giảm inheritance của TestBases ) cuối tháng này với mức độ ưu tiên Ưu tiên,1
+"Giao cho Mai durable subscriptions : agent ,dealine: vào lúc 10h30 sáng thứ 5 với ưu tiên Cao",1
+"Với mức độ ưu tiên Cao, Nguyễn Thanh Hiếu yêu cầu Với tư cách Tenant Admin , cho address space lấy toàn bộ cấu hình từ một address space khác , cung cấp cơ chế graceful shutdown sẽ khiến tất cả messages lưu trữ trong address space được di chuyển tới nơi khác trong mạng trong dự án A-MQ Messaging-as-a-Service trước ngày 01/05/2025",1
+Mai được giao Cho phép sắp xếp Addresses theo số lượng message trước ngày 01/01/2026 ưu tiên Trung bình,1
+"Giao cho Hồng Tái cấu trúc GraphQL delete addressspace và address để nhận nhiều target ,dealine: trước ngày mai với ưu tiên Gấp",1
+"Với mức độ ưu tiên Trung bình, Lan được giao Triển khai GraphQL closeConnections trong dự án Cloud Messaging Orchestrator trước ngày 02/09",1
+"Mai tiến hành Với tư cách Tenant Admin , gán / xoá vai trò Tenant Admin cho nhiều user thay thế trước 17h chiều nay cho dự án TypedAddress MaaS Core",1
+"system-tests : Mở rộng MQTT tests để kiểm tra tính năng "" will "" thuộc dự án Cloud Messaging Orchestrator cần được thực hiện bởi Hồng cuối tuần này với ưu tiên Khẩn cấp",1
+"Long phải Với tư cách Tenant Admin , tạo address space lấy toàn bộ cấu hình address , authentication và authorization từ address space khác và tạo thành một mạng logic duy nhất trước thứ 2 tuần sau ",1
+Trương Văn Đức được giao [ IoT Design ] Tạo Device vào lúc 9h sáng ngày mai của dự án EnRoute – Messaging Address Controller,1
+"Với mức độ ưu tiên Khẩn cấp, Lan được giao [ QE ] Tham gia Business Resilience Management cho dự án A-MQ Messaging-as-a-Service cuối tháng này",1
+"Giao cho Hồng Cấu hình router anti-affinity theo mặc định ,dealine: trước ngày 01/05/2025 với ưu tiên Trung bình",1
+"thuộc dự án EnRoute – Messaging Address Controller, Lan đảm bảo Nâng cấp Infinispan lên 11 . x vào lúc 10h sáng thứ 2 tuần sau với mức độ ưu tiên Cao",1
+"Với mức độ ưu tiên Khẩn cấp, Tài đảm nhận Docs : Xoá address space bằng dòng lệnh thuộc dự án EnRoute – Messaging Address Controller trước ngày 30/04",1
+Nam đảm bảo Console-IoT-UI - Tạo Change Password dialog / modal component vào lúc 10h30 sáng thứ 5 ,1
+Tài triển khai Di chuyển CSB Jenkins sang version 2-289-2 trước ngày 01/01/2026 ,1
+"Giao cho Nam Điều tra failing LPINTEROP test thuộc dự án ,dealine: trước 23h59 ngày 31/12 với ưu tiên Cao",1
+"Với tư cách Tenant Admin , khi tạo address chọn một plan từ danh sách cố định định nghĩa yêu cầu tài nguyên dự kiến cho danh sách đó trong dự án Cloud Messaging Orchestrator cần được thực hiện bởi Hồng trước ngày mai với ưu tiên Ưu tiên",1
+"Giao cho Nguyễn Thanh Hiếu Xác định connector trước khi secret được tham chiếu tồn tại dẫn đến NPE và address space vĩnh viễn không sẵn sàng ,dealine: trong vòng 1 giờ nữa với ưu tiên Vừa phải",1
+Tài yêu cầu Triển khai device registry có khả năng mở rộng hạn là 20/5/2025 ,1
+Long đảm nhận [ Productisation ] Sử dụng redhat prefixed nodejs dependencies của Agent vào lúc 18h chiều mai ưu tiên Gấp,1
+"Giao cho Trương Văn Đức Padlock icon ở trạng thái sai cho TLS connection trên connection detail page ,dealine: trước ngày 30/06/2025 với ưu tiên Trung bình",1
+"Giao cho Hồng Gửi x messages vào queue , hiển thị x messages out ngay lập tức trong console cho dự án ,dealine: trước ngày 15/4 với ưu tiên Gấp",1
+Hồng yêu cầu [ brokered console ] Metrics messages in / out không hoạt động chính xác vào lúc 18h chiều mai ưu tiên Ưu tiên,1
+Nguyễn Thanh Hiếu xử lý Standard auth service không thực sự ghi users vào PostgreSQL cho dự án A-MQ Messaging-as-a-Service trước ngày 25 tháng 12 với mức độ ưu tiên Trung bình,1
+"Long xử lý component / console - frontend - Khi chọn filters , hai filter icons xuất hiện hạn cuối là 10/06 với mức độ ưu tiên Khẩn cấp",1
+Docs : Thêm link đến 1.5.4 resolved issues trong 1.5 RNs cho dự án TypedAddress MaaS Core cần được thực hiện bởi Nguyễn Thanh Hiếu hạn cuối là 10/06 với ưu tiên Vừa phải,1
+Mai yêu cầu Agent watches có thể không reconnect khi gặp một số vấn đề connection [ 1.3.4 ] hạn là 20/5/2025 trong dự án A-MQ Messaging-as-a-Service,1
+"trước thứ 2 tuần sau, Nguyễn Văn Hải cần AddressSpacePlan với định nghĩa infra config không hợp lệ được chấp nhận cho dự án MeshRoute với mức độ ưu tiên Khẩn cấp",1
+"Với mức độ ưu tiên Bình thường, Nam đảm nhận Console-IoT-UI - Tạo Filter component cho device list trong dự án Cloud Messaging Orchestrator trước ngày mai",1
+Nam chịu trách nhiệm Tách tên sản phẩm khỏi ServiceMapping ngay sau kỳ nghỉ Tết ,1
+"Với mức độ ưu tiên Khẩn cấp, Mai được giao Docs : Sửa Standard address space image để xoá MQTT gateway và clients cho dự án TypedAddress MaaS Core trong tuần tới",1
+Nguyễn Thanh Hiếu tiến hành standardinfraconfig addressFullPolicy không được tôn trọng trước lễ 30/4 ,1
+"system-tests : Tạo test mới cho address-space endpoints "" cert "" của dự án Cloud Messaging Orchestrator cần được thực hiện bởi Nam vào lúc 9h sáng ngày mai với ưu tiên Bình thường",1
+"lúc 14h ngày 25/12/2025, Tài xử lý [ console ] Xoá workflow trong dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+"Giao cho Trương Văn Đức Xem lại triển khai MQTT trong brokered space liên quan đến manageability của dự án ,dealine: trước đầu tháng sau với ưu tiên Trung bình",1
+Console-IoT-UI - Sửa links và navigations trong Project Detail Info page trong dự án TypedAddress MaaS Core cần được thực hiện bởi Hồng trước ngày 02/09 với ưu tiên Khẩn cấp,1
+"thuộc dự án MeshRoute, Long tiến hành [ OLM ] links trong CSV trỏ đến sai trang ( 1.3.4 ) trước thứ 2 tuần sau với mức độ ưu tiên Trung bình",1
+"Với tư cách System Operator , xem "" audit logs "" cung cấp thông tin về các nỗ lực thất bại và thành công để tạo / xoá / sửa đổi address space definitions của dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Nguyễn Văn Hải trong vòng 3 ngày nữa với ưu tiên Ưu tiên",1
+"trước ngày 30/06/2025, Long đảm bảo Docs : Hướng dẫn khái niệm cấp cao thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+Lan phải [ Weekly ] Kiểm tra và dọn dẹp nightly ocp / aws clusters nếu cần lúc 15h ngày 20/5 ưu tiên Gấp,1
+Mai được giao Có thể tạo address của bất kỳ type và plan nào trong webgui của dự án A-MQ Messaging-as-a-Service vào lúc 18h chiều mai với mức độ ưu tiên Gấp,1
+Nam cần [ Productisation ] io.fabric 8 : openshift-client : jar : 3.1.8 phụ thuộc vào com.fasterxml.jackson.dataformat : jackson-dataformat-yaml chưa được sản phẩm hoá trước ngày 02/09 ưu tiên Vừa phải,1
+Mai phải Thiếu auto links sau nâng cấp từ 1.5.3 lên 1.5.4 thuộc dự án A-MQ Messaging-as-a-Service trong tuần này với mức độ ưu tiên Trung bình,1
+"Giao cho Hồng Thêm readiness cho broker trong brokered và standard address space ,dealine: vào lúc 9h sáng ngày mai với ưu tiên Gấp",1
+"Hồng yêu cầu Với tư cách Developer , gửi events từ thiết bị ngoài cluster bằng MQTT qua TLS và nhận nó trong ứng dụng kinh doanh của dự án MeshRoute vào lúc 9h sáng ngày mai với mức độ ưu tiên Trung bình",1
+Mai triển khai Console-IoT-UI - Tạo table để hiển thị danh sách projects cuối tuần này ,1
+Nguyễn Văn Hải tiến hành Server trả về status 504 ( Gateway Time-out ) trong quá trình console oauth authentication trước 23h59 ngày 31/12 ,1
+Tài phải [ CI ] Tạo job để kiểm tra released images và templates của dự án TypedAddress MaaS Core trước ngày 30/04 với mức độ ưu tiên Cao,1
+Nguyễn Văn Hải chịu trách nhiệm Docs : Thay thế image Console downstream trước ngày 01/05/2025 ưu tiên Cao,1
+"Với mức độ ưu tiên Vừa phải, Lan triển khai Kiểm tra trạng thái standard controller xuất hiện không liên tục trong tab connections trong dự án TypedAddress MaaS Core vào lúc 10h30 sáng thứ 5",1
+Lan xử lý Tái cấu trúc xử lý exception trong address controller trước ngày 01/01/2026 với mức độ ưu tiên Cao,1
+Long yêu cầu Docs : Cập nhật URL bài viết cho zip phát hành mới nhất cuối tháng này với mức độ ưu tiên Ưu tiên,1
+Tài tiến hành Xác minh CVE images được liệt kê dưới đây vào lúc 18h chiều mai ,1
+Nam được giao Console crash nếu none-authservice crash thuộc dự án EnRoute – Messaging Address Controller trước 17h chiều nay với mức độ ưu tiên Khẩn cấp,1
+"thuộc dự án MeshRoute, Lan xử lý Cập nhật AMQ broker image vào lúc 10h sáng thứ 2 tuần sau với mức độ ưu tiên Bình thường",1
+Tài xử lý [ master ] standard auth service không được tải trong OLM default namespace lúc 14h ngày 25/12/2025 với mức độ ưu tiên Khẩn cấp,1
+"Với mức độ ưu tiên Khẩn cấp, Trương Văn Đức triển khai Console-IoT-UI - Tạo use-patternfly module trong console app và sửa lỗi trong dự án Cloud Messaging Orchestrator hạn là 20/5/2025",1
+Hồng triển khai [ Test ] Điều tra webconsole test failures trong shared test profile trước thứ 2 tuần sau ,1
+"Giao cho Trương Văn Đức Thêm metrics endpoint cho controller-manager ,dealine: trước ngày 01/01/2026 với ưu tiên Ưu tiên",1
+Hồng yêu cầu Agent http request promise có thể ở trạng thái unresolved vô thời hạn trước ngày 25 tháng 12 thuộc dự án TypedAddress MaaS Core,1
+Triển khai chiến lược downstream được cung cấp của dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Mai trước lễ 30/4 với ưu tiên Trung bình,1
+"thuộc dự án Cloud Messaging Orchestrator, Trương Văn Đức triển khai Docs : Tạo address space với plan không phân bổ tài nguyên cụ thể cho address space , mà sử dụng cơ sở hạ tầng chia sẻ được scale động dựa trên nhu cầu tổng hợp trước ngày 15/04/2025 với mức độ ưu tiên Vừa phải",1
+"Giao cho Trương Văn Đức [ QE ] Kiểm tra respin images ,dealine: vào lúc 18h chiều mai với ưu tiên Trung bình",1
+Long chịu trách nhiệm Nâng cấp từ Vertx 3.9 ( end of life release line ) cuối tuần này trong dự án Cloud Messaging Orchestrator,1
+Loại bỏ định địa Command and Control cũ thuộc dự án MeshRoute cần được thực hiện bởi Nam trước 17h chiều nay với ưu tiên Cao,1
+"Giao cho Tài Với tư cách Tenant Admin , tạo queue hoặc subscription với số lượng tối đa ( active ) consumers ,dealine: trước 23h59 ngày 31/12 với ưu tiên Khẩn cấp",1
+"Long được giao Với tư cách System Admin , tạo plans và infra configs bằng công cụ dòng lệnh thuộc dự án Cloud Messaging Orchestrator ngay sau kỳ nghỉ Tết với mức độ ưu tiên Trung bình",1
+Lan tiến hành Placeholder cho CVE-2020 -25633 ( RESTEasy ) trước ngày mai với mức độ ưu tiên Bình thường,1
+"Giao cho Trương Văn Đức Cho phép EnMasse sử dụng cùng Keycloak instance với OpenShift cluster mà nó đang chạy ,dealine: trước 17h chiều nay với ưu tiên Trung bình",1
+Nguyễn Thanh Hiếu yêu cầu Docs : Release Notes - Thêm link đến 1.5 bundle trong vòng 1 giờ nữa thuộc dự án A-MQ Messaging-as-a-Service,1
+"vào lúc 7h sáng ngày 1/1/2026, Long tiến hành Console-IoT-UI - Tạo visual component để tạo Device bằng JSON cho dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+Long cần [ 1.0 GA ] Kiểm tra tài liệu sản phẩm cuối tuần này ưu tiên Bình thường,1
+Lan chịu trách nhiệm Thêm protocol adapter LoRaWAN trước lễ 30/4 với mức độ ưu tiên Bình thường,1
+Mai phải console backend : Triển khai get credentials cho iot device trước ngày 30/04 với mức độ ưu tiên Trung bình,1
+Nam thực hiện Thao tác credentials của device registry không nên cấp phát secrets trong hôm nay với mức độ ưu tiên Gấp,1
+Cập nhật lifeCycle page - EOL vào tháng Sáu trong dự án MeshRoute cần được thực hiện bởi Long trước 17h chiều nay với ưu tiên Vừa phải,1
+"Giao cho Trương Văn Đức Agent rò rỉ bộ nhớ nếu qdrouter được khởi động lại ,dealine: trước ngày 25 tháng 12 với ưu tiên Trung bình",1
+"Giao cho Long Thay đổi router để cho phép lấy groups cho một connection như một phần của trao đổi xác thực thay vì từ policy đã cấu hình thuộc dự án ,dealine: trước ngày 15/04/2025 với ưu tiên Khẩn cấp",1
+Tài triển khai Dấu gạch ngang trong tên metric ( amp-online ) không tương thích với quy ước đặt tên Prometheus trước ngày 25 tháng 12 ,1
+"Giao cho Tài Điều tra vấn đề ngẫu nhiên ' no route to host ' thuộc dự án ,dealine: trong vòng 3 ngày nữa với ưu tiên Trung bình",1
+Trương Văn Đức tiến hành 7.9 openssl và expat CVE - AMQ Online base image update vào lúc 7h sáng ngày 1/1/2026 ,1
+"Giao cho Mai Viết install operator cho các thành phần IoT ,dealine: trong hôm nay với ưu tiên Bình thường",1
+Trương Văn Đức cần Xem xét yêu cầu audit cho các thao tác như purge của dự án MeshRoute trước 23h59 ngày 31/12 với mức độ ưu tiên Khẩn cấp,1
+"Giao cho Lan User liên kết có quyền gửi / nhận messages ,dealine: trong vòng 1 giờ nữa với ưu tiên Ưu tiên",1
+"vào sáng thứ 3 tới, Hồng yêu cầu Thiết lập Jenkins job với productized images trong dự án EnRoute – Messaging Address Controller với mức độ ưu tiên Trung bình",1
+Nguyễn Văn Hải cần Operator metadata tham chiếu internal registry url cho AMQ Online 1.6.0 vào lúc 7h sáng ngày 1/1/2026 ,1
+"Giao cho Mai Thêm hỗ trợ kiểm tra requests dựa trên limits và đặt status trên address ,dealine: cuối quý 2 với ưu tiên Gấp",1
+"trước thứ 2 tuần sau, Trương Văn Đức tiến hành [ CI ] Local jenkins development modifications cho dự án TypedAddress MaaS Core với mức độ ưu tiên Bình thường",1
+Mai triển khai Address-controller được khởi động lại với sự kiện ' Error syncing pod ' và không có thêm thông tin trong log trước ngày 12 tháng 8 năm 2025 với mức độ ưu tiên Trung bình,1
+Lan triển khai Docs : Thêm link đến 1.5.2 resolved issues trong 1.5 RNs vào lúc 10h sáng thứ 2 tuần sau ,1
+Nguyễn Văn Hải cần Xoá hỗ trợ phía server cho quản lý AMQP của agents cuối tuần này thuộc dự án EnRoute – Messaging Address Controller,1
+"Với mức độ ưu tiên Bình thường, Hồng cần Với tư cách Tenant Admin , cấu hình address space để cho phép incoming messaging connections từ ngoài cluster nhưng chỉ từ các IP cụ thể của dự án MeshRoute cuối tháng này",1
+"Với mức độ ưu tiên Ưu tiên, Trương Văn Đức triển khai Tạo systemtests cho Open Service Broker API cho dự án EnRoute – Messaging Address Controller trước thứ 2 tuần sau",1
+Hồng phải [ master ] standard auth service không được tải trong OLM default namespace thuộc dự án A-MQ Messaging-as-a-Service vào thứ 5 với mức độ ưu tiên Gấp,1
+Hồng thực hiện MQTT có phải là loại namespace - Cung cấp cách cấu hình mapping và chỉ định plan trước đầu tháng sau ưu tiên Ưu tiên,1
+Nguyễn Thanh Hiếu chịu trách nhiệm Username trong top menu hiển thị tên ' unknown ' trước lễ 30/4 ,1
+Hồng đảm bảo Kiểm tra và xác minh new images từ errata vào lúc 18h chiều mai với mức độ ưu tiên Khẩn cấp,1
+Nguyễn Văn Hải tiến hành Operator metadata tham chiếu internal registry url cho AMQ Online 1.5.3 trước thứ 2 tuần sau với mức độ ưu tiên Ưu tiên,1
+Nguyễn Văn Hải đảm bảo Quản lý infrastructure và upgrades trước ngày mai ưu tiên Trung bình,1
+Trương Văn Đức đảm nhận Broker statefulsets không được cấu hình để sử dụng persistent volume [ cloned cho 1.0 ] vào lúc 18h chiều mai với mức độ ưu tiên Bình thường,1
+"trước 17h chiều nay, Long đảm nhận Thêm hỗ trợ định nghĩa DLQ / expiry queue cho từng queue riêng lẻ cho dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Gấp",1
+Lan đảm nhận Tạo hướng dẫn quản lý thiết bị đầu tháng sau ,1
+"Giao cho Nam [ CI ] Report portal reporting sau CVE không hoạt động ,dealine: trong tuần này với ưu tiên Bình thường",1
+Long cần Xác định flaky tests từ latest 1.5 và 1.6 runs và lập danh sách vào lúc 18h chiều mai cho dự án A-MQ Messaging-as-a-Service,1
+Tạo IoT operator stub thuộc dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Tài trước thứ 2 tuần sau với ưu tiên Trung bình,1
+Tài được giao Cung cấp netty-tcnative cho Broker thông qua broker plugin JAR trước ngày 01/05/2025 ưu tiên Trung bình,1
+Nguyễn Thanh Hiếu yêu cầu Kiểm tra trạng thái standard controller xuất hiện không liên tục trong tab connections vào lúc 9h sáng ngày mai trong dự án A-MQ Messaging-as-a-Service,1
+Nam yêu cầu [ Console ] Tái cấu trúc authorization trong console cũ sáng thứ 3 tới thuộc dự án Cloud Messaging Orchestrator,1
+Mai thực hiện Docs : Thêm một câu vào phần Nâng cấp trong hôm nay trong dự án EnRoute – Messaging Address Controller,1
+"Lan tiến hành Thay đổi service broker ( service type chỉ là address space , hỗ trợ các plans khác nhau . trong tuần này với mức độ ưu tiên Vừa phải",1
+"Với mức độ ưu tiên Gấp, Trương Văn Đức cần Sửa cài đặt CRC trên rhel8 cho dự án Cloud Messaging Orchestrator cuối tháng này",1
+Console-UI-IoT Tích hợp Project List component với mock server thuộc dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Nguyễn Văn Hải lúc 15h ngày 20/5 với ưu tiên Trung bình,1
+Hồng xử lý Console-IoT-UI - Edit in JSON dưới certificates không hoạt động cho dự án MeshRoute sáng thứ 3 tới với mức độ ưu tiên Khẩn cấp,1
+"Giao cho Nam Với tư cách Tenant Admin , xem sự tồn tại của tất cả dự án IoT qua console thuộc dự án ,dealine: ngay sau kỳ nghỉ Tết với ưu tiên Khẩn cấp",1
+"Trương Văn Đức thực hiện Với tư cách Tenant Admin , xem trên một màn hình tất cả address spaces mà tôi có thể quản lý trong tuần này ",1
+Nguyễn Văn Hải được giao [ Productisation ] Yêu cầu jackson-module-jsonSchema đã được sản phẩm hoá trước ngày 02/09 ưu tiên Trung bình,1
+Long đảm bảo IoT POST-iot-device-registry thất bại 503 vào lúc 7h sáng ngày 1/1/2026 với mức độ ưu tiên Trung bình,1
+"Nguyễn Văn Hải đảm bảo Với tư cách System Operator , trích xuất cấu hình của một hoặc nhiều address spaces ( loại trừ dữ liệu lưu trữ ) và cho phép cấu hình đó được tải lên hệ thống khác trước ngày 30/04 với mức độ ưu tiên Ưu tiên",1
+Sử dụng wildcard cert hợp lệ thuộc dự án MeshRoute cần được thực hiện bởi Mai trước ngày 31/12/2025 với ưu tiên Trung bình,1
+Nam được giao Lỗi lựa chọn address type cuối tuần này ,1
+"Giao cho Hồng Phát hành AMQ Online 1.1.1 của dự án ,dealine: trước ngày 02/09 với ưu tiên Bình thường",1
+"thuộc dự án MeshRoute, Trương Văn Đức tiến hành Làm cho resync interval trong controllers có thể cấu hình trong vòng 3 ngày nữa với mức độ ưu tiên Trung bình",1
+"đầu tháng sau, Long tiến hành [ service catalog ] User không thấy addressspace được tạo bởi service catalog trong dự án Cloud Messaging Orchestrator với mức độ ưu tiên Bình thường",1
+Hồng đảm bảo Số lượng delivery của receiver sai lệch là 0 cuối tuần này ,1
+"của dự án Cloud Messaging Orchestrator, Hồng thực hiện [ IoT Design ] Thiết kế Project Detail trước đầu tháng sau với mức độ ưu tiên Ưu tiên",1
+Nguyễn Văn Hải chịu trách nhiệm [ QE ] Debug session với ccit / jenkins team trước ngày 25 tháng 12 trong dự án EnRoute – Messaging Address Controller,1
+"Giao cho Nguyễn Thanh Hiếu Thêm Documentation Conventions vào Guide ,dealine: trước ngày 25 tháng 12 với ưu tiên Gấp",1
+Thiết lập Bosch LoadBalancer service với certs của dự án Cloud Messaging Orchestrator cần được thực hiện bởi Long vào lúc 7h sáng ngày 1/1/2026 với ưu tiên Vừa phải,1
+Nguyễn Văn Hải phải Thêm health checks cho các tiến trình Go vào lúc 7h sáng ngày 1/1/2026 với mức độ ưu tiên Bình thường,1
+Hồng cần Keycloak Plugin - Xác thực TLS client cert / quản lý ngay sau kỳ nghỉ Tết với mức độ ưu tiên Trung bình,1
+Đổi tên MQTT Gateway và LWT images theo quy ước tech preview của dự án MeshRoute cần được thực hiện bởi Hồng trước 15h chiều nay với ưu tiên Vừa phải,1
+Lan được giao * DRAFT * Thay đổi address ( space ) plans trước ngày 31/12/2025 với mức độ ưu tiên Khẩn cấp,1
+"Giao cho Trương Văn Đức Address space controller không thể liên hệ với API server sau nâng cấp ,dealine: hạn cuối là 10/06 với ưu tiên Gấp",1
+"trước 17h chiều nay, Nam triển khai Cấu hình CI để chạy kiểm tra downstream từ QE đối với upstream của dự án MeshRoute với mức độ ưu tiên Cao",1
+Nguyễn Văn Hải đảm bảo Viết bộ system tests ban đầu cho các thành phần IoT vào lúc 9h sáng ngày mai ,1
+"Với mức độ ưu tiên Bình thường, Tài cần System test để xác minh AMQ Online hoạt động với addressFullPolicies khác FAIL cho dự án TypedAddress MaaS Core trong tuần tới",1
+"vào lúc 10h30 sáng thứ 5, Mai đảm bảo Links page trở thành trang trắng nếu connection bị ngắt của dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+"Với mức độ ưu tiên Trung bình, Trương Văn Đức thực hiện Loại bỏ protocol adapter sidecar của dự án TypedAddress MaaS Core trong tuần này",1
+"của dự án Cloud Messaging Orchestrator, Trương Văn Đức tiến hành [ CI ] Sửa jenkins agents terminating trong loop lúc 15h ngày 20/5 với mức độ ưu tiên Bình thường",1
+Nguyễn Thanh Hiếu tiến hành Addressspace list - namespace là một từ trong vòng 3 ngày nữa với mức độ ưu tiên Vừa phải,1
+"cho dự án MeshRoute, Nguyễn Thanh Hiếu đảm nhận Console-IoT-UI - Tạo visual component để xem thông tin chi tiết device trước ngày 30/06/2025 với mức độ ưu tiên Bình thường",1
+"Nguyễn Văn Hải chịu trách nhiệm Với tư cách Tenant Admin , liên kết address với Dead Letter Queue nơi các messages hết hạn hoặc không thể phân phối có thể được định tuyến cuối tuần này với mức độ ưu tiên Vừa phải",1
+"cuối tuần này, Nguyễn Thanh Hiếu tiến hành Kiểm tra 1.4.2 images và cung cấp Sign-off trong dự án MeshRoute với mức độ ưu tiên Khẩn cấp",1
+"trong tuần này, Nguyễn Thanh Hiếu đảm bảo durable subscriptions : standard-controller trong dự án TypedAddress MaaS Core với mức độ ưu tiên Gấp",1
+"Giao cho Nguyễn Văn Hải Docs : Thêm link đến 1.5.3 resolved issues trong 1.5 RNs ,dealine: trước đầu tháng sau với ưu tiên Ưu tiên",1
+Long đảm bảo [ Shared infra ] Thêm hỗ trợ cho tất cả address types của dự án TypedAddress MaaS Core trước thứ 2 tuần sau với mức độ ưu tiên Cao,1
+"Giao cho Tài Console-IoT-UI - Tích hợp pagination cho project list table ,dealine: trước thứ 2 tuần sau với ưu tiên Trung bình",1
+Tài thực hiện Console-IoT-UI - Sửa đổi test danh sách IotDevice để kiểm tra null lúc 15h ngày 20/5 ưu tiên Cao,1
+"Với mức độ ưu tiên Vừa phải, Long xử lý Docs : Thêm hướng dẫn kích thước vào tài liệu downstream cho dự án Cloud Messaging Orchestrator trong tuần tới",1
+Lan được giao Cập nhật service broker để hỗ trợ mô hình address mới cho dự án Cloud Messaging Orchestrator vào lúc 10h30 sáng thứ 5 với mức độ ưu tiên Gấp,1
+"Giao cho Tài Xác định schemas chung cho tất cả loại address của chúng ta cho dự án ,dealine: trước ngày 01/05/2025 với ưu tiên Trung bình",1
+"cho dự án TypedAddress MaaS Core, Nguyễn Thanh Hiếu yêu cầu Hỗ trợ interop team loại trừ test khỏi LPT testrun trước ngày 31/12/2025 với mức độ ưu tiên Ưu tiên",1
+"trong tuần này, Lan thực hiện Với tư cách MaaS Service Admin , phương thức xác thực user của dự án MeshRoute với mức độ ưu tiên Ưu tiên",1
+"Mai cần Với tư cách System Admin , cho phép tạo / xoá address spaces bằng custom resources trong hôm nay với mức độ ưu tiên Vừa phải",1
+"Với mức độ ưu tiên Vừa phải, Tài yêu cầu Với tư cách Tenant Admin , trích xuất tất cả user / permission configuration cho address space vào configuration file bằng API thuộc dự án A-MQ Messaging-as-a-Service trước ngày 02/09",1
+Mai được giao Di chuyển khỏi deprecated automatically injected service-ca.crt vào lúc 10h30 sáng thứ 5 ưu tiên Vừa phải,1
+"Giao cho Nguyễn Văn Hải Lưu trữ báo cáo kiểm tra và logs OpenShift trên Bintray ,dealine: trước thứ 2 tuần sau với ưu tiên Cao",1
+Nguyễn Thanh Hiếu thực hiện Docs : Cập nhật ảnh chụp màn hình Console thuộc dự án EnRoute – Messaging Address Controller trong hôm nay với mức độ ưu tiên Gấp,1
+"vào sáng thứ 3 tới, Lan chịu trách nhiệm Với tư cách Monitor , xem thống kê tổng hợp cho IoT tenant ; số lượng messages telemetry / event , tỷ lệ , connections , ... cho dự án TypedAddress MaaS Core với mức độ ưu tiên Bình thường",1
+Lan tiến hành Ops procedures - Tài liệu kích hoạt protocol trace cho router / broker trong vòng 1 giờ nữa với mức độ ưu tiên Khẩn cấp,1
+Mai đảm bảo Thêm graphQL query để tạo command tạo iot project trước ngày 30/04 ưu tiên Cao,1
+"của dự án MeshRoute, Lan đảm nhận Tham số hoá default docker images cho OpenShift templates trong hôm nay với mức độ ưu tiên Bình thường",1
+"Nguyễn Thanh Hiếu xử lý Console Server : Làm cho nguồn stats , nguồn addresses có thể cắm được thuộc dự án A-MQ Messaging-as-a-Service trước ngày mai với mức độ ưu tiên Vừa phải",1
+Nguyễn Văn Hải xử lý [ console ] Nhấp qua console hiện có + điều hướng trở lại vào lúc 9h sáng ngày mai thuộc dự án Cloud Messaging Orchestrator,1
+"Giao cho Hồng Phản hồi QE cho tài liệu downstream [ biên tập ] ,dealine: trong vòng 1 giờ nữa với ưu tiên Bình thường",1
+"Giao cho Tài Cập nhật lên Router 1.4 ,dealine: trước thứ 2 tuần sau với ưu tiên Trung bình",1
+"Giao cho Trương Văn Đức Với tư cách MaaS Service Admin , quản lý Routes ,dealine: trước ngày 15/04/2025 với ưu tiên Khẩn cấp",1
+"Với mức độ ưu tiên Trung bình, Nguyễn Thanh Hiếu phải Console-IoT-UI - Plan dropdown không được xoá khi chuyển từ subscription type trong Create Address wizard trong dự án EnRoute – Messaging Address Controller hạn là 20/5/2025",1
+Hồng phải [ console ] Thiết kế API Console-server trong vòng 3 ngày nữa với mức độ ưu tiên Bình thường,1
+"Nguyễn Văn Hải yêu cầu Với tư cách Monitor , xoá tất cả stored messages cho một address trước ngày 15/4 ",1
+"Giao cho Trương Văn Đức Thêm hỗ trợ cho PATCH vào api server cho dự án ,dealine: trước 15h chiều nay với ưu tiên Trung bình",1
+Mai xử lý Cần điều kiện hoá tài liệu quản lý users và thêm nội dung manage user authorization trong vòng 3 ngày nữa ưu tiên Ưu tiên,1
+"Giao cho Tài Docs : Xoá auth service `none` khỏi tài liệu downstream cho dự án ,dealine: hạn là 20/5/2025 với ưu tiên Gấp",1
+"Với mức độ ưu tiên Gấp, Long yêu cầu Addresses bị kẹt trong khi tạo thuộc dự án EnRoute – Messaging Address Controller trước thứ 2 tuần sau",1
+"Tên gọi không nhất quán "" senders "" vs "" incoming links "" trong dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Trương Văn Đức trước ngày 30/06/2025 với ưu tiên Bình thường",1
+Tài thực hiện Xoá stale route khỏi service-broker trước ngày 30/06/2025 thuộc dự án Cloud Messaging Orchestrator,1
+"cho dự án MeshRoute, Hồng thực hiện Docs : Ghi chú phát hành 1.2 trước ngày 01/01/2026 với mức độ ưu tiên Vừa phải",1
+"Giao cho Lan Danh sách Address - chế độ xem mở rộng thuộc dự án ,dealine: vào lúc 18h chiều mai với ưu tiên Cao",1
+"thuộc dự án TypedAddress MaaS Core, Tài thực hiện Ẩn ' stored messages ' cho address types anycast / multicast cuối tuần này với mức độ ưu tiên Gấp",1
+Nguyễn Văn Hải cần Thêm hỗ trợ cho ACME vào AddressController trước 15h chiều nay với mức độ ưu tiên Vừa phải,1
+Hồng cần [ QE ] Kiểm tra respin images trong tuần tới ưu tiên Khẩn cấp,1
+Có thể tạo address của bất kỳ type và plan nào trong webgui trong dự án Cloud Messaging Orchestrator cần được thực hiện bởi Nam trong tuần này với ưu tiên Bình thường,1
+Tài được giao Docs : Sửa cách diễn đạt trong quy trình Thêm address bằng Console trước ngày 12 tháng 8 năm 2025 với mức độ ưu tiên Cao,1
+Mai thực hiện Docs : Sửa định dạng trên code ví dụ cài đặt OLM trước 23h59 ngày 31/12 ưu tiên Gấp,1
+"của dự án A-MQ Messaging-as-a-Service, Nguyễn Văn Hải được giao Với tư cách Monitor , cho phép cấu hình alerts trên cơ sở từng address và từng address space dựa trên các resource metrics ( queue size , message age , số lượng queues , số lượng connections , v.v . ) trong vòng 3 ngày nữa với mức độ ưu tiên Trung bình",1
+Hồng thực hiện Thêm IN filtering trong console backend trước thứ 2 tuần sau ,1
+Hồng triển khai Xoá bảng sending và receiving links ( brokered address space ) trước ngày 15/4 với mức độ ưu tiên Trung bình,1
+"Giao cho Nguyễn Văn Hải [ QE ] Tạo Corporate service account cho certificate management ,dealine: cuối tuần này với ưu tiên Bình thường",1
+Trương Văn Đức được giao Docs : Sửa từ ngữ trong mô tả subscription address type trong dự án A-MQ Messaging-as-a-Service trước ngày 25 tháng 12 với mức độ ưu tiên Gấp,1
+"Giao cho Long Cập nhật scripts khởi động Artemis để hỗ trợ brokered address space ,dealine: cuối tuần này với ưu tiên Ưu tiên",1
+"Giao cho Mai [ CI ] Tạo job để kiểm tra released images và templates cho dự án ,dealine: trong hôm nay với ưu tiên Trung bình",1
+"Với mức độ ưu tiên Trung bình, Nguyễn Văn Hải thực hiện Message out metric luôn hiển thị 0 trên connection list / detail page cho brokered address space của dự án Cloud Messaging Orchestrator trong vòng 3 ngày nữa",1
+"trong tuần này, Tài thực hiện [ Test ] Điều tra OLP run test fails trong dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Cao",1
+Nguyễn Văn Hải đảm bảo Cho phép cấu hình restart policy trong infra config trước ngày mai ưu tiên Ưu tiên,1
+Lan xử lý Sử dụng authorization để ngăn messaging clients gọi quản lý trong Brokered Address Space trước ngày 20/05/2025 trong dự án MeshRoute,1
+"Trương Văn Đức đảm nhận Với tư cách System Admin , sửa đổi address plan trong hệ thống đang hoạt động trước ngày mai với mức độ ưu tiên Trung bình",1
+Nguyễn Văn Hải đảm nhận Console-IoT-UI - Chỉnh sửa gateway group membership trong device detail page ngay sau kỳ nghỉ Tết của dự án A-MQ Messaging-as-a-Service,1
+"Long đảm nhận Xoá topics có durable subscribers gắn liền để lại "" unlinked "" subscribers của dự án EnRoute – Messaging Address Controller vào thứ 5 với mức độ ưu tiên Cao",1
+Nam xử lý Docs : Chỉnh sửa address space bằng Console trong vòng 3 ngày nữa ưu tiên Trung bình,1
+Long tiến hành Tạo cơ chế và tests để kiểm tra tạo addressspaces dưới user không phải admin trước 17h chiều nay ưu tiên Vừa phải,1
+"Với mức độ ưu tiên Khẩn cấp, Nguyễn Thanh Hiếu tiến hành system-tests : Sử dụng multi-asserts thay vì single asserts thuộc dự án MeshRoute lúc 14h ngày 25/12/2025",1
+"sáng thứ 3 tới, Trương Văn Đức xử lý system-tests : Tạo test để kiểm tra xem kích thước messages có vượt quá không thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+"Xác định tập hợp thuộc tính mà group based permissions được định nghĩa trên address , có ragent cập nhật policy để khớp với thuộc tính trên addresses cho dự án Cloud Messaging Orchestrator cần được thực hiện bởi Trương Văn Đức cuối tuần này với ưu tiên Ưu tiên",1
+"Giao cho Nguyễn Văn Hải Console-IoT-UI - Plan dropdown không được xoá khi chuyển từ subscription type trong Create Address wizard ,dealine: trước ngày 30/04 với ưu tiên Khẩn cấp",1
+Hồng thực hiện Sửa cài đặt CRC trên rhel8 trước ngày 15/4 ,1
+"Giao cho Trương Văn Đức component / console - frontend - Tạo connection detail components cho dự án ,dealine: trong tuần này với ưu tiên Gấp",1
+"Với mức độ ưu tiên Ưu tiên, Mai cần [ console ] APIMock console-server trong dự án MeshRoute trong tuần tới",1
+Tài đảm bảo Addressspace list - namespace là một từ trước ngày mai ưu tiên Cao,1
+Trương Văn Đức tiến hành Console-IoT-UI - Tạo Filter component cho project list vào lúc 18h chiều mai ưu tiên Bình thường,1
+Trương Văn Đức đảm bảo Thêm UUID cho credentials entries trong mock servers trước ngày 01/01/2026 với mức độ ưu tiên Cao,1
+Trương Văn Đức cần Sự không nhất quán trong status object giữa mock server và real server trước ngày 20/05/2025 ,1
+"Giao cho Hồng [ Kubernetes ] Console UI cung cấp OpenShift Route như một endpoint customization ,dealine: vào lúc 10h sáng thứ 2 tuần sau với ưu tiên Trung bình",1
+Nam thực hiện Tạo ansible deployment để cài đặt dependencies cho chạy systemtests vào thứ 5 thuộc dự án TypedAddress MaaS Core,1
+"Với mức độ ưu tiên Khẩn cấp, Nam chịu trách nhiệm Phát hành AMQ Online 1.2.3 của dự án Cloud Messaging Orchestrator trước ngày 01/01/2026",1
+Nam triển khai Architecture : IoT cho shared infra trong 1.0 trước ngày 15/4 ưu tiên Khẩn cấp,1
+"cho dự án EnRoute – Messaging Address Controller, Nguyễn Thanh Hiếu tiến hành Sử dụng cơ chế internal authentication / authorization cho protocol adapters vào sáng thứ 3 tới với mức độ ưu tiên Gấp",1
+Lan phải Thêm readiness check cho dispatch router của dự án A-MQ Messaging-as-a-Service trước ngày 01/05/2025 với mức độ ưu tiên Ưu tiên,1
+Lan xử lý [ console ] Nhấp qua console hiện có + điều hướng trở lại trong vòng 3 ngày nữa thuộc dự án A-MQ Messaging-as-a-Service,1
+Nguyễn Văn Hải đảm bảo Triển khai system test hỗ trợ Keycloak auth vào thứ 5 với mức độ ưu tiên Ưu tiên,1
+"Nguyễn Thanh Hiếu yêu cầu Service catalog không hoạt động do thiếu "" namespace "" trước ngày 15/04/2025 ",1
+Nguyễn Văn Hải chịu trách nhiệm System-test : Triển khai Abstract client trước ngày 30/04 với mức độ ưu tiên Gấp,1
+"Giao cho Mai Thiết lập EOL plan of record - AMQ Online ,dealine: vào lúc 10h30 sáng thứ 5 với ưu tiên Trung bình",1
+"trước lễ 30/4, Mai yêu cầu Kích hoạt MQTT gateway để truyền username / password thuộc dự án TypedAddress MaaS Core với mức độ ưu tiên Ưu tiên",1
+FirefoxConsoleTest.testOpenShiftWithCustomCert trên OpenShift 4.5 thuộc dự án TypedAddress MaaS Core cần được thực hiện bởi Nguyễn Văn Hải vào sáng thứ 3 tới với ưu tiên Khẩn cấp,1
+"Giao cho Long Console-IoT-UI - Lựa chọn thủ công các hàng DeviceList không check bulk select checkbox ,dealine: trong tuần này với ưu tiên Ưu tiên",1
+Nam đảm nhận Brokered : Không thể tạo topic : user null không có permissions để ' send ' ... trước ngày 01/01/2026 thuộc dự án EnRoute – Messaging Address Controller,1
+"trước thứ 2 tuần sau, Nguyễn Văn Hải đảm nhận Tinh chỉnh UI Console cho wizard Tạo Address thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Khẩn cấp",1
+"vào lúc 9h sáng ngày mai, Nguyễn Thanh Hiếu chịu trách nhiệm address-controller không thể thay thế addresses được tạo qua console thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Ưu tiên",1
+Thêm type và plan vào address-space trong address controller ( đổi tên instance thành address-space ? ) của dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Lan ngay sau kỳ nghỉ Tết với ưu tiên Trung bình,1
+"Giao cho Nam Docs : Ghi lại new field cho ! trong dự án ,dealine: trước 17h chiều nay với ưu tiên Vừa phải",1
+[ IoT Design ] Nghiên cứu đối thủ IoT - IBM IoT trong dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Trương Văn Đức trước ngày 12 tháng 8 năm 2025 với ưu tiên Trung bình,1
+"Giao cho Hồng system-tests : Plan test mới : testPlansAvailableViaConsole ,dealine: trước thứ 2 tuần sau với ưu tiên Trung bình",1
+"Job ( isolated tests , ocp 3.11 ) không hoàn thành do timeout - vấn đề với router pod của dự án TypedAddress MaaS Core cần được thực hiện bởi Hồng trước ngày 01/05/2025 với ưu tiên Gấp",1
+"vào lúc 9h sáng ngày mai, Hồng yêu cầu [ doc ] Các ví dụ trong tài liệu không hoạt động khi sao chép vào terminal của dự án Cloud Messaging Orchestrator với mức độ ưu tiên Cao",1
+"thuộc dự án Cloud Messaging Orchestrator, Tài triển khai [ console ] Tạo header console tích hợp trước ngày 20/05/2025 với mức độ ưu tiên Cao",1
+"Giao cho Nam Kiểm tra trạng thái router chặn vòng lặp reconciliation của dự án ,dealine: trước ngày 01/01/2026 với ưu tiên Cao",1
+"Giao cho Trương Văn Đức Với tư cách Tenant Admin , xem sự tồn tại của tất cả dự án IoT qua console của dự án ,dealine: trước ngày 15/04/2025 với ưu tiên Trung bình",1
+"Nguyễn Văn Hải xử lý Brokered - Web-console : Connection item không điền các cột Accepted , Rejected , Released ... trước ngày mai cho dự án Cloud Messaging Orchestrator",1
+"Long xử lý Với tư cách Developer , gửi / nhận messages bằng MQTT 3.1.1 trước 23h59 ngày 31/12 ưu tiên Trung bình",1
+"cho dự án Cloud Messaging Orchestrator, Hồng phải Xem xét các nguồn kiểm tra tiềm năng khác cho upstream ( ví dụ : Qpid examples ) trước ngày 12 tháng 8 năm 2025 với mức độ ưu tiên Khẩn cấp",1
+Thay đổi mức độ nghiêm trọng của alert cho dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Long vào lúc 18h chiều mai với ưu tiên Khẩn cấp,1
+Hồng chịu trách nhiệm Di chuyển build files sang Maven thuộc dự án TypedAddress MaaS Core trước ngày 12 tháng 8 năm 2025 với mức độ ưu tiên Trung bình,1
+"trước ngày mai, Mai yêu cầu Kiểm tra trạng thái router chặn vòng lặp reconciliation cho dự án Cloud Messaging Orchestrator với mức độ ưu tiên Trung bình",1
+Nam triển khai [ Shared infra ] Thêm hỗ trợ cho TLS endpoints cho shared infra trước 15h chiều nay ,1
+"trong tuần này, Nguyễn Thanh Hiếu đảm bảo Hono - Thêm Management API operation để xoá tất cả devices khớp với filter thuộc dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Trung bình",1
+"vào sáng thứ 3 tới, Tài cần Kiểm tra và xác minh new và updated images từ errata trong dự án MeshRoute với mức độ ưu tiên Trung bình",1
+Mai phải Console-IoT-UI - Tích hợp mock-server queries với AddGatewaysContainer trong device detail page trong hôm nay thuộc dự án Cloud Messaging Orchestrator,1
+Thêm hỗ trợ cho external bridges thuộc dự án MeshRoute cần được thực hiện bởi Mai trong vòng 3 ngày nữa với ưu tiên Vừa phải,1
+"trước ngày 01/01/2026, Lan phải Kích hoạt xoá parent cùng với tất cả children trong metadata form trong dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Trung bình",1
+"Giao cho Nguyễn Thanh Hiếu java-1 . 8.0 - openjdk security bug fix và enhancement update RHSA : 93586 - AMQ Online image update thuộc dự án ,dealine: trước đầu tháng sau với ưu tiên Bình thường",1
+"Giao cho Nguyễn Thanh Hiếu Tests cho authorization trong WebConsole ,dealine: trước 23h59 ngày 31/12 với ưu tiên Bình thường",1
+"sáng thứ 3 tới, Nguyễn Thanh Hiếu phải AMQ Online Metrics - Errors của dự án TypedAddress MaaS Core với mức độ ưu tiên Trung bình",1
+Nam tiến hành Custom authservice không khởi động được trong hôm nay ưu tiên Trung bình,1
+"Giao cho Nam Xoá per-address address-settings config của dự án ,dealine: cuối tuần này với ưu tiên Cao",1
+Bước không cần thiết trong cài đặt standard auth conf cho dự án Cloud Messaging Orchestrator cần được thực hiện bởi Tài đầu tháng sau với ưu tiên Bình thường,1
+"cuối tuần này, Mai yêu cầu [ CI ] Tạo job để xây dựng new templates với private quay images cho dự án EnRoute – Messaging Address Controller với mức độ ưu tiên Gấp",1
+Tạo alert cho standard authentication service status của dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Nguyễn Văn Hải hạn cuối là 10/06 với ưu tiên Vừa phải,1
+"của dự án Cloud Messaging Orchestrator, Nam xử lý Nâng cấp Keycloak lên 4.8.3 trước ngày 01/05/2025 với mức độ ưu tiên Bình thường",1
+Tài cần Console-IoT-UI - Sửa lỗi nâng cấp patternfly 4 thuộc dự án MeshRoute trước 15h chiều nay với mức độ ưu tiên Trung bình,1
+Trương Văn Đức được giao Nâng cấp jackson-databind.version từ 2.10.4 lên 2.11.3 sáng thứ 3 tới ưu tiên Cao,1
+"Với mức độ ưu tiên Vừa phải, Nguyễn Văn Hải chịu trách nhiệm system-tests : Viết lại sang junit5 bước 2 ( giảm inheritance của TestBases ) của dự án EnRoute – Messaging Address Controller hạn cuối là 10/06",1
+Nguyễn Văn Hải đảm bảo Xác định schemas chung cho tất cả loại address của chúng ta trước lễ 30/4 ,1
+Nam đảm bảo Tích hợp Access Credentials với Project Details vào lúc 18h chiều mai ưu tiên Gấp,1
+Nam yêu cầu Thêm khả năng sử dụng AMQP qua WebSockets vào route trên cổng 443 trong vòng 1 giờ nữa ưu tiên Trung bình,1
+"Giao cho Nguyễn Văn Hải Tạo 1.4 RNs trong dự án ,dealine: lúc 14h ngày 25/12/2025 với ưu tiên Khẩn cấp",1
+"thuộc dự án EnRoute – Messaging Address Controller, Mai được giao ' Message not accepted ' sau khi gửi message tới address được tạo / xoá trong vòng lặp trước 23h59 ngày 31/12 với mức độ ưu tiên Ưu tiên",1
+"trước ngày 01/05/2025, Lan đảm nhận Với tư cách MaaS Tenant Admin , giám sát metrics của dự án TypedAddress MaaS Core với mức độ ưu tiên Vừa phải",1
+"Với mức độ ưu tiên Vừa phải, Lan đảm nhận Plan dropdown trống khi tạo Address của dự án MeshRoute trong tuần này",1
+Trương Văn Đức tiến hành [ service catalog ] User không thấy addressspace được tạo bởi service catalog vào thứ 5 thuộc dự án TypedAddress MaaS Core,1
+Mai tiến hành Tạo template triển khai & dịch vụ cho Keycloak sáng thứ 3 tới trong dự án EnRoute – Messaging Address Controller,1
+Trương Văn Đức tiến hành Tạo template cho brokered address space hạn cuối là 10/06 với mức độ ưu tiên Trung bình,1
+"Minh: Cung cấp tài khoản test, điều phối lịch kiểm thử thử nghiệm trước 15h ngày mai.",1
+[ Productisation ] Xoá nhu cầu quản lý phụ thuộc transitive downstream bổ sung thuộc dự án MeshRoute cần được thực hiện bởi Trương Văn Đức trước đầu tháng sau với ưu tiên Vừa phải,1
+Mai thực hiện Có thể tạo address của bất kỳ type và plan nào trong webgui trước 23h59 ngày 31/12 với mức độ ưu tiên Trung bình,1
+Long đảm bảo component / console - frontend - Hành vi không đồng nhất của ConnectionList và AddressSpaceList thuộc dự án Cloud Messaging Orchestrator trước 15h chiều nay với mức độ ưu tiên Khẩn cấp,1
+Nam tiến hành Mặc định standard auth sử dụng persistent volume trước ngày 15/04/2025 trong dự án Cloud Messaging Orchestrator,1
+"Với mức độ ưu tiên Vừa phải, Trương Văn Đức yêu cầu Thêm graphQL query để xoá nhiều iot projects thuộc dự án TypedAddress MaaS Core trước thứ 2 tuần sau",1
+"Giao cho Nguyễn Thanh Hiếu Sử dụng User API trong service broker khi tạo users ,dealine: lúc 15h ngày 20/5 với ưu tiên Bình thường",1
+"Giao cho Nam Lựa chọn address plans để bao gồm bằng cách sử dụng pattern matching ,dealine: lúc 15h ngày 20/5 với ưu tiên Vừa phải",1
+"Giao cho Hồng Console-UI Tạo DropdownWithToggle generic component ,dealine: hạn là 20/5/2025 với ưu tiên Khẩn cấp",1
+Hồng triển khai Cho phép brokers đăng ký chính họ như amqp-management resource servers với mạng router trong vòng 1 giờ nữa trong dự án A-MQ Messaging-as-a-Service,1
+Nguyễn Thanh Hiếu xử lý Standard address space agent xử lý sai addresses của addressspaces khác trong cùng namespace trong vòng 1 giờ nữa với mức độ ưu tiên Trung bình,1
+Docs : Sửa vấn đề bảng API cho dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Nguyễn Thanh Hiếu trước thứ 2 tuần sau với ưu tiên Cao,1
+"trước 23h59 ngày 31/12, Nguyễn Văn Hải đảm bảo [ UXD ] Thay đổi UI cho IoT - AMQ Online V 2.0 trong dự án A-MQ Messaging-as-a-Service với mức độ ưu tiên Trung bình",1
+Tài đảm nhận Cung cấp metrics trên address controller / standard controller để hiển thị prometheus metrics vào thứ 5 thuộc dự án EnRoute – Messaging Address Controller,1
+Trương Văn Đức cần Sửa kiểm tra không ổn định enmasse.broker.prestop.TopicMigratorTest.testMigrator ngay sau kỳ nghỉ Tết ưu tiên Ưu tiên,1
+Mai tiến hành Console-IoT-UI - Tạo Configuration Info Page trước ngày mai với mức độ ưu tiên Bình thường,1
+Lan chịu trách nhiệm Tham gia AMQ online 1.7 vào ocp4 LP testing cuối quý 2 trong dự án A-MQ Messaging-as-a-Service,1
+Trương Văn Đức được giao Docs : Thêm address canary metrics vào downstream docs trong tuần này của dự án EnRoute – Messaging Address Controller,1
+"trong dự án MeshRoute, Lan được giao Xem lại image meta vào lúc 10h sáng thứ 2 tuần sau với mức độ ưu tiên Bình thường",1
+Hồng đảm nhận Docs : Thêm thông tin về tài nguyên trước 17h chiều nay ,1
+"Giao cho Tài Console address detail page không cung cấp khả năng xác định quan hệ topic / subscription thuộc dự án ,dealine: trong vòng 1 giờ nữa với ưu tiên Ưu tiên",1
+"Giao cho Tài Nâng cấp từ 0.30.2 lên master bị kẹt ở trạng thái restarting address-space-controller ( 4000 addresses ) ,dealine: sáng thứ 3 tới với ưu tiên Bình thường",1
+"Giao cho Nguyễn Văn Hải Xác minh CVE images được liệt kê dưới đây ,dealine: trước thứ 2 tuần sau với ưu tiên Bình thường",1
+Nguyễn Văn Hải được giao Thêm readiness cho broker trong brokered và standard address space trước ngày mai thuộc dự án A-MQ Messaging-as-a-Service,1
+"trong dự án Cloud Messaging Orchestrator, Tài chịu trách nhiệm Cho phép tooltips cho brokered address space ngay sau kỳ nghỉ Tết với mức độ ưu tiên Cao",1
+Custom authservice không khởi động được trong dự án MeshRoute cần được thực hiện bởi Trương Văn Đức trước 23h59 ngày 31/12 với ưu tiên Cao,1
+Sai namespace name thuộc dự án MeshRoute cần được thực hiện bởi Long trước ngày 01/05/2025 với ưu tiên Ưu tiên,1
+"Nam triển khai Với tư cách Tenant Admin , tạo address space với plan phân bổ tài nguyên khi cần , nhưng mỗi tài nguyên được phân bổ là dành riêng cho address space đó trước ngày 02/09 ưu tiên Ưu tiên",1
+Trương Văn Đức tiến hành [ IoT Design ] Tạo Device vào lúc 7h sáng ngày 1/1/2026 với mức độ ưu tiên Cao,1
+Nam phải Triển khai keycloak trong cấu hình HA trước ngày 15/4 thuộc dự án MeshRoute,1
+[ UX Improvement ] Tổng hợp tất cả vấn đề usability / ui trong phiên bản Beta thuộc dự án A-MQ Messaging-as-a-Service cần được thực hiện bởi Hồng trước ngày 30/04 với ưu tiên Cao,1
+"của dự án Cloud Messaging Orchestrator, Nam xử lý [ CI ] Openstack sửa disconnected images trong vòng 1 giờ nữa với mức độ ưu tiên Trung bình",1
+"Giao cho Long Tham số hoá default docker images cho OpenShift templates ,dealine: trong vòng 3 ngày nữa với ưu tiên Ưu tiên",1
+Trương Văn Đức phải Thử xoá address không tồn tại nên gây lỗi trước ngày 31/12/2025 cho dự án EnRoute – Messaging Address Controller,1
+"thuộc dự án MeshRoute, Lan đảm nhận System-test : Triển khai Abstract client trước thứ 2 tuần sau với mức độ ưu tiên Trung bình",1
+"Với mức độ ưu tiên Bình thường, Trương Văn Đức đảm nhận Cải thiện addressspace status để hiển thị phase và messages của dự án A-MQ Messaging-as-a-Service trước ngày 25 tháng 12",1
+Trương Văn Đức yêu cầu Nâng cấp lên Hono 1.2.3 vào sáng thứ 3 tới ,1
+Tài đảm bảo Cung cấp cấu trúc tài liệu tốt hơn và nhiều nội dung hơn vào lúc 10h30 sáng thứ 5 thuộc dự án EnRoute – Messaging Address Controller,1
+"trước 17h chiều nay, Nguyễn Thanh Hiếu phải Docs : Xác định { ProductMonitoringNamespace } trong tài liệu downstream của dự án TypedAddress MaaS Core với mức độ ưu tiên Cao",1
+"Giao cho Hồng [ Shared Infra ] Thêm hỗ trợ cho access control server và IdentityProvider ,dealine: đầu tháng sau với ưu tiên Ưu tiên",1
+"Lan thực hiện Với tư cách System Admin , tạo plans và infra configs bằng công cụ GUI cho dự án TypedAddress MaaS Core vào lúc 9h sáng ngày mai với mức độ ưu tiên Gấp",1
+"Lan tiến hành Với tư cách System Admin , cho phép tạo / xoá address spaces bằng service catalog trên nhiều clusters trong hôm nay với mức độ ưu tiên Khẩn cấp",1
+"của dự án A-MQ Messaging-as-a-Service, Lan chịu trách nhiệm Xác định service accounts cần thiết cho các thành phần trước ngày mai với mức độ ưu tiên Trung bình",1
+"Trương Văn Đức yêu cầu Thuật ngữ không nhất quán - "" Container "" vs . của dự án TypedAddress MaaS Core trước ngày 02/09 với mức độ ưu tiên Cao",1
+Lan được giao Kiểm tra non triggering CVP job vào lúc 18h chiều mai ưu tiên Bình thường,1
+Nam triển khai Docs : Thay thế sơ đồ address space standard và brokered trước ngày 02/09 với mức độ ưu tiên Trung bình,1
+Hồng phải Cập nhật lên Broker 7.3 trước thứ 2 tuần sau với mức độ ưu tiên Bình thường,1
+Tài triển khai [ Shared Infra ] Thêm hỗ trợ cho access control server và IdentityProvider thuộc dự án TypedAddress MaaS Core vào lúc 10h30 sáng thứ 5 với mức độ ưu tiên Gấp,1
+Mai tiến hành Placeholder cho sửa chữa PATCH tốt hơn hạn là 20/5/2025 ,1
+"Với mức độ ưu tiên Khẩn cấp, Nam thực hiện Hỗ trợ v1 của CRD API cho dự án EnRoute – Messaging Address Controller trước ngày 31/12/2025",1
+Nguyễn Văn Hải cần Báo cáo Polarion cho các test cases của enmasse trong dự án MeshRoute trong vòng 3 ngày nữa với mức độ ưu tiên Bình thường,1
+Sửa downstream build cho 1.5 thuộc dự án TypedAddress MaaS Core cần được thực hiện bởi Lan vào sáng thứ 3 tới với ưu tiên Trung bình,1
+Tài yêu cầu Console-IoT-UI - Thêm meaningful ID cho connection details module trước ngày 01/01/2026 trong dự án TypedAddress MaaS Core,1
+"Với mức độ ưu tiên Vừa phải, Nguyễn Thanh Hiếu phải Viết tài liệu về AMQ Online QE processes và CI của dự án EnRoute – Messaging Address Controller trước ngày 15/04/2025",1
+"Với mức độ ưu tiên Ưu tiên, Nam cần Broker trong ' brokered ' address space không thể khởi động do : Attempting to obtain lock for directory : ( / var / run / artemis / / artemis-1 ) cho dự án A-MQ Messaging-as-a-Service trước lễ 30/4",1
+"Nam chịu trách nhiệm Console-IoT-UI - DeviceList.Hiển thị dropdown options dưới parameters criteria , cột thứ hai cuối tháng này ",1
+Viết blogpost về onboarding đến Report Portal cho dự án Cloud Messaging Orchestrator cần được thực hiện bởi Nguyễn Văn Hải hạn là 20/5/2025 với ưu tiên Gấp,1
+"Giao cho Nguyễn Văn Hải Xem xét các tuỳ chọn Hono service và thêm properties hợp lý vào IoTConfig ,dealine: trước đầu tháng sau với ưu tiên Gấp",1
+Trương Văn Đức đảm nhận Thêm các protocol adapters mới trước ngày mai ưu tiên Trung bình,1
+"Giao cho Hồng Với tư cách Tenant Admin , tạo address khi gửi tới sẽ chuyển tiếp message tới address trong address space khác trong cùng hệ thống của dự án ,dealine: trong tuần tới với ưu tiên Ưu tiên",1
+"Với mức độ ưu tiên Gấp, Nam chịu trách nhiệm Tạo systemtests cho Open Service Broker API trong dự án EnRoute – Messaging Address Controller vào lúc 18h chiều mai",1
+Nguyễn Thanh Hiếu chịu trách nhiệm Danh sách Addresses - Console UI trong vòng 3 ngày nữa của dự án MeshRoute,1
+Nguyễn Văn Hải triển khai [ console ] Đếm message out và stored giảm không chính xác trong dự án Cloud Messaging Orchestrator vào thứ 5 với mức độ ưu tiên Trung bình,1
+"Giao cho Nam Triển khai system test hỗ trợ Keycloak auth cho dự án ,dealine: hạn cuối là 10/06 với ưu tiên Gấp",1
+"trước ngày mai, Hồng cần Thêm truy vấn mutation – patchAddressSpace của dự án EnRoute – Messaging Address Controller với mức độ ưu tiên Gấp",1
+"Giao cho Lan Broker và Agent images không được cập nhật bởi upgrade ,dealine: trong vòng 3 ngày nữa với ưu tiên Bình thường",1
+"Với mức độ ưu tiên Ưu tiên, Nam cần system-tests : Tạo test mới để kiểm tra kỹ lưỡng REST API cho address / address-space cho dự án A-MQ Messaging-as-a-Service trước 23h59 ngày 31/12",1
+"Với mức độ ưu tiên Bình thường, Hồng chịu trách nhiệm Tải số lượng lớn addresses mất thời gian rất lâu thuộc dự án Cloud Messaging Orchestrator trước ngày 01/01/2026",1
+Trương Văn Đức tiến hành Cache thông tin connections và link trong tuần này ,1
+Nguyễn Văn Hải đảm nhận Announcement page trên portal ( tương tự datavirt ) trước ngày 31/12/2025 ưu tiên Gấp,1
+"trong dự án EnRoute – Messaging Address Controller, Lan cần Ví dụ iot-config-k 8s không đồng bộ với tài liệu trước thứ 2 tuần sau với mức độ ưu tiên Bình thường",1
+Nguyễn Văn Hải đảm bảo [ console ] Address name không được tạo khi bắt đầu hoặc kết thúc bằng . trong tuần này ,1
+Trương Văn Đức yêu cầu Di chuyển Jenkins từ RHEV sang OpenShift và tạo CASC của dự án MeshRoute trước ngày 30/06/2025 với mức độ ưu tiên Cao,1
+"Giao cho Tài Sản phẩm hoá release cho Beta ,dealine: trước 15h chiều nay với ưu tiên Gấp",1
+Lan thực hiện Console-IoT-UI - Chuyển đổi form data sang JSON format và ngược lại cho Device Registration Management trước ngày 15/4 với mức độ ưu tiên Gấp,1
+Trương Văn Đức tiến hành Dọn dẹp tài nguyên device registry đúng cách cho dự án MeshRoute trước ngày 25 tháng 12 với mức độ ưu tiên Vừa phải,1
+Nguyễn Thanh Hiếu triển khai Kiểm tra images đầu tháng sau với mức độ ưu tiên Bình thường,1
+"trong dự án Cloud Messaging Orchestrator, Hồng yêu cầu Kiểm tra hiệu suất trước ngày 01/01/2026 với mức độ ưu tiên Cao",1
+"Giao cho Tài Cấu hình router anti-affinity theo mặc định ,dealine: trước ngày 31/12/2025 với ưu tiên Khẩn cấp",1
+Lan tiến hành [ CI ] Sửa ssh access tới ocp4 config repository trong jenkins trước ngày 30/06/2025 với mức độ ưu tiên Vừa phải,1
+Thay đổi images đã sản phẩm hoá để sử dụng ubi 7:7 - released làm image cơ sở trong dự án EnRoute – Messaging Address Controller cần được thực hiện bởi Nguyễn Thanh Hiếu trước 17h chiều nay với ưu tiên Cao,1
+Nguyễn Thanh Hiếu chịu trách nhiệm Cung cấp upgrade path cho users của ! trước ngày mai ,1
+Nam xử lý Kiểm tra hiệu suất cache với số lượng lớn addresses / connections / links trước thứ 2 tuần sau với mức độ ưu tiên Bình thường,1
+"trước ngày 25 tháng 12, Tài được giao Client OpenWire dường như thành công khi sử dụng queue không được định nghĩa thuộc dự án Cloud Messaging Orchestrator với mức độ ưu tiên Vừa phải",1
+7.9 openssl và expat CVE - AMQ Online base image update trong dự án MeshRoute cần được thực hiện bởi Mai trước đầu tháng sau với ưu tiên Trung bình,1
+"Giao cho Trương Văn Đức Admin [ agent ] container ghi lỗi sau khi patch addressspace sang auth service khác cho dự án ,dealine: trước ngày 25 tháng 12 với ưu tiên Ưu tiên",1
+"Với tư cách Tenant Admin , tạo address khi gửi tới sẽ chuyển tiếp message tới address trong address space khác , có thể trong hệ thống / cluster khác cho dự án TypedAddress MaaS Core cần được thực hiện bởi Nguyễn Thanh Hiếu trong vòng 1 giờ nữa với ưu tiên Vừa phải",1
+Nguyễn Thanh Hiếu phải Thay đổi broker để cho phép lấy groups cho connection như một phần của trao đổi xác thực trước lễ 30/4 của dự án Cloud Messaging Orchestrator,1
+Hồng yêu cầu Docs : Thêm quy trình kích hoạt tracing cho IoT infrastructure vào downstream docs trong hôm nay ,1
+"Giao cho Lan Xem xét kiến trúc Console ( cách chúng ta hỗ trợ bốn loại triển khai khác nhau ) ,dealine: trước ngày 20/05/2025 với ưu tiên Gấp",1
+Mai đảm bảo Điều tra vấn đề trong onboarding tests trước lễ 30/4 với mức độ ưu tiên Khẩn cấp,1
+"vào lúc 9h sáng ngày mai, Trương Văn Đức được giao [ CI ] Kích hoạt caching dependencies trên actions của dự án TypedAddress MaaS Core với mức độ ưu tiên Ưu tiên",1
+Lan đảm nhận Console-IoT-UI - Sửa alignment issues trong add a device modal dialog trước ngày 15/4 của dự án MeshRoute,1
+Lan yêu cầu Tham gia AMQ online 1.7 vào ocp4 LP testing thuộc dự án EnRoute – Messaging Address Controller cuối tuần này với mức độ ưu tiên Gấp,1
+"trong dự án A-MQ Messaging-as-a-Service, Nam triển khai iot console metrics trước ngày 12 tháng 8 năm 2025 với mức độ ưu tiên Trung bình",1
+"Giao cho Nguyễn Văn Hải console backend : Triển khai tạo iot tenant ,dealine: trước ngày 01/01/2026 với ưu tiên Bình thường",1
+Tài triển khai Docs : Chỉnh sửa address space bằng Console vào lúc 10h sáng thứ 2 tuần sau cho dự án Cloud Messaging Orchestrator,1
+Tài tiến hành Hộp About trong hôm nay với mức độ ưu tiên Khẩn cấp,1
+"trước thứ 2 tuần sau, Nguyễn Văn Hải cần Với tư cách System Admin , cho phép tạo / xoá address spaces bằng service catalog trên cluster khác thuộc dự án TypedAddress MaaS Core với mức độ ưu tiên Gấp",1
+"Hồng được giao Với tư cách Tenant Admin , tạo messaging instance cho phép scaling đến hàng chục nghìn connections / addresses và high throughput của dự án EnRoute – Messaging Address Controller trước ngày 30/04 với mức độ ưu tiên Bình thường",1
+Mai thực hiện Kích hoạt xoá parent cùng với tất cả children trong metadata form hạn cuối là 10/06 với mức độ ưu tiên Khẩn cấp,1
+"Giao cho Long Console-IoT-UI - Viết graphql query cho DeviceDetailPage và tích hợp với UI ,dealine: cuối tuần này với ưu tiên Trung bình",1
+"Nguyễn Thanh Hiếu triển khai Với tư cách Developer , kết nối tới messaging space từ ngoài cluster bằng MQTT protocol sử dụng TLS qua TCP trước thứ 2 tuần sau với mức độ ưu tiên Ưu tiên",1
+Long triển khai Xác định khoảng trống trong kiểm tra hệ thống liên quan đến Address Model vào lúc 9h sáng ngày mai với mức độ ưu tiên Vừa phải,1
+"lúc 15h ngày 20/5, Lan đảm bảo Cho phép tooltips cho brokered address space cho dự án Cloud Messaging Orchestrator với mức độ ưu tiên Ưu tiên",1
+Hồng đảm nhận Agent http request promise có thể ở trạng thái unresolved vô thời hạn [ 1.3.4 ] trong hôm nay trong dự án A-MQ Messaging-as-a-Service,1
+"Với mức độ ưu tiên Khẩn cấp, Long được giao Thêm truy vấn mutation – patchAddress của dự án MeshRoute trước thứ 2 tuần sau",1
+"Lan được giao Với tư cách Tenant Admin , tạo address space qua service catalog trong tuần này ưu tiên Bình thường",1
+Hải viết xong giao diện trước 12h ngày 15/7,1
+Tổng chi phí dự án đạt 250 triệu đồng.,0
+Anh Minh đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 6.,0
+Một số tính năng chưa đáp ứng yêu cầu của khách hàng.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 9.,0
+Anh Lan đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 3.,0
+Anh Quân đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 3.,0
+Anh Thảo đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Anh Dũng đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 8.,0
+Số lượng ticket hỗ trợ tăng so với tháng 10.,0
+Anh Minh đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Anh Hùng đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Anh Thảo đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 4.,0
+Anh Quân đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 7.,0
+Anh Tú đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Anh Dũng đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Chị Dũng cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 3.,0
+Số lượng ticket hỗ trợ tăng so với tháng 1.,0
+Anh Quân đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 1.,0
+Anh Minh đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 82% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 2.,0
+Anh Quân đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Anh Thảo đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Xin mời anh Lan báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 9.,0
+Xin mời anh Minh báo cáo về tiến độ kiểm thử.,0
+Anh Hùng đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Chúng ta cần xem lại chiến lược quản lý backlog hiện tại.,0
+Anh Dũng đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 3.,0
+Anh Thảo đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 8.,0
+Anh Lan đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Anh Thảo đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Anh Lan đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Anh Thảo đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Vấn đề bảo mật cần được thảo luận thêm trong sprint tới.,0
+Kết quả kiểm thử hiệu năng của hệ thống như thế nào?,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 1.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 1.,0
+Anh Lan đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Anh Hùng đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 5.,0
+Các chỉ số hiệu suất phần mềm có cải thiện so với quý 3.,0
+Anh Ngọc đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Anh Quân đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Chúng ta chuyển sang phần báo cáo của nhóm QA.,0
+Anh Thảo đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 1.,0
+Anh Thảo đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Anh Ngọc đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 2.,0
+Cuộc họp được tổ chức tại phòng D404.,0
+Kết thúc phần trình bày của anh Thảo.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 9.,0
+Anh Quân đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 2.,0
+Anh Tú đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Anh Dũng đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Tú đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Tổng chi phí dự án đạt 400 triệu đồng.,0
+Anh Minh đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 4.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Ngọc.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 8.,0
+Anh Minh đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 1.,0
+Anh Ngọc đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Anh Tú đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Mọi người đồng ý cần đánh giá lại kiến trúc microservices.,0
+Anh Minh đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Anh Tú đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 1.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 4.,0
+Anh Thảo đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Tiếp theo là phần thảo luận của chị Ngọc.,0
+Cuộc họp nhóm Agile bắt đầu lúc 8h00 sáng.,0
+Anh Tú đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 1.,0
+Nên cân nhắc lại thời gian release phiên bản 2.1.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 1.,0
+Anh Minh đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Anh Thảo đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Anh Tú đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 1.,0
+Số lượng ticket hỗ trợ tăng so với tháng 9.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 1.,0
+Tổng chi phí dự án đạt 600 triệu đồng.,0
+Anh Lan đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 9.,0
+Tổng chi phí dự án đạt 350 triệu đồng.,0
+Kết thúc phần trình bày của anh Dũng.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Thảo.,0
+Anh Tú đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 1.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Hùng.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 6.,0
+Anh Quân đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Kết thúc phần trình bày của anh Hùng.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 8.,0
+Anh Minh đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Nên cân nhắc lại thời gian release phiên bản 2.0.,0
+Số lượng ticket hỗ trợ tăng so với tháng 2.,0
+Số lượng ticket hỗ trợ tăng so với tháng 12.,0
+Tiếp theo là phần thảo luận của chị Tú.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 3.,0
+Anh Hùng đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Anh Ngọc đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 7.,0
+Anh Dũng đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 8.,0
+Tổng chi phí dự án đạt 900 triệu đồng.,0
+Anh Minh đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 2.,0
+Tổng chi phí dự án đạt 450 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 8.,0
+Anh Ngọc đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Tổng chi phí dự án đạt 100 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 5.,0
+Anh Lan đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 5.,0
+Số lượng ticket hỗ trợ tăng so với tháng 7.,0
+Anh Hùng đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Anh Hùng đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Tổng chi phí dự án đạt 700 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 4.,0
+Anh Dũng đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 3.,0
+Anh Lan đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Xin mời anh Hùng báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 2.,0
+Anh Lan đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Anh Minh đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 2.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Dũng.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 4.,0
+Số lượng ticket hỗ trợ tăng so với tháng 4.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 9.,0
+Tổng chi phí dự án đạt 850 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 5.,0
+Anh Dũng đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Anh Dũng đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 6.,0
+Anh Quân đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 9.,0
+Anh Lan đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Anh Ngọc đã trình bày tiến độ phát triển module dashboard trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 2.,0
+Anh Hùng đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 8.,0
+Chị Minh cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Chị Quân cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Anh Tú đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Anh Dũng đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 82% trong sprint 6.,0
+Anh Lan đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Các chỉ số hiệu suất phần mềm có cải thiện so với quý 4.,0
+Anh Ngọc đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Cuộc họp nhóm Agile bắt đầu lúc 14h00 sáng.,0
+Anh Hùng đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 3.,0
+Anh Minh đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 1.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 1.,0
+Anh Tú đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 1.,0
+Cuộc họp nhóm Agile bắt đầu lúc 10h30 sáng.,0
+Anh Quân đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Chị Lan cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Anh Ngọc đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 4.,0
+Nên cân nhắc lại thời gian release phiên bản 1.1.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 86% trong sprint 4.,0
+Anh Quân đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Anh Tú đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Anh Dũng đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 3.,0
+Anh Minh đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 4.,0
+Tiếp theo là phần thảo luận của chị Minh.,0
+Anh Tú đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 2.,0
+Anh Ngọc đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 3.,0
+Anh Dũng đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 5.,0
+Anh Minh đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Anh Quân đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 86% trong sprint 1.,0
+Anh Ngọc đề xuất sử dụng framework React cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 6.,0
+Kết thúc phần trình bày của anh Ngọc.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 3.,0
+Anh Ngọc đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Minh đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 8.,0
+Anh Tú đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 3.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Tú.,0
+Anh Quân đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Anh Ngọc đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 1.,0
+Anh Tú đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Anh Quân đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Thảo đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Tổng chi phí dự án đạt 500 triệu đồng.,0
+Tiếp theo là phần thảo luận của chị Hùng.,0
+Anh Lan đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Anh Thảo đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Cuộc họp nhóm Agile bắt đầu lúc 9h00 sáng.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 8.,0
+Tổng chi phí dự án đạt 550 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 5.,0
+Anh Hùng đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Các chỉ số hiệu suất phần mềm có cải thiện so với quý 1.,0
+Anh Dũng đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Anh Minh đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Anh Quân đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 94% trong sprint 7.,0
+Anh Ngọc đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 82% trong sprint 3.,0
+Phản hồi của khách hàng về giao diện mới có gì nổi bật?,0
+Anh Minh đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Anh Hùng đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Anh Dũng đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Anh Thảo đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Anh Minh đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Anh Quân đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 7.,0
+Nhóm DevOps đang triển khai pipeline CI/CD mới.,0
+Tổng chi phí dự án đạt 150 triệu đồng.,0
+Chị Tú cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 4.,0
+Tổng chi phí dự án đạt 300 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 1.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 5.,0
+Anh Lan đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Một số thành viên lo ngại về thời gian tích hợp hệ thống.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 1.,0
+Anh Tú đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Xin mời anh Tú báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 6.,0
+Số lượng ticket hỗ trợ tăng so với tháng 6.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 4.,0
+Anh Tú đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Cuộc họp được tổ chức tại phòng C303.,0
+Anh Dũng đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 2.,0
+Anh Ngọc đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Anh Tú đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Anh Hùng đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Anh Tú đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Anh Lan đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Anh Lan đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 2.,0
+Kết thúc phần trình bày của anh Tú.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 4.,0
+Anh Lan đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 97% trong sprint 5.,0
+Anh Thảo đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 5.,0
+Anh Lan đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Anh Dũng đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Anh Quân đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Anh Dũng đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Anh Minh đề xuất sử dụng framework React cho giao diện người dùng.,0
+Tôi nghĩ API này cần tối ưu thêm về hiệu suất.,0
+Anh Thảo đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Chi phí phát triển tính năng mới vượt bao nhiêu so với dự kiến?,0
+Anh Quân đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Anh Quân đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 5.,0
+Anh Hùng đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Anh Dũng đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 86% trong sprint 5.,0
+Anh Ngọc đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Kết thúc phần trình bày của anh Quân.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 7.,0
+Chị Ngọc cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Anh Tú đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Cuộc họp được tổ chức tại phòng B202.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 3.,0
+Xin mời anh Quân báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 8.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 6.,0
+Anh Ngọc đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Số lượng ticket hỗ trợ tăng so với tháng 8.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 3.,0
+Tiếp theo là phần thảo luận của chị Lan.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 2.,0
+Anh Minh đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Anh Hùng đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Anh Lan đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 5.,0
+Anh Hùng đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Anh Hùng đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Lan đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 2.,0
+Anh Hùng đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Lan.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 1.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 4.,0
+Anh Dũng đã trình bày tiến độ phát triển module payment trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 5.,0
+Anh Quân đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Anh Minh đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Số lượng ticket hỗ trợ tăng so với tháng 3.,0
+Số lượng ticket hỗ trợ tăng so với tháng 11.,0
+Anh Dũng đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 6.,0
+Anh Quân đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 3.,0
+Anh Quân đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Anh Lan đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 6.,0
+Xin mời anh Ngọc báo cáo về tiến độ kiểm thử.,0
+Anh Hùng đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 90% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 86% trong sprint 8.,0
+Kết quả kiểm thử cho thấy tỷ lệ lỗi giảm nhẹ.,0
+Tỷ lệ hoàn thành user story đạt 82% trong sprint 1.,0
+Anh Dũng đã trình bày tiến độ phát triển module auth trong quý 1.,0
+Anh Thảo đề xuất sử dụng framework React cho giao diện người dùng.,0
+Anh Hùng đề xuất sử dụng framework Spring cho giao diện người dùng.,0
+Số lượng ticket hỗ trợ tăng so với tháng 5.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 9.,0
+Anh Dũng đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Tổng chi phí dự án đạt 650 triệu đồng.,0
+Anh Thảo đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 8.,0
+Anh Dũng đã trình bày tiến độ phát triển module notification trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 5.,0
+Anh Thảo đã trình bày tiến độ phát triển module dashboard trong quý 4.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 9.,0
+Anh Lan đã trình bày tiến độ phát triển module reporting trong quý 3.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Quân.,0
+Anh Hùng đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Vẫn còn vấn đề về đồng bộ dữ liệu giữa các module.,0
+Anh Quân đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 87% trong sprint 2.,0
+Anh Ngọc đã trình bày tiến độ phát triển module notification trong quý 1.,0
+Anh Lan đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Anh Thảo đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Minh đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 99% trong sprint 2.,0
+Anh Lan đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Anh Thảo đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 74% trong sprint 9.,0
+Anh Ngọc đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 4.,0
+Anh Minh đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Tổng chi phí dự án đạt 950 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 1.,0
+Tổng chi phí dự án đạt 750 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 4.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 7.,0
+Tỷ lệ hoàn thành user story đạt 72% trong sprint 7.,0
+Có bao nhiêu developer tham gia sprint này?,0
+Tiếp theo là phần thảo luận của chị Thảo.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 1.,0
+Anh Tú đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 7.,0
+Anh Ngọc đề xuất sử dụng framework Vue cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 95% trong sprint 9.,0
+Kết thúc phần trình bày của anh Minh.,0
+Anh Ngọc đã trình bày tiến độ phát triển module notification trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 86% trong sprint 6.,0
+Chúng ta sẽ nghỉ giải lao trong 10 phút.,0
+Tỷ lệ hoàn thành user story đạt 88% trong sprint 1.,0
+Nên cân nhắc lại thời gian release phiên bản 1.0.,0
+Tiếp theo là phần thảo luận của chị Quân.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 6.,0
+Anh Hùng đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Anh Dũng đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 7.,0
+Anh Quân đã trình bày tiến độ phát triển module reporting trong quý 4.,0
+Tổng chi phí dự án đạt 800 triệu đồng.,0
+Anh Lan đã trình bày tiến độ phát triển module reporting trong quý 2.,0
+Anh Minh đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 70% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 83% trong sprint 8.,0
+Các chỉ số hiệu suất phần mềm có cải thiện so với quý 2.,0
+Tỷ lệ hoàn thành user story đạt 71% trong sprint 9.,0
+Anh Tú đề xuất sử dụng framework React cho giao diện người dùng.,0
+Anh Tú đề xuất sử dụng framework Django cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 7.,0
+Anh Ngọc đã trình bày tiến độ phát triển module reporting trong quý 1.,0
+Tỷ lệ hoàn thành user story đạt 98% trong sprint 3.,0
+Tiếp theo là phần thảo luận của chị Dũng.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 2.,0
+Tỷ lệ hoàn thành user story đạt 79% trong sprint 5.,0
+Nhóm lập trình gặp lỗi khi tích hợp với cơ sở dữ liệu Minh.,0
+Tỷ lệ hoàn thành user story đạt 81% trong sprint 9.,0
+Anh Thảo đã trình bày tiến độ phát triển module auth trong quý 3.,0
+Anh Minh đã trình bày tiến độ phát triển module auth trong quý 4.,0
+Kết thúc phần trình bày của anh Lan.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 5.,0
+Cuộc họp được tổ chức tại phòng A101.,0
+Anh Hùng đã trình bày tiến độ phát triển module notification trong quý 4.,0
+Anh Quân đề xuất sử dụng framework React cho giao diện người dùng.,0
+Anh Hùng đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 77% trong sprint 5.,0
+Tình trạng hiện tại của pipeline CI/CD ra sao?,0
+Xin mời anh Dũng báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 75% trong sprint 9.,0
+Anh Hùng đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Tỷ lệ hoàn thành user story đạt 92% trong sprint 6.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 5.,0
+Tỷ lệ hoàn thành user story đạt 85% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 80% trong sprint 7.,0
+Anh Hùng đề xuất sử dụng framework Angular cho giao diện người dùng.,0
+Tỷ lệ hoàn thành user story đạt 84% trong sprint 9.,0
+Tỷ lệ hoàn thành user story đạt 93% trong sprint 2.,0
+Chị Hùng cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Tỷ lệ hoàn thành user story đạt 73% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 3.,0
+Tỷ lệ hoàn thành user story đạt 96% trong sprint 4.,0
+Anh Tú đã trình bày tiến độ phát triển module dashboard trong quý 2.,0
+Anh Quân đã trình bày tiến độ phát triển module payment trong quý 1.,0
+Chị Thảo cho rằng nên bổ sung kiểm thử tự động trước khi triển khai.,0
+Tỷ lệ hoàn thành user story đạt 91% trong sprint 7.,0
+Anh Ngọc đã trình bày tiến độ phát triển module auth trong quý 2.,0
+Anh Lan đề xuất sử dụng framework React cho giao diện người dùng.,0
+Anh Dũng đề xuất sử dụng framework React cho giao diện người dùng.,0
+Anh Minh đã trình bày tiến độ phát triển module dashboard trong quý 1.,0
+Anh Hùng đề xuất sử dụng framework React cho giao diện người dùng.,0
+Xin mời anh Thảo báo cáo về tiến độ kiểm thử.,0
+Tỷ lệ hoàn thành user story đạt 78% trong sprint 9.,0
+Anh Dũng đã trình bày tiến độ phát triển module payment trong quý 2.,0
+Anh Thảo đã trình bày tiến độ phát triển module payment trong quý 3.,0
+Tỷ lệ hoàn thành user story đạt 89% trong sprint 5.,0
+Tổng chi phí dự án đạt 200 triệu đồng.,0
+Tỷ lệ hoàn thành user story đạt 76% trong sprint 8.,0
+Nội dung thực hiện.,0
+Hành động cần thực hiện.,0
+Nội dung thảo luận.,0
+Biên bản cuộc họp dự án Quản lý Address Workflow.,0
+"Thời gian: 10:00 sáng, ngày 12/04/2025.",0
+Địa điểm: Phòng họp online (Zoom).,0
+"Người tham dự: Mai, Tài, Long, Phương, Quản lý dự án: Minh.",0
+Ký tên: Quân,0
+"Lỗi đăng nhập vẫn chưa xác định được nguyên nhân chính, Long cần thêm thời gian để debug kỹ hơn.",0
+"Tài bị quá tải do đảm nhận hai công việc cùng lúc, đề nghị được chia sẻ lại nhiệm vụ kiểm thử hệ thống.",0
+Thiết kế giao diện    Mai               10/5       Đang thực hiện,0
+Kiểm tra hệ thống     Tài               Thứ 5       Chưa thực hiện,0
+Fix login bug         Long              15/4       Mới tạo,0
+Tích hợp API backend	        Quân	            24/04	    Đang thực hiện,0
+Rà soát logic xử lý lỗi	        Hoa	            23/04	    Đã hoàn thành,0
+Người ghi biên bản: (ghi tên nếu cần), 0
+Thêm hỗ trợ cho maintaining endpoints and địa chỉ space readiness for trung gian địa chỉ space | An | 08/06/2025 | Chưa bắt đầu,0
+Viết tài liệu về trung gian địa chỉ space | Bình | 09/06/2025 | Chưa bắt đầu,0
+Khởi tạo mẫu for trung gian địa chỉ space type in bộ điều khiển for trung gian địa chỉ space | Chi | 10/06/2025 | Chưa bắt đầu,0
+Cập nhật Artemis startup scripts to support trung gian địa chỉ space | Dũng | 11/06/2025 | Chưa bắt đầu,0
+Thêm hỗ trợ cho different địa chỉ space types to systemtest framework | An | 12/06/2025 | Chưa bắt đầu,0
+Thêm hỗ trợ cho maintaining endpoints and địa chỉ space readiness for trung gian địa chỉ space | An | 08/06/2025 | Chưa bắt đầu,0
+Viết tài liệu về trung gian địa chỉ space | Bình | 09/06/2025 | Chưa bắt đầu,0
+Khởi tạo mẫu for trung gian địa chỉ space type in bộ điều khiển for trung gian địa chỉ space | Chi | 10/06/2025 | Chưa bắt đầu,0
+Cập nhật Artemis startup scripts to support trung gian địa chỉ space | Dũng | 11/06/2025 | Chưa bắt đầu,0
+Thêm hỗ trợ cho different địa chỉ space types to systemtest framework | An | 12/06/2025 | Chưa bắt đầu,0
+Viết systemkiểm thử for trung gian địa chỉ space | Phương | 09/06/2025 | Chưa bắt đầu,0
+Cấu hình JMS TCK testing on internal Jenkins phiên bản | Quang | 10/06/2025 | Chưa bắt đầu,0
+đổi tên giao diện điều khiển to tác tử | Lan | 11/06/2025 | Chưa bắt đầu,0
+Cấu hình Joram kiểm thử to run against trung gian địa chỉ space with client JMS | Minh | 12/06/2025 | Chưa bắt đầu,0
+add kiểm thử hệ thống wrt độ bền of hàng đợi and chủ đề for chuẩn addr space | Phương | 13/06/2025 | Chưa bắt đầu,0
+Kiểm thử hệ thống: trung gian/chuẩn: phân quyền kiểm thử | An | 13/06/2025 | Chưa bắt đầu,0
+Migrate build files to maven | Bình | 14/06/2025 | Chưa bắt đầu,0
+Kiểm thử hệ thống: trung gian: kiểm thử for particular supported features in trung gian địa chỉ space | Chi | 15/06/2025 | Chưa bắt đầu,0
+Kiểm thử hệ thống: trung gian: webgiao diện điều khiển kiểm thử | Dũng | 16/06/2025 | Chưa bắt đầu,0
+Address-bộ điều khiển is restarted with 'Error syncing pod' event and no additional info in log | An | 17/06/2025 | Chưa bắt đầu,0

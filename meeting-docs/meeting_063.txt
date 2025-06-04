@@ -1,0 +1,28 @@
+BIÊN BẢN CUỘC HỌP DỰ ÁN: Task Implementation
+Thời gian: 10:00 sáng, ngày 08/08/2025
+Hình thức: Họp online qua Zoom
+Người tham dự:
+Hoàng
+Thảo
+Vân
+Hải
+Quản lý dự án: Trang
+
+1. Tổng hợp nội dung thảo luận
+Công việc | Người phụ trách | Deadline | Trạng thái
+--- | --- | --- | ---
+Console-IoT-UI- Create use-patternfly module in giao diện điều khiển app and fixed issues | Hoàng | 09/08/2025 | Chưa bắt đầu
+Add metadata rules to device registration form | Thảo | 10/08/2025 | Chưa bắt đầu
+Console-IoT-UI - Testing the patternfly upgrade | Vân | 11/08/2025 | Chưa bắt đầu
+Docs: Add note to downstream docs about choosing a namespace when deploying test certificates | Hải | 12/08/2025 | Chưa bắt đầu
+Test new openshift OLM UI on ocp 4 with amq online 1. | Hoàng | 13/08/2025 | Chưa bắt đầu
+
+Hành động cần thực hiện
+Hoàng cần console-iot-ui- create use-patternfly module in giao diện điều khiển app and fixed issues trước ngày 09/08/2025, ưu tiên cao.
+Thảo cần add metadata rules to device registration form trước ngày 10/08/2025, ưu tiên trung bình.
+Vân cần console-iot-ui - testing the patternfly upgrade trước ngày 11/08/2025, ưu tiên thấp.
+Hải cần docs: add note to downstream docs about choosing a namespace when deploying test certificates trước ngày 12/08/2025, ưu tiên cao.
+Hoàng cần test new openshift olm ui on ocp 4 with amq online 1. trước ngày 13/08/2025, ưu tiên trung bình.
+
+Ký tên: Trang
+Hà Nội, ngày 08 tháng 08 năm 2025
