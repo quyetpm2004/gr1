@@ -1,0 +1,2 @@
+ner/trained_model
+intent_classification/best_model.pt
