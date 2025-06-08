@@ -4,11 +4,10 @@ import torch
 from vncorenlp import VnCoreNLP
 
 # IMPORT từ module intent classification (đã có sẵn)
-from intent_classification.intent_classification_module import TaskExtractionModule
+from intent_classification_module import TaskExtractionModule
 
 # IMPORT từ module NER mới vừa tạo
-from ner.ner_module import (
-    vncorenlp as ner_vncorenlp,
+from phobert_module import (
     train_ner_model,
     extract_entities_from_sentences,
     DEFAULT_NER_MODEL_DIR
@@ -16,17 +15,22 @@ from ner.ner_module import (
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# Khởi tạo TaskExtractionModule (Intent Classification)
-task_module = TaskExtractionModule(
-    vncorenlp_path=r"C:\Users\DELL\workspace\vncorenlp\VnCoreNLP-1.1.1.jar",
-    model_path="./intent_classification/best_model.pt"    
-)
-task_module.load_model()
+vncorenlp_dir = "/content/vncorenlp/VnCoreNLP-1.1.1.jar"
 
 vncorenlp = VnCoreNLP(
-    r"C:\Users\DELL\workspace\vncorenlp\VnCoreNLP-1.1.1.jar",
+    vncorenlp_dir,
     annotators="wseg"
 )
+
+# Khởi tạo TaskExtractionModule (Intent Classification)
+task_module = TaskExtractionModule(
+    vncorenlp_path=vncorenlp_dir,
+    model_path="/content/best_model.pt"    
+)
+
+task_module.load_model()
+
+
 
 # Nếu chưa có model NER thì train
 if not os.path.exists(DEFAULT_NER_MODEL_DIR):
@@ -56,7 +60,7 @@ def extract_entities_from_meeting_minutes(minutes_text, batch_size=8):
         return []
 
     # Tokenize word-level mỗi câu bằng VnCoreNLP
-    all_word_lists = [ner_vncorenlp.tokenize(sent)[0] for sent in task_sentences]
+    all_word_lists = [vncorenlp.tokenize(sent)[0] for sent in task_sentences]
 
     # Gọi NER
     ner_results = extract_entities_from_sentences(all_word_lists, batch_size=batch_size)
@@ -98,7 +102,7 @@ def extract_entities_from_meeting_minutes(minutes_text, batch_size=8):
 
 # Hàm main
 if __name__ == "__main__":
-    minutes_file = "./meeting-docs/meeting_078.txt"
+    minutes_file = "/content/meeting_001.txt"
     if not os.path.exists(minutes_file):
         print(f"[MAIN] File biên bản '{minutes_file}' không tồn tại.")
         exit(1)
@@ -112,4 +116,4 @@ if __name__ == "__main__":
 
     # Close vncorenlp
     task_module.close()
-    ner_vncorenlp.close()
+    vncorenlp.close()

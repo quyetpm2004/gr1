@@ -201,10 +201,10 @@ def main():
     module.load_model()
 
     # Ví dụ trích xuất task từ file văn bản
-    project, tasks = module.extract_tasks("vanbanloi.txt")
-    print("Project:", project)
-    print("Tasks:", tasks)
-    print("Tasks:", len(tasks)) # Xem số lượng câu chứa task có đúng không
+    project, tasks = module.extract_tasks("meeting-docs/meeting_001.txt")
+
+    print("project: ", project)
+    print("tasks: ", tasks)
 
     module.close()
 

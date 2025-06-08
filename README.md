@@ -37,8 +37,42 @@ Sau khi cài đặt, có thể:
    ```
 
 4. **VnCoreNLP**:
+
    - Tải [VnCoreNLP-1.1.1.jar](https://github.com/vncorenlp/VnCoreNLP/releases).
+
+     - Tải hai file model của module word‐segmenter:
+
+       `vi-vocab`:
+       https://raw.githubusercontent.com/vncorenlp/VnCoreNLP/master/models/wordsegmenter/vi-vocab
+
+       `wordsegmenter.rdr`:
+       https://raw.githubusercontent.com/vncorenlp/VnCoreNLP/master/models/wordsegmenter/wordsegmenter.rdr
+
+     - Tạo thư mục C:\> mkdir vncorenlp\models\wordsegmenter
+     - Di chuyển
+       `C:\vncorenlp> move \path\to\VnCoreNLP-1.1.1.jar` .
+       `C:\vncorenlp\models\wordsegmenter> move \path\to\vi-vocab` .
+       `C:\vncorenlp\models\wordsegmenter> move \path\to\wordsegmenter.rdr` .
+
    - Giải nén vào một thư mục bất kỳ, ví dụ `C:vncorenlp\VnCoreNLP-1.1.1.jar`.
+
+   - Nếu sử dụng trên gg cobal cài đặt nhanh:
+
+     # Tạo thư mục chứa
+
+     !mkdir -p vncorenlp/models/wordsegmenter
+
+     # Tải engine và model
+
+     !wget https://raw.githubusercontent.com/vncorenlp/VnCoreNLP/master/VnCoreNLP-1.1.1.jar
+     !wget https://raw.githubusercontent.com/vncorenlp/VnCoreNLP/master/models/wordsegmenter/vi-vocab
+     !wget https://raw.githubusercontent.com/vncorenlp/VnCoreNLP/master/models/wordsegmenter/wordsegmenter.rdr
+
+     # Di chuyển vào đúng chỗ
+
+     !mv VnCoreNLP-1.1.1.jar vncorenlp/
+     !mv vi-vocab vncorenlp/models/wordsegmenter/
+     !mv wordsegmenter.rdr vncorenlp/models/wordsegmenter/
 
 ---
 
@@ -48,22 +82,21 @@ Sau khi cài đặt, có thể:
 root/
 ├── intent_classification/
 │   └── intent_classification_module.py      # Module Intent Classification
-│   └── best_model.pt                        # Checkpoint Intent Classification
-│   └── train.csv                            # File training intent classification
 │
 ├── ner/
-│   └── ner_module.py                        # Module NER
-│   └── trained_model                        # Checkpoint NER
-│   └── dataset1.txt                         # File training NER
+│   └── phobert_module.py                        # Module PhoBERT NER
+│   └── mbert_module                             # Module mBERT NER
+│   └── xlmr_module                              # Module XLM-R NER
 │
-├── main.py                                  # File chính để chạy toàn bộ pipeline
+├── main.py                                      # File chính để chạy toàn bộ pipeline
 │
 │
 ├── meeting-docs/                            #Tập các văn bản thử nghiệm
 │   └── meeting_001.txt
-│   └── .....  
-│── dataset/                                  
-│   └── dataset1.txt                         #dataset của ner để train
+│   └── .....
+│── dataset/
+│   └── dataset1.txt                         #dataset1 của ner để train
+│   └── dataset2.txt                         #dataset2 của ner để train
 │   └── train.csv                            #dataset của intent classification để train
 │
 └── README.md                                # File hướng dẫn này
@@ -118,13 +151,14 @@ vncorenlp = VnCoreNLP(
 
 ## Bước 3: Huấn luyện và lưu model NER
 
-Nếu chưa có thư mục `./ner/trained_model/`, chương trình `main.py` sẽ tự động gọi hàm `train_ner_model()`. Nếu muốn huấn luyện thủ công, có thể:
+Nếu chưa có thư mục `./trained_model_phobert/`, chương trình `main.py` sẽ tự động gọi hàm `train_ner_model()`. Nếu muốn huấn luyện thủ công, có thể:
 
 ```bash
-python -c "from ner_module import train_ner_model; train_ner_model('dataset1.txt', './ner/trained_model')"
+python -c "from phobert_module import train_ner_model; train_ner_model('dataset/dataset1.txt', './trained_model_phobert')"
 ```
 
-- Kết quả sẽ được lưu dưới `./trained_model/` bao gồm:
+- Kết quả sẽ được lưu dưới `./trained_model_phobert/` bao gồm:
+
   ```
   trained_model/
   ├── config.json
@@ -134,6 +168,8 @@ python -c "from ner_module import train_ner_model; train_ner_model('dataset1.txt
   ├── vocab.txt
   └── ...
   ```
+
+- Với các module của model khác cũng tương tự
 
 ---
 
@@ -150,7 +186,7 @@ python -c "from ner_module import train_ner_model; train_ner_model('dataset1.txt
    task_module.load_model()
    ```
 
-- Nếu bạn muốn tự train Intent Classification, hãy tham khảo phần code trong `extract_has_task_module.py` và chuẩn bị dữ liệu nhãn câu (task/no-task).
+- Nếu bạn muốn tự train Intent Classification, có thể chạy trực tiếp !python intentclassification.py
 
 ---
 
@@ -158,10 +194,10 @@ python -c "from ner_module import train_ner_model; train_ner_model('dataset1.txt
 
 Sau khi đã có:
 
-- **NER model** trong `./ner/trained_model/`
+- **NER model** trong `./trained_model_phobert/`
 - **Intent model** (checkpoint) tại `intentclassification/best_model.pt`
 - **VnCoreNLP** đã cài đặt đúng đường dẫn
-- **File biên bản** (ví dụ `vanbantest.txt`)
+- **File biên bản** (ví dụ `meeting-docs/meeting_001.txt`)
 
 Chạy:
 
