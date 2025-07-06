@@ -20,6 +20,7 @@ class TaskExtractionModule:
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model.to(self.device)
 
+    # Tiền xử lý huấn luyện
     def preprocess_text(self, text):
         text = text.lower()
         text = re.sub(r'[^\w\s]', '', text)

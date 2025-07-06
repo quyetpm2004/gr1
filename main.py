@@ -117,3 +117,53 @@ if __name__ == "__main__":
     # Close vncorenlp
     task_module.close()
     vncorenlp.close()
+
+# So sánh chất lượng công cụ
+# Chạy tất cả các file biên bản trong thư mục và lưu kết quả vào JSON và Excel để so sánh với Gemini 2.0
+# if __name__ == "__main__":
+
+#     MEETING_FOLDER = "/content/meetings/"
+#     JSON_LOG_FILE = "all_results.json"
+#     EXCEL_LOG_FILE = "my_all_results_output.xlsx"
+
+#     # Lấy danh sách tất cả file txt trong thư mục
+#     all_files = [
+#         os.path.join(MEETING_FOLDER, f)
+#         for f in os.listdir(MEETING_FOLDER)
+#         if f.lower().endswith(".txt")
+#     ]
+#     all_files.sort()  
+
+#     if os.path.exists(JSON_LOG_FILE):
+#         with open(JSON_LOG_FILE, "r", encoding="utf-8") as f:
+#             all_data = json.load(f)
+#     else:
+#         all_data = []
+
+#     # Loop qua từng file
+#     for idx, meeting_file in enumerate(all_files, 1):
+
+#         with open(meeting_file, "r", encoding="utf-8") as f:
+#             minutes_text = f.read()
+
+#         results = extract_entities_from_meeting_minutes(minutes_text)
+#         if not results:
+#             continue
+
+#         # Gắn tên source_file vào kết quả
+#         for r in results:
+#             r["source_file"] = os.path.basename(meeting_file)
+
+#         all_data.extend(results)
+
+#     # Lưu JSON tổng
+#     with open(JSON_LOG_FILE, "w", encoding="utf-8") as f:
+#         json.dump(all_data, f, ensure_ascii=False, indent=4)
+
+#     # Xuất Excel tổng
+#     df_all = pd.DataFrame(all_data)
+#     df_all.to_excel(EXCEL_LOG_FILE, index=False)
+
+#     # Đóng
+#     task_module.close()
+#     vncorenlp.close()

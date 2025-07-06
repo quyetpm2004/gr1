@@ -1078,6 +1078,8 @@ Fix login bug         Long              15/4       Mới tạo,0
 Tích hợp API backend	        Quân	            24/04	    Đang thực hiện,0
 Rà soát logic xử lý lỗi	        Hoa	            23/04	    Đã hoàn thành,0
 Người ghi biên bản: (ghi tên nếu cần), 0
+Công việc | Người phụ trách | Deadline | Trạng thái,0
+--- | --- | --- | ---,0
 Thêm hỗ trợ cho maintaining endpoints and địa chỉ space readiness for trung gian địa chỉ space | An | 08/06/2025 | Chưa bắt đầu,0
 Viết tài liệu về trung gian địa chỉ space | Bình | 09/06/2025 | Chưa bắt đầu,0
 Khởi tạo mẫu for trung gian địa chỉ space type in bộ điều khiển for trung gian địa chỉ space | Chi | 10/06/2025 | Chưa bắt đầu,0
@@ -1098,3 +1100,9 @@ Migrate build files to maven | Bình | 14/06/2025 | Chưa bắt đầu,0
 Kiểm thử hệ thống: trung gian: kiểm thử for particular supported features in trung gian địa chỉ space | Chi | 15/06/2025 | Chưa bắt đầu,0
 Kiểm thử hệ thống: trung gian: webgiao diện điều khiển kiểm thử | Dũng | 16/06/2025 | Chưa bắt đầu,0
 Address-bộ điều khiển is restarted with 'Error syncing pod' event and no additional info in log | An | 17/06/2025 | Chưa bắt đầu,0
+"Thời gian: 10:00 sáng, ngày 09/06/2025",0
+Lâm,0
+An,0
+Quang,0
+Bảo,0
+Huyển,0
